@@ -1,0 +1,151 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <TypeScriptCompileBlocked>true</TypeScriptCompileBlocked>
+    <TypeScriptToolsVersion>Latest</TypeScriptToolsVersion>
+    <IsPackable>false</IsPackable>
+    <SpaRoot>ClientApp\</SpaRoot>
+    <DefaultItemExcludes>$(DefaultItemExcludes);$(SpaRoot)node_modules\**</DefaultItemExcludes>
+
+    <!-- Set this to true if you enable server-side prerendering -->
+    <BuildServerSideRenderer>false</BuildServerSideRenderer>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Ci.ServerMap" Version="0.0.1" />
+    <PackageReference Include="iTextSharp" Version="5.5.13.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Extensions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.6" />
+    <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="3.1.22" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Net.Http.Server" Version="1.1.4" />
+    <PackageReference Include="MimeKit" Version="3.3.0" />
+    <PackageReference Include="MimeMapping" Version="1.0.1.12" />
+    <PackageReference Include="MimeTypeExtension" Version="1.0.28" />
+    <PackageReference Include="MimeTypeMap.List" Version="2.1.0" />
+    <PackageReference Include="MimeTypeMapOfficial" Version="1.0.17" />
+    <PackageReference Include="MimeTypesMap" Version="1.0.8" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.4.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+    <PackageReference Include="System.Drawing.Common" Version="6.0.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.20.0" />
+    <PackageReference Include="System.IO" Version="4.3.0" />
+    <PackageReference Include="System.Net.Http" Version="4.3.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Don't publish the SPA source files, but do show them in the project files list -->
+    <Compile Remove="ClientApp\src\app\masters\**" />
+    <Compile Remove="ClientApp\src\app\views\charts\**" />
+    <Content Remove="$(SpaRoot)**" />
+    <Content Remove="ClientApp\src\app\masters\**" />
+    <Content Remove="ClientApp\src\app\views\charts\**" />
+    <EmbeddedResource Remove="ClientApp\src\app\masters\**" />
+    <EmbeddedResource Remove="ClientApp\src\app\views\charts\**" />
+    <None Remove="$(SpaRoot)**" />
+    <None Remove="ClientApp\src\app\masters\**" />
+    <None Remove="ClientApp\src\app\views\charts\**" />
+    <None Include="$(SpaRoot)**" Exclude="$(SpaRoot)node_modules\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="ClientApp\src\app\model\Agency.ts" />
+    <None Remove="ClientApp\src\app\model\bol.ts" />
+    <None Remove="ClientApp\src\app\model\boldata.ts" />
+    <None Remove="ClientApp\src\app\model\booking.ts" />
+    <None Remove="ClientApp\src\app\model\common.ts" />
+    <None Remove="ClientApp\src\app\model\CustomerContract.ts" />
+    <None Remove="ClientApp\src\app\model\enquiry.ts" />
+    <None Remove="ClientApp\src\app\model\exportbooking.ts" />
+    <None Remove="ClientApp\src\app\model\Inventory.ts" />
+    <None Remove="ClientApp\src\app\model\logdata.ts" />
+    <None Remove="ClientApp\src\app\model\org.ts" />
+    <None Remove="ClientApp\src\app\model\Party.ts" />
+    <None Remove="ClientApp\src\app\model\Pdf.ts" />
+    <None Remove="ClientApp\src\app\model\PortTariff.ts" />
+    <None Remove="ClientApp\src\app\model\system.ts" />
+    <None Remove="ClientApp\src\app\model\systemadmin.ts" />
+    <None Remove="ClientApp\src\app\views\charts\charts.component.css" />
+    <None Remove="ClientApp\src\app\views\charts\charts.component.html" />
+    <None Remove="ClientApp\src\app\views\charts\charts.component.spec.ts" />
+    <None Remove="ClientApp\src\app\views\charts\charts.component.ts" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ClientApp\src\app\services\" />
+    <Folder Include="ClientApp\src\assets\pdfFiles\acl\" />
+    <Folder Include="ClientApp\src\assets\pdfFiles\cargoplan\" />
+    <Folder Include="ClientApp\src\assets\pdfFiles\hawk\" />
+    <Folder Include="ClientApp\src\assets\pdfFiles\mj\" />
+    <Folder Include="ClientApp\src\assets\pdfFiles\merchant\" />
+    <Folder Include="ClientApp\src\assets\pdfFiles\navio\" />
+    <Folder Include="ClientApp\src\assets\pdfFiles\cro\" />
+    <Folder Include="ClientApp\src\assets\pdfFiles\tarus\" />
+    <Folder Include="ClientApp\src\assets\pdfFiles\shipner\" />
+    <Folder Include="ClientApp\src\assets\pdfFiles\seahorse\" />
+    <Folder Include="BLLogos\" />
+    <Folder Include="pdfpath\BLPdf\" />
+    <Folder Include="UploadFolder\Attachments\" />
+    <Folder Include="UploadFolder\CusContract\" />
+    <Folder Include="UploadFolder\BkgDocs\" />
+    <Folder Include="UploadFolder\CustomerApproval\" />
+    <Folder Include="UploadFolder\ArrivalPDF\" />
+    <Folder Include="UploadFolder\CompanyLogo\" />
+    <Folder Include="UploadFolder\SurrenderBL\" />
+    <Folder Include="UploadFolder\ShippingBill\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataBaseFactory\DataBaseFactory.csproj" />
+    <ProjectReference Include="..\DataManager\DataManager.csproj" />
+    <ProjectReference Include="..\DataTier\DataTier.csproj" />
+    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <TypeScriptCompile Include="ClientApp\src\app\model\Agency.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\model\boldata.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\model\booking.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\model\common.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\model\CustomerContract.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\model\enquiry.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\model\exportbooking.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\model\Inventory.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\model\logdata.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\model\org.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\model\Party.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\model\Pdf.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\model\PortTariff.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\model\system.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\model\systemadmin.ts" />
+  </ItemGroup>
+
+  <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">
+    <!-- Ensure Node.js is installed -->
+    <Exec Command="node --version" ContinueOnError="true">
+      <Output TaskParameter="ExitCode" PropertyName="ErrorCode" />
+    </Exec>
+    <Error Condition="'$(ErrorCode)' != '0'" Text="Node.js is required to build and run this project. To continue, please install Node.js from https://nodejs.org/, and then restart your command prompt or IDE." />
+    <Message Importance="high" Text="Restoring dependencies using 'npm'. This may take several minutes..." />
+    <Exec WorkingDirectory="$(SpaRoot)" Command="npm install" />
+  </Target>
+
+  <Target Name="PublishRunWebpack" AfterTargets="ComputeFilesToPublish">
+    <!-- As part of publishing, ensure the JS resources are freshly built in production mode -->
+    
+
+    <!-- Include the newly-built files in the publish output -->
+    <ItemGroup>
+      <DistFiles Include="$(SpaRoot)dist\**; $(SpaRoot)dist-server\**" />
+      <DistFiles Include="$(SpaRoot)node_modules\**" Condition="'$(BuildServerSideRenderer)' == 'true'" />
+      <ResolvedFileToPublish Include="@(DistFiles->'%(FullPath)')" Exclude="@(ResolvedFileToPublish)">
+        <RelativePath>%(DistFiles.Identity)</RelativePath>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+        <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      </ResolvedFileToPublish>
+    </ItemGroup>
+  </Target>
+
+</Project>

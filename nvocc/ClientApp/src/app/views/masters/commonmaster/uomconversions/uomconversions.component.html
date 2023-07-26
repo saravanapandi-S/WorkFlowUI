@@ -1,0 +1,90 @@
+<div class="row headtitle">
+    <div class="col-md-9">
+        <h4>
+            UOM Conversions - Master            
+        </h4>
+    </div>
+    <div class="col-md-3 alrt">
+        <button type="button" class="btn btn-success btn-raised bmd-btn-edit btntop" (click)="onBack()"><i class="material-icons editicon">reply</i><div class="ripple-container"></div></button>
+    </div>
+</div>
+<form [formGroup]="UOMForm">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">                    
+                    <div class="col-md-12">
+                        <label class="str">UOM Code From</label>
+                        <select class="form-control my-select" id="ddlUOMFrom" formControlName="UOMFrom">
+                            <option *ngFor="let action of DsUOMValues" [value]="action.ID">
+                                {{action.UOMCode}}
+                            </option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">                    
+                    <div class="col-md-12">
+                        <label class="str">UOM Code To</label>
+                        <select class="form-control my-select" id="ddlUOMTo" formControlName="UOMTo">
+                            <option *ngFor="let action of DsUOMValues" [value]="action.ID">
+                                {{action.UOMCode}}
+                            </option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">                   
+                    <div class="col-md-12">
+                        <label class="str">Action</label>
+                        <select class="form-control my-select" id="ddlAction" formControlName="Action">
+                            <option *ngFor="let action of DsUOMActions" [value]="action.ID">
+                                {{action.UOMActions}}
+                            </option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">               
+                    <div class="col-md-12">
+                        <label class="str">Factor </label>
+                        <input type="text" name="Factor" autocomplete="off" formControlName="Factor" id="txtFactor" class="form-control">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">                  
+                    <div class="col-md-12">
+                        <label>Active</label>
+                        <select class="form-control my-select" id="ddlStatus" formControlName="Status">
+                            <option *ngFor="let status of statusvalues" [value]="status.value">
+                                {{status.viewValue}}
+                            </option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+       
+    <div class="row alogtop">
+        <div class="col-md-12 col-sm-12 col-lg-12 col-xl-12 alrt">
+            <button type="submit" (click)="onSubmit()" class="btn btn-primary btn-raised mb-0">Save</button>
+        </div>
+        <input type="hidden" id="HDRegId" ng-model="HDRegId" />
+    </div>
+   
+</form>

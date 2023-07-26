@@ -1,0 +1,235 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\nvocc\\nvocc.csproj": {}
+  },
+  "projects": {
+    "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\DataBaseFactory\\DataBaseFactory.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\DataBaseFactory\\DataBaseFactory.csproj",
+        "projectName": "DataBaseFactory",
+        "projectPath": "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\DataBaseFactory\\DataBaseFactory.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\Infrastructure\\Infrastructure.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\DataManager\\DataManager.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\DataManager\\DataManager.csproj",
+        "projectName": "DataManager",
+        "projectPath": "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\DataManager\\DataManager.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\DataBaseFactory\\DataBaseFactory.csproj": {
+                "projectPath": "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\DataBaseFactory\\DataBaseFactory.csproj"
+              },
+              "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\DataTier\\DataTier.csproj": {
+                "projectPath": "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\DataTier\\DataTier.csproj"
+              },
+              "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\Infrastructure\\Infrastructure.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\DataTier\\DataTier.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\DataTier\\DataTier.csproj",
+        "projectName": "DataTier",
+        "projectPath": "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\DataTier\\DataTier.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\Infrastructure\\Infrastructure.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\Infrastructure\\Infrastructure.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\nvocc\\nvocc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\nvocc\\nvocc.csproj",
+        "projectName": "nvocc",
+        "projectPath": "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\nvocc\\nvocc.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\nvocc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\DataBaseFactory\\DataBaseFactory.csproj": {
+                "projectPath": "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\DataBaseFactory\\DataBaseFactory.csproj"
+              },
+              "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\DataManager\\DataManager.csproj": {
+                "projectPath": "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\DataManager\\DataManager.csproj"
+              },
+              "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\DataTier\\DataTier.csproj": {
+                "projectPath": "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\DataTier\\DataTier.csproj"
+              },
+              "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\Infrastructure\\Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Ci.ServerMap": {
+              "target": "Package",
+              "version": "[0.0.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Extensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.AspNetCore.SpaServices.Extensions": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Net.Http.Server": {
+              "target": "Package",
+              "version": "[1.1.4, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "MimeMapping": {
+              "target": "Package",
+              "version": "[1.0.1.12, )"
+            },
+            "MimeTypeExtension": {
+              "target": "Package",
+              "version": "[1.0.28, )"
+            },
+            "MimeTypeMap.List": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MimeTypeMapOfficial": {
+              "target": "Package",
+              "version": "[1.0.17, )"
+            },
+            "MimeTypesMap": {
+              "target": "Package",
+              "version": "[1.0.8, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.IO": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.20.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

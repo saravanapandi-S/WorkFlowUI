@@ -1,0 +1,283 @@
+<div class="row headtitle">
+    <div class="col-md-9">
+        <h4>Instance Profile </h4>
+    </div>
+    <div class="col-md-3 alrt">
+        <button type="button" class="btn btn-success btn-raised bmd-btn-edit btntop" [routerLink]="['/views/masters/instanceprofile/instanceprofile']"><i class="material-icons editicon">reply</i><div class="ripple-container"></div></button>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <div class="row enquirynav">
+            <div class="col-md-12">
+                <ul class="nav nav-pills nav-justified" role="tablist">
+                    <li class="nav-item waves-effect waves-light">
+                        <a class="nav-link active" data-toggle="tab" (click)="btntabclick(1)" role="tab" aria-selected="true">
+                            Company Details
+                        </a>
+                    </li>
+                    <li class="nav-item waves-effect waves-light">
+                        <a class="nav-link " data-toggle="tab" (click)="btntabclick(2)" role="tab" aria-selected="false">
+                            Client Management
+                        </a>
+                    </li>
+                    <li class="nav-item waves-effect waves-light">
+                        <a class="nav-link" data-toggle="tab" (click)="btntabclick(3)" role="tab" aria-selected="false">
+                            Configuration
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<form [formGroup]="InstanceForm">
+    <div class="row bolpage">
+        <div class="col-md-12 col-lg-12">
+            <div class="tab-content">
+                <div class="tab-pane pt-3 active show" role="tabpanel">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <div class="form-group">
+                                <div class="row">
+
+
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <label class="str">
+                                                        Company Name
+                                                    </label>
+                                                    <input class="form-control" type="text" id="txtCompanyName" name="CompanyName" formControlName="CompanyName" autocomplete="off" />
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <label class="str">
+                                                        Company Short Name
+                                                    </label>
+                                                    <input class="form-control" type="text" id="txtCompanyCode" name="CompanyCode" formControlName="CompanyCode" autocomplete="off" />
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <label class="str">
+                                                        Address
+                                                    </label>
+                                                    <textarea id="txtAddress" class="form-control" autocomplete="off" rows="5" style="height:100px!important;" name="CompanyCode" formControlName="Address"></textarea>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <label  class="str">
+                                                        Country
+                                                    </label>
+                                                    <select class="form-control my-select" id="ddlCountry" formControlName="CountryID">
+                                                        <option *ngFor="let gRow of dscountryItem" [value]="gRow.ID">
+                                                            {{gRow.Country}}
+                                                        </option>
+
+                                                    </select>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <label  class="str">
+                                                        City
+                                                    </label>
+                                                    <select class="form-control my-select" formControlName="CityID" id="ddlCity">
+                                                        <option *ngFor="let gRow of dscityItem" [value]="gRow.ID"> {{gRow.City}}</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <label >
+                                                        P.O Box
+                                                    </label>
+                                                    <input class="form-control" type="text" id="txtPOBox" name="POBox" formControlName="POBox" autocomplete="off" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <label class="str">
+                                                        Zip Code
+                                                    </label>
+                                                    <input class="form-control" type="text" id="txtZipCode" name="ZipCode" formControlName="ZipCode" autocomplete="off" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <label class="str">
+                                                        Telephone (1)
+                                                    </label>
+                                                    <input class="form-control" type="text" id="txtTelePhone1" name="TelePhone1" formControlName="TelePhone1" autocomplete="off" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <label>
+                                                        Telephone (2)
+                                                    </label>
+                                                    <input class="form-control" type="text" id="txtTelePhone2" name="TelePhone2" formControlName="TelePhone2" autocomplete="off" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <label class="str">
+                                                        Email
+                                                    </label>
+                                                    <input class="form-control" type="text" id="txtEmailID" name="EmailID" formControlName="EmailID" autocomplete="off" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <label>
+                                                        URL
+                                                    </label>
+                                                    <input class="form-control" type="text" id="txtURL" name="URL" formControlName="URL" autocomplete="off" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+
+
+                            <div class="col-md-12">
+                                <label>Logo</label>
+                                <div class="col-md-12" style="height: 10rem !important; border: 2px solid #9e9e9e!important; margin-bottom: 2rem!important;">
+                                    <!--<input type="file" id="txtAttachFile" formControlName="FileName" (change)="onFileSelected($event)">-->
+                                    <!--<img id="imgsrc" />-->
+                                    <!--<button class="btn btn-primary btn-raised mb-0" (click)="onUpload()">Upload</button>-->
+                                </div>
+
+                            </div>
+
+                            <div class="row" style="background-color: #f6f6f6; padding-left: 1rem; padding-right: 1rem; padding-top: 0.5rem;">
+                                <div class="col-md-12">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <h4 style="text-align: center; font-weight: 600; ">Contact Details</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <label class="str">
+                                                    Contact Name
+                                                </label>
+                                                <input class="form-control" type="text" id="txtContactName" name="ContactName" formControlName="ContactName" autocomplete="off" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <label class="str">
+                                                    Designation
+                                                </label>
+                                                <input class="form-control" type="text" id="txtDesignation" name="Designation" formControlName="Designation" autocomplete="off" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <label class="str">
+                                                    Email
+                                                </label>
+                                                <input class="form-control" type="text" id="txtContactEmailID" name="ContactEmailID" formControlName="ContactEmailID" autocomplete="off" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <label class="str">
+                                                    Mobile
+                                                </label>
+                                                <input class="form-control" type="text" id="txtMobileNo" name="MobileNo" formControlName="MobileNo" autocomplete="off" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="col-md-12 alrt">
+            <button type="submit" (click)="onSubmit()" class="btn btn-primary btn-raised mb-0">Save</button>
+        </div>
+        <input type="hidden" id="HDRegId" ng-model="HDRegId" />
+    </div>
+</form>

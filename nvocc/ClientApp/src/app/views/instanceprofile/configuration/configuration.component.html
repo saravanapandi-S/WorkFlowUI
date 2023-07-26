@@ -1,0 +1,228 @@
+<div class="row headtitle">
+    <div class="col-md-9">
+        <h4>Instance Profile </h4>
+    </div>
+    <div class="col-md-3 alrt">
+        <button type="button" class="btn btn-success btn-raised bmd-btn-edit btntop" [routerLink]="['/views/masters/instanceprofile/instanceprofile']"><i class="material-icons editicon">reply</i><div class="ripple-container"></div></button>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <div class="row enquirynav">
+            <div class="col-md-12">
+                <ul class="nav nav-pills nav-justified" role="tablist">
+                    <li class="nav-item waves-effect waves-light">
+                        <a class="nav-link " data-toggle="tab" (click)="btntabclick(1)" role="tab" aria-selected="true">
+                            Company Details
+                        </a>
+                    </li>
+                    <li class="nav-item waves-effect waves-light">
+                        <a class="nav-link " data-toggle="tab" (click)="btntabclick(2)" role="tab" aria-selected="false">
+                            Client Management
+                        </a>
+                    </li>
+                    <li class="nav-item waves-effect waves-light">
+                        <a class="nav-link active" data-toggle="tab" (click)="btntabclick(3)" role="tab" aria-selected="false">
+                            Configuration
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<form [formGroup]="ConfigForm">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="row forms">
+                <div class="col-md-12 padlr0">
+
+                    <div class="tab-content" style="padding:0;">
+                        <div class="tab-pane pt-3 active show" id="Enquiry" role="tabpanel">
+                            <div class="col-md-12">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <h4 class="enqtitle">
+                                            System eMail Configuration
+                                        </h4>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <div class="row">
+
+                                                <div class="col-md-12">
+                                                    <div class="form-group">
+                                                        <div class="row">
+                                                            <div class="col-md-4">
+                                                                <div class="form-group">
+                                                                    <div class="row">
+                                                                        <div class="col-md-12">
+                                                                            <label>Protocol</label>
+                                                                        </div>
+                                                                        <!--<div class="col-md-12">
+                                                                            <label class="check">
+                                                                                SMTP
+                                                                            </label>
+                                                                            <input class="form-check-input" type="radio" id="IsSMTPS" [value]="1" formControlName="IsSMTPS" name="IsSMTPS">
+                                                                            <label class="check">
+                                                                                <input class="form-check-input" type="radio" id="IsSMTPS" [value]="2" formControlName="IsSMTPS" name="IsSMTPS">
+                                                                                <span>SMTPS</span>
+                                                                            </label>
+                                                                        </div>-->
+                                                                        <div class="col-md-12">
+                                                                            <div class="row">
+                                                                                <div class="col-md-4" style="left: 20px;">
+                                                                                    <input class="form-check-input" type="radio" id="IsSMTPS" [value]="1" formControlName="IsSMTPS" name="IsSMTPS">
+                                                                                    <label>SMTP</label>
+                                                                                </div>
+
+                                                                                <div class="col-md-4">
+                                                                                    <input class="form-check-input" type="radio" id="IsSMTPS" [value]="2" formControlName="IsSMTPS" name="IsSMTPS">
+                                                                                    <label>SMTPS</label>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-4">
+                                                                <div class="form-group">
+                                                                    <div class="row">
+                                                                        <div class="col-md-12">
+                                                                            <label>
+                                                                                Security Mode
+                                                                            </label>
+                                                                        </div>
+                                                                        <div class="col-md-12">
+                                                                            <div class="row">
+                                                                                <div class="col-md-4" style="left: 20px;">
+                                                                                    <input class="form-check-input" type="radio" id="IsSSLTLS" [value]="1" formControlName="IsSSLTLS" name="IsSSLTLS">
+                                                                                    <label>SSL</label>
+                                                                                </div>
+
+                                                                                <div class="col-md-4">
+                                                                                    <input class="form-check-input" type="radio" id="IsSSLTLS" [value]="2" formControlName="IsSSLTLS" name="IsSSLTLS">
+                                                                                    <label>TLS</label>
+                                                                                </div>
+
+                                                                            </div>
+                                                                        </div>
+
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="col-md-4">
+                                                                <div class="form-group">
+                                                                    <div class="row">
+                                                                        <div class="col-md-12">
+                                                                            <label class="str">
+                                                                                Host Name
+                                                                            </label>
+                                                                            <input class="form-control" type="text" id="txtHostName" name="HostName" formControlName="HostName" autocomplete="off" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-4">
+                                                                <div class="form-group">
+                                                                    <div class="row">
+                                                                        <div class="col-md-12">
+                                                                            <label class="str">
+                                                                                Port
+                                                                            </label>
+                                                                            <input class="form-control" type="number" id="txtIPPort" name="IPPort" formControlName="IPPort" autocomplete="off" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="col-md-4">
+                                                                <div class="form-group">
+                                                                    <div class="row">
+                                                                        <div class="col-md-12">
+                                                                            <label>
+                                                                                Sender Id
+                                                                            </label>
+                                                                            <input class="form-control" type="text" id="txtSenderID" name="SenderID" formControlName="SenderID" autocomplete="off" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-4">
+                                                                <div class="form-group">
+                                                                    <div class="row">
+                                                                        <div class="col-md-12">
+                                                                            <label>
+                                                                                Password
+                                                                            </label>
+                                                                            <input class="form-control" type="password" id="txtPassword" name="Password" formControlName="Password" autocomplete="off" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="col-md-4">
+                                                                <div class="form-group">
+                                                                    <div class="row">
+                                                                        <div class="col-md-12">
+                                                                            <label>
+                                                                                Max Size Per Attachment (in MBs):
+                                                                            </label>
+                                                                            <input class="form-control" type="text" id="txtMBSize" name="MBSize" formControlName="MBSize" autocomplete="off" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-4">
+                                                                <div class="form-group">
+                                                                    <div class="row">
+                                                                        <div class="col-md-12">
+                                                                            <label>
+                                                                                Max Number of Attachments
+                                                                            </label>
+                                                                            <input class="form-control" type="text" id="txtMaxNoAttachs" name="MaxNoAttachs" formControlName="MaxNoAttachs" autocomplete="off" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="col-md-4">
+                                                                <div class="form-group">
+                                                                    <div class="row">
+                                                                        <div class="col-md-12">
+                                                                            <label>
+                                                                                Max Size of All Attachments (in MBs):
+                                                                            </label>
+                                                                            <input class="form-control" type="text" id="txtMaxNoAllAttachs" name="MaxSizeAllAttachs" formControlName="MaxSizeAllAttachs" autocomplete="off" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row alogtop">
+        <div class="col-md-12 alrt">
+            <button type="submit" (click)="OnSubmitTest()" class="btn btn-info btn-raised mb-0">Test Connection</button>
+            <button type="submit" (click)="onSubmitConfig()" class="btn btn-primary btn-raised cntrbtn mb-0 ">Save</button>
+        </div>
+        <input type="hidden" id="HDRegId" ng-model="HDRegId" />
+    </div>
+</form>

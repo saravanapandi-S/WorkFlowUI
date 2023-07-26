@@ -1,0 +1,1 @@
+{"version":3,"file":"select-autocomplete.service.d.ts","sources":["select-autocomplete.service.d.ts"],"names":[],"mappings":";AAAA;AACA;;;AACA","sourcesContent":["export declare class SelectAutocompleteService {\n    constructor();\n}\n"]}

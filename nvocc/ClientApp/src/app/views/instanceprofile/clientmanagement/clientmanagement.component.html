@@ -1,0 +1,32 @@
+<div class="row headtitle">
+    <div class="col-md-12">
+        <h4>Instance Profile </h4>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <div class="row enquirynav">
+            <div class="col-md-12">
+                <ul class="nav nav-pills nav-justified" role="tablist">
+                    <li class="nav-item waves-effect waves-light">
+                        <a class="nav-link " data-toggle="tab" (click)="btntabclick(1)" role="tab" aria-selected="true">
+                            Company Details
+                        </a>
+                    </li>
+                    <li class="nav-item waves-effect waves-light">
+                        <a class="nav-link active" data-toggle="tab" (click)="btntabclick(2)" role="tab" aria-selected="false">
+                            Client Management
+                        </a>
+                    </li>
+                    <li class="nav-item waves-effect waves-light">
+                        <a class="nav-link" data-toggle="tab" (click)="btntabclick(3)" role="tab" aria-selected="false">
+                            Configuration
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<form [formGroup]="ClientForm">
+    </form>

@@ -1,0 +1,81 @@
+<div class="row headtitle">
+    <div class="col-md-9">
+        <h4>Shipment Locations</h4>
+    </div>
+    <div class="col-md-3 alrt">
+        <button type="button" class="btn btn-success btn-raised bmd-btn-edit btntop" (click)="onBack()"><i class="material-icons editicon">reply</i><div class="ripple-container"></div></button>
+    </div>
+</div>
+<form [formGroup]="ShipmentForm">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="str">Location Code</label>
+                        <input type="text" name="LocationCode" autocomplete="off" id="txtLocationCode" formControlName="LocationCode" class="form-control">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="str">Location Name</label>
+                        <input type="text" name="Location" autocomplete="off" id="txtLocation" formControlName="Location" class="form-control">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="str">Country </label>
+                        <select class="form-control my-select" id="ddlCountryv" formControlName="CountryID">
+                            <option *ngFor="let gRow of dscountryItem" [value]="gRow.ID">
+                                {{gRow.CountryName}}
+                            </option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="str">City</label>
+                        <select class="form-control my-select" formControlName="CityID" id="ddlcity">
+                            <option *ngFor="let gRow of dscityItem" [value]="gRow.ID">
+                            {{gRow.City}}</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Active</label>
+                        <select class="form-control my-select" id="ddlStatus" formControlName="status">
+                            <option *ngFor="let status of statusvalues" [value]="status.value">
+                                {{status.viewValue}}
+                            </option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row alogtop">
+        <div class="col-md-12 col-sm-12 col-lg-12 col-xl-12 alrt">
+            <button type="submit" (click)="onSubmit()" class="btn btn-primary btn-raised mb-0">Save</button>
+        </div>
+        <input type="hidden" id="HDRegId" ng-model="HDRegId" />
+    </div>
+
+</form>

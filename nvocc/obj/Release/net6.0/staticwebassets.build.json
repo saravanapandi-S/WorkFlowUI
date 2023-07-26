@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "fjNIZCS47+sqtUA550ak1UbjwQ94lg/9eSR7QmCDYzM=",
+  "Source": "nvocc",
+  "BasePath": "_content/nvocc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "nvocc\\wwwroot",
+      "Source": "nvocc",
+      "ContentRoot": "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\nvocc\\wwwroot\\",
+      "BasePath": "_content/nvocc",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\nvocc\\wwwroot\\favicon.ico",
+      "SourceId": "nvocc",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Office_Files\\Projects\\ODAK\\Clients\\ODAKERP_18Apr2023\\odaksa\\nvocc\\nvocc\\wwwroot\\",
+      "BasePath": "_content/nvocc",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

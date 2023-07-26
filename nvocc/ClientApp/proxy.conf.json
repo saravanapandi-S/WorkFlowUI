@@ -1,0 +1,7 @@
+{
+  "/api": {
+    //"target": "odaksa.odaksolutions.com",
+    "target": "odaksaqa.odaksolutions.in",
+    "secure": false
+  }
+}

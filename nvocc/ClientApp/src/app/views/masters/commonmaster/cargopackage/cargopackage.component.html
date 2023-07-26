@@ -1,0 +1,56 @@
+<div class="row headtitle">
+    <div class="col-md-9">
+        <h4>Cargo Package Master</h4>
+    </div>
+    <div class="col-md-3 alrt">
+        <button type="button" class="btn btn-success bmd-btn-edit btn-raised btntop" (click)="onBack()"><i class="material-icons editicon">reply</i><div class="ripple-container"></div></button>
+    </div>
+</div>
+
+<form [formGroup]="cargoForm">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="str">Package Code</label>
+                        <input type="text" name="PkgCode" autocomplete="off" formControlName="PkgCode" id="txtPkgCode" ng-model="txtPkgCode" class="form-control">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="str">Package Description</label>
+                        <input type="text" name="PkgDescription" autocomplete="off" formControlName="PkgDescription" id="txtPkgDesc" ng-model="txtPkgDesc" class="form-control">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-12 input-field">
+                        <label>Active</label>
+                        <select name="Status" formControlName="Status" id="ddlStatus" class="form-control my-select">
+                            <option *ngFor="let status of statusvalues" [value]="status.value">
+                                {{status.viewValue}}
+                            </option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="row alogtop">
+        <div class="col-md-12 col-sm-12 col-lg-12 col-xl-12 alrt">
+            <button type="submit" (click)="onSubmit()" class="btn btn-primary btn-raised mb-0">Save</button>
+        </div>
+        <input type="hidden" id="HDRegId" ng-model="HDRegId" />
+    </div>
+
+</form>

@@ -1,0 +1,35 @@
+.mat-expansion-panel
+{
+    background:transparent;
+    box-shadow:none!important;
+    border-radius:unset!important;
+}
+.mat-expansion-panel-header
+{
+    height:38px!important;
+}
+.mat-expansion-panel-body {
+    padding: 0 0px 16px!important;
+}
+/*.mat-expansion-panel-header-title {
+    color: #fff !important;
+}*/
+    .mat-expansion-panel-header-title[_ngcontent-ng-cli-universal-c0] {
+        color: #fff !important;
+        font-weight:bold!important;
+    }
+.mat-expansion-panel-header.dashboard {
+    /*   background-color: #4558be;*/
+    background-color: transparent;
+    height: 37px !important;
+}
+    .mat-expansion-panel-header.dashboard .mat-expansion-panel-header-title a {
+        color: #fff!important;
+    }
+        .mat-expansion-panel-header.dashboard .mat-expansion-panel-header-title a .mat-icon
+        {
+            font-size:21px;
+        }
+        .mat-expansion-panel-header-description, .mat-expansion-panel-header-title {
+           /* color: #fff;*/
+        }

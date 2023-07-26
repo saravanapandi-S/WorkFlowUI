@@ -1,0 +1,1687 @@
+D:\SunDoc\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\SunDoc\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\SunDoc\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\SunDoc\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\SunDoc\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\SunDoc\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\SunDoc\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\WebApplication\SunDoc\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\SunDoc\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\SunDoc\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\WebApplication\SunDoc\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\WebApplication\SunDoc\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\WebApplication\SunDoc\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\WebApplication\SunDoc\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\Doors\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Doors\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Doors\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Doors\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Doors\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\Doors\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Doors\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\MechanicalToolsCatalogue\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\MechanicalToolsCatalogue\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\MechanicalToolsCatalogue\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\WebApplication\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\WebApplication\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\WebApplication\MechanicalToolsCatalogue\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\WebApplication\MechanicalToolsCatalogue\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\WebApplication\MechanicalToolsCatalogue\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\WebApplication\Olympic Software\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\Olympic Software\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\Olympic Software\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\WebApplication\Olympic Software\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\WebApplication\Olympic Software\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\WebApplication\Olympic Software\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\WebApplication\Olympic Software\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+F:\Software\Olympic Software\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+F:\Software\Olympic Software\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+F:\Software\Olympic Software\DataBaseFactory\bin\Debug\Infrastructure.dll
+F:\Software\Olympic Software\DataBaseFactory\bin\Debug\Infrastructure.pdb
+F:\Software\Olympic Software\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+F:\Software\Olympic Software\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+F:\Software\Olympic Software\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+F:\Software\Matrimonial\MatrimonialApplications\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+F:\Software\Matrimonial\MatrimonialApplications\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+F:\Software\Matrimonial\MatrimonialApplications\DataBaseFactory\bin\Debug\Infrastructure.dll
+F:\Software\Matrimonial\MatrimonialApplications\DataBaseFactory\bin\Debug\Infrastructure.pdb
+F:\Software\Matrimonial\MatrimonialApplications\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+F:\Software\Matrimonial\MatrimonialApplications\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+F:\Software\Matrimonial\MatrimonialApplications\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\WebApplication\PlaySchools\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\PlaySchools\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\PlaySchools\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\WebApplication\PlaySchools\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\WebApplication\PlaySchools\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\WebApplication\PlaySchools\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\WebApplication\PlaySchools\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\WebApplication\Majestic Project\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\Majestic Project\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\Majestic Project\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\WebApplication\Majestic Project\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\WebApplication\Majestic Project\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\WebApplication\Majestic Project\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\WebApplication\Majestic Project\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\WebApplication\KumarBuilders\Majestic Project\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\KumarBuilders\Majestic Project\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\KumarBuilders\Majestic Project\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\WebApplication\KumarBuilders\Majestic Project\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\WebApplication\KumarBuilders\Majestic Project\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\WebApplication\KumarBuilders\Majestic Project\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\WebApplication\KumarBuilders\Majestic Project\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\WebApplication\KumarBuilders\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\KumarBuilders\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\KumarBuilders\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\WebApplication\KumarBuilders\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\WebApplication\KumarBuilders\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\WebApplication\KumarBuilders\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\WebApplication\KumarBuilders\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\WebApplication\SGA\SGA\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\SGA\SGA\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\SGA\SGA\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\WebApplication\SGA\SGA\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\WebApplication\SGA\SGA\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\WebApplication\SGA\SGA\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\WebApplication\SGA\SGA\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\WebApplication\ENav\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\ENav\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\ENav\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\WebApplication\ENav\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\WebApplication\ENav\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\WebApplication\ENav\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\WebApplication\ENav\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\WebApplication\ENav1\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\ENav1\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\ENav1\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\WebApplication\ENav1\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\WebApplication\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\WebApplication\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\WebApplication\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+E:\Server backup\ENav1\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+E:\Server backup\ENav1\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+E:\Server backup\ENav1\DataBaseFactory\bin\Debug\Infrastructure.dll
+E:\Server backup\ENav1\DataBaseFactory\bin\Debug\Infrastructure.pdb
+E:\Server backup\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+E:\Server backup\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+E:\Server backup\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+C:\Users\Muthu\Desktop\navio web\ENav1\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+C:\Users\Muthu\Desktop\navio web\ENav1\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+C:\Users\Muthu\Desktop\navio web\ENav1\DataBaseFactory\bin\Debug\Infrastructure.dll
+C:\Users\Muthu\Desktop\navio web\ENav1\DataBaseFactory\bin\Debug\Infrastructure.pdb
+C:\Users\Muthu\Desktop\navio web\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+C:\Users\Muthu\Desktop\navio web\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+C:\Users\Muthu\Desktop\navio web\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+E:\Server backup\navioGST web\ENav1\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+E:\Server backup\navioGST web\ENav1\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+E:\Server backup\navioGST web\ENav1\DataBaseFactory\bin\Debug\Infrastructure.dll
+E:\Server backup\navioGST web\ENav1\DataBaseFactory\bin\Debug\Infrastructure.pdb
+E:\Server backup\navioGST web\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+E:\Server backup\navioGST web\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+E:\Server backup\navioGST web\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+E:\Server backup\Navio_Customer\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+E:\Server backup\Navio_Customer\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+E:\Server backup\Navio_Customer\DataBaseFactory\bin\Debug\Infrastructure.dll
+E:\Server backup\Navio_Customer\DataBaseFactory\bin\Debug\Infrastructure.pdb
+E:\Server backup\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+E:\Server backup\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+E:\Server backup\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\Navio_Customer\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Navio_Customer\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Navio_Customer\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Navio_Customer\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+C:\Users\CUCOR\Desktop\Navio_Customer\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+C:\Users\CUCOR\Desktop\Navio_Customer\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+C:\Users\CUCOR\Desktop\Navio_Customer\DataBaseFactory\bin\Debug\Infrastructure.dll
+C:\Users\CUCOR\Desktop\Navio_Customer\DataBaseFactory\bin\Debug\Infrastructure.pdb
+C:\Users\CUCOR\Desktop\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+C:\Users\CUCOR\Desktop\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+C:\Users\CUCOR\Desktop\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+C:\Users\CUCOR\Desktop\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+C:\Users\CUCOR\Desktop\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+E:\Navio_Customer\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+E:\Navio_Customer\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+E:\Navio_Customer\DataBaseFactory\bin\Debug\Infrastructure.dll
+E:\Navio_Customer\DataBaseFactory\bin\Debug\Infrastructure.pdb
+E:\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+E:\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+E:\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+E:\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+E:\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+E:\Navio-MVC_Customer\Navio_Software\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+E:\Navio-MVC_Customer\Navio_Software\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+E:\Navio-MVC_Customer\Navio_Software\DataBaseFactory\bin\Debug\Infrastructure.dll
+E:\Navio-MVC_Customer\Navio_Software\DataBaseFactory\bin\Debug\Infrastructure.pdb
+E:\Navio-MVC_Customer\Navio_Software\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+E:\Navio-MVC_Customer\Navio_Software\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+E:\Navio-MVC_Customer\Navio_Software\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+E:\Navio-MVC_Customer\Navio_Software\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+E:\Navio-MVC_Customer\Navio_Software\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+E:\Navio-Product\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+E:\Navio-Product\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+E:\Navio-Product\DataBaseFactory\bin\Debug\Infrastructure.dll
+E:\Navio-Product\DataBaseFactory\bin\Debug\Infrastructure.pdb
+E:\Navio-Product\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+E:\Navio-Product\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+E:\Navio-Product\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+E:\Navio-Product\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+E:\Navio-Product\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csprojAssemblyReference.cache
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csprojAssemblyReference.cache
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\Infrastructure.dll
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\Infrastructure.pdb
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csprojAssemblyReference.cache
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\NVOC\NVOCShipping\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\NVOC\NVOCShipping\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\NVOC\NVOCShipping\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\NVOC\NVOCShipping\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\NVOC\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.csprojAssemblyReference.cache
+D:\NVOC\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\NVOC\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\NVOC\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\NVOC\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataBaseFactory\bin\Debug\Infrastructure.dll
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataBaseFactory\bin\Debug\Infrastructure.pdb
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.csprojAssemblyReference.cache
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+F:\NeridaShipping_Mvc\Backup\anand_backup_19042021\NVOCShipping\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+F:\NeridaShipping_Mvc\Backup\anand_backup_19042021\NVOCShipping\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+F:\NeridaShipping_Mvc\Backup\anand_backup_19042021\NVOCShipping\DataBaseFactory\bin\Debug\Infrastructure.dll
+F:\NeridaShipping_Mvc\Backup\anand_backup_19042021\NVOCShipping\DataBaseFactory\bin\Debug\Infrastructure.pdb
+F:\NeridaShipping_Mvc\Backup\anand_backup_19042021\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.csprojAssemblyReference.cache
+F:\NeridaShipping_Mvc\Backup\anand_backup_19042021\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+F:\NeridaShipping_Mvc\Backup\anand_backup_19042021\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+F:\NeridaShipping_Mvc\Backup\anand_backup_19042021\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+F:\NeridaShipping_Mvc\Backup\anand_backup_19042021\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+F:\NeridaShipping_Mvc\Backup\anand_backup_19042021\Menu\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+F:\NeridaShipping_Mvc\Backup\anand_backup_19042021\Menu\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+F:\NeridaShipping_Mvc\Backup\anand_backup_19042021\Menu\DataBaseFactory\bin\Debug\Infrastructure.dll
+F:\NeridaShipping_Mvc\Backup\anand_backup_19042021\Menu\DataBaseFactory\bin\Debug\Infrastructure.pdb
+F:\NeridaShipping_Mvc\Backup\anand_backup_19042021\Menu\DataBaseFactory\obj\Debug\DataBaseFactory.csprojAssemblyReference.cache
+F:\NeridaShipping_Mvc\Backup\anand_backup_19042021\Menu\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+F:\NeridaShipping_Mvc\Backup\anand_backup_19042021\Menu\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+F:\NeridaShipping_Mvc\Backup\anand_backup_19042021\Menu\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+F:\NeridaShipping_Mvc\Backup\anand_backup_19042021\Menu\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+F:\Menu\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+F:\Menu\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+F:\Menu\DataBaseFactory\bin\Debug\Infrastructure.dll
+F:\Menu\DataBaseFactory\bin\Debug\Infrastructure.pdb
+F:\Menu\DataBaseFactory\obj\Debug\DataBaseFactory.csprojAssemblyReference.cache
+F:\Menu\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+F:\Menu\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+F:\Menu\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+F:\Menu\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+E:\ANAND\MyProjects\Neri\NeridaSoftware\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+E:\ANAND\MyProjects\Neri\NeridaSoftware\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+E:\ANAND\MyProjects\Neri\NeridaSoftware\DataBaseFactory\bin\Debug\Infrastructure.dll
+E:\ANAND\MyProjects\Neri\NeridaSoftware\DataBaseFactory\bin\Debug\Infrastructure.pdb
+E:\ANAND\MyProjects\Neri\NeridaSoftware\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+E:\ANAND\MyProjects\Neri\NeridaSoftware\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+E:\ANAND\MyProjects\Neri\NeridaSoftware\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+E:\ANAND\MyProjects\Neri\NeridaSoftware\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+E:\ANAND\MyProjects\Neri\NeridaSoftware\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\Anand_Lap\RMJ\NeridaSoftware\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Anand_Lap\RMJ\NeridaSoftware\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Anand_Lap\RMJ\NeridaSoftware\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Anand_Lap\RMJ\NeridaSoftware\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Anand_Lap\RMJ\NeridaSoftware\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+D:\Anand_Lap\RMJ\NeridaSoftware\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\Anand_Lap\RMJ\NeridaSoftware\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\Anand_Lap\RMJ\NeridaSoftware\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Anand_Lap\RMJ\NeridaSoftware\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+E:\ANAND\Nerida\NeridaSoftware\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+E:\ANAND\Nerida\NeridaSoftware\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+E:\ANAND\Nerida\NeridaSoftware\DataBaseFactory\bin\Debug\Infrastructure.dll
+E:\ANAND\Nerida\NeridaSoftware\DataBaseFactory\bin\Debug\Infrastructure.pdb
+E:\ANAND\Nerida\NeridaSoftware\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+E:\ANAND\Nerida\NeridaSoftware\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+E:\ANAND\Nerida\NeridaSoftware\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+E:\ANAND\Nerida\NeridaSoftware\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+E:\ANAND\Nerida\NeridaSoftware\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+E:\ANAND\Nerida\Nerida_Agent\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+E:\ANAND\Nerida\Nerida_Agent\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+E:\ANAND\Nerida\Nerida_Agent\DataBaseFactory\bin\Debug\Infrastructure.dll
+E:\ANAND\Nerida\Nerida_Agent\DataBaseFactory\bin\Debug\Infrastructure.pdb
+E:\ANAND\Nerida\Nerida_Agent\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+E:\ANAND\Nerida\Nerida_Agent\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+E:\ANAND\Nerida\Nerida_Agent\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+E:\ANAND\Nerida\Nerida_Agent\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+E:\ANAND\Nerida\Nerida_Agent\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+E:\ANAND\Nerida\Nerida_muthuLates_13122021\Nerida _Agent_12-13-2021 MMDDYY\Nerida_Agent\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+E:\ANAND\Nerida\Nerida_muthuLates_13122021\Nerida _Agent_12-13-2021 MMDDYY\Nerida_Agent\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+E:\ANAND\Nerida\Nerida_muthuLates_13122021\Nerida _Agent_12-13-2021 MMDDYY\Nerida_Agent\DataBaseFactory\bin\Debug\Infrastructure.dll
+E:\ANAND\Nerida\Nerida_muthuLates_13122021\Nerida _Agent_12-13-2021 MMDDYY\Nerida_Agent\DataBaseFactory\bin\Debug\Infrastructure.pdb
+E:\ANAND\Nerida\Nerida_muthuLates_13122021\Nerida _Agent_12-13-2021 MMDDYY\Nerida_Agent\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+E:\ANAND\Nerida\Nerida_muthuLates_13122021\Nerida _Agent_12-13-2021 MMDDYY\Nerida_Agent\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+E:\ANAND\Nerida\Nerida_muthuLates_13122021\Nerida _Agent_12-13-2021 MMDDYY\Nerida_Agent\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+E:\ANAND\Nerida\Nerida_muthuLates_13122021\Nerida _Agent_12-13-2021 MMDDYY\Nerida_Agent\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+E:\ANAND\Nerida\Nerida_muthuLates_13122021\Nerida _Agent_12-13-2021 MMDDYY\Nerida_Agent\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+E:\ANAND\Nerida\FInal_Nerida_28_122021\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+E:\ANAND\Nerida\FInal_Nerida_28_122021\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+E:\ANAND\Nerida\FInal_Nerida_28_122021\DataBaseFactory\bin\Debug\Infrastructure.dll
+E:\ANAND\Nerida\FInal_Nerida_28_122021\DataBaseFactory\bin\Debug\Infrastructure.pdb
+E:\ANAND\Nerida\FInal_Nerida_28_122021\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+E:\ANAND\Nerida\FInal_Nerida_28_122021\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+E:\ANAND\Nerida\FInal_Nerida_28_122021\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+E:\ANAND\Nerida\FInal_Nerida_28_122021\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+E:\ANAND\Nerida\FInal_Nerida_28_122021\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\Final backup\Nerida_Agent_13Feb2022\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Final backup\Nerida_Agent_13Feb2022\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Final backup\Nerida_Agent_13Feb2022\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Final backup\Nerida_Agent_13Feb2022\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Final backup\Nerida_Agent_13Feb2022\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+D:\Final backup\Nerida_Agent_13Feb2022\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\Final backup\Nerida_Agent_13Feb2022\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Final backup\Nerida_Agent_13Feb2022\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+E:\ANAND\Nerida\Final_Nerida_14Feb2022\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+E:\ANAND\Nerida\Final_Nerida_14Feb2022\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+E:\ANAND\Nerida\Final_Nerida_14Feb2022\DataBaseFactory\bin\Debug\Infrastructure.dll
+E:\ANAND\Nerida\Final_Nerida_14Feb2022\DataBaseFactory\bin\Debug\Infrastructure.pdb
+E:\ANAND\Nerida\Final_Nerida_14Feb2022\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+E:\ANAND\Nerida\Final_Nerida_14Feb2022\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+E:\ANAND\Nerida\Final_Nerida_14Feb2022\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+E:\ANAND\Nerida\Final_Nerida_14Feb2022\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+E:\ANAND\Nerida\Final_Nerida_14Feb2022\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+E:\ANAND\FlyhighProjects\Nerida\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+E:\ANAND\FlyhighProjects\Nerida\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+E:\ANAND\FlyhighProjects\Nerida\DataBaseFactory\bin\Debug\Infrastructure.dll
+E:\ANAND\FlyhighProjects\Nerida\DataBaseFactory\bin\Debug\Infrastructure.pdb
+E:\ANAND\FlyhighProjects\Nerida\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+E:\ANAND\FlyhighProjects\Nerida\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+E:\ANAND\FlyhighProjects\Nerida\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+E:\ANAND\FlyhighProjects\Nerida\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+E:\ANAND\FlyhighProjects\Nerida\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+E:\ANAND\FlyhighProjects\Nerida\DataBaseFactory\bin\Debug\Newtonsoft.Json.dll
+E:\ANAND\FlyhighProjects\Nerida\DataBaseFactory\bin\Debug\Newtonsoft.Json.pdb
+E:\ANAND\FlyhighProjects\Nerida\DataBaseFactory\bin\Debug\Newtonsoft.Json.xml
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles\DataBaseFactory\bin\Debug\Infrastructure.dll
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles\DataBaseFactory\bin\Debug\Newtonsoft.Json.dll
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles\DataBaseFactory\bin\Debug\Infrastructure.pdb
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles\DataBaseFactory\bin\Debug\Newtonsoft.Json.pdb
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles\DataBaseFactory\bin\Debug\Newtonsoft.Json.xml
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\Final backup\final Working\FINAL  WORKING\FlyhighSoftware_14June2022\Nerida\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Final backup\final Working\FINAL  WORKING\FlyhighSoftware_14June2022\Nerida\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Final backup\final Working\FINAL  WORKING\FlyhighSoftware_14June2022\Nerida\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Final backup\final Working\FINAL  WORKING\FlyhighSoftware_14June2022\Nerida\DataBaseFactory\bin\Debug\Newtonsoft.Json.dll
+D:\Final backup\final Working\FINAL  WORKING\FlyhighSoftware_14June2022\Nerida\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Final backup\final Working\FINAL  WORKING\FlyhighSoftware_14June2022\Nerida\DataBaseFactory\bin\Debug\Newtonsoft.Json.pdb
+D:\Final backup\final Working\FINAL  WORKING\FlyhighSoftware_14June2022\Nerida\DataBaseFactory\bin\Debug\Newtonsoft.Json.xml
+D:\Final backup\final Working\FINAL  WORKING\FlyhighSoftware_14June2022\Nerida\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+D:\Final backup\final Working\FINAL  WORKING\FlyhighSoftware_14June2022\Nerida\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\Final backup\final Working\FINAL  WORKING\FlyhighSoftware_14June2022\Nerida\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\Final backup\final Working\FINAL  WORKING\FlyhighSoftware_14June2022\Nerida\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Final backup\final Working\FINAL  WORKING\FlyhighSoftware_14June2022\Nerida\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles_14June\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles_14June\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles_14June\DataBaseFactory\bin\Debug\Infrastructure.dll
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles_14June\DataBaseFactory\bin\Debug\Newtonsoft.Json.dll
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles_14June\DataBaseFactory\bin\Debug\Infrastructure.pdb
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles_14June\DataBaseFactory\bin\Debug\Newtonsoft.Json.pdb
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles_14June\DataBaseFactory\bin\Debug\Newtonsoft.Json.xml
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles_14June\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles_14June\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles_14June\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles_14June\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+E:\ANAND\FlyhighProjects\Nerida\Nerida_Final_LiveFiles_14June\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.pdb
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.xml
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll.config
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Buffers.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Memory.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll.config
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Buffers.xml
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Memory.xml
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.xml
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.xml
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.xml
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.xml
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.xml
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.xml
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.xml
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.dll
+D:\OdakNVOCCCAngular\angularmaterialproject\16june22final\nvoccfinal2\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Buffers.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Memory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Buffers.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Memory.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\itextsharp.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\itextsharp.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Ci.ServerMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.AppContext.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Console.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Globalization.Calendars.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.IO.Compression.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.IO.FileSystem.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Net.Http.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Net.Sockets.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\netstandard.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Collections.Concurrent.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Collections.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Collections.NonGeneric.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Collections.Specialized.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.ComponentModel.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Data.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Diagnostics.Debug.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Diagnostics.Process.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Diagnostics.Tools.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Dynamic.Runtime.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Globalization.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Globalization.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.IO.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.IO.Pipes.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Linq.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Linq.Expressions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Linq.Parallel.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Linq.Queryable.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Net.NameResolution.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Net.NetworkInformation.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Net.Ping.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Net.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Net.Requests.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Net.Security.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Net.WebSockets.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.ObjectModel.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Reflection.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Reflection.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Reflection.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Resources.Reader.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Resources.ResourceManager.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Resources.Writer.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Runtime.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Runtime.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Runtime.Handles.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Runtime.InteropServices.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Runtime.Numerics.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Security.Claims.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Security.SecureString.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Text.Encoding.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Text.RegularExpressions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Threading.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Threading.Overlapped.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Threading.Thread.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Threading.ThreadPool.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Threading.Timer.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Xml.XDocument.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Xml.XmlDocument.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Xml.XPath.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\MimeKit.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\MimeMapping.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\MimeTypesMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\MimeKit.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\MimeKit.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\MimeMapping.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\MimeTypeMap.List.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\MimeTypes.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\netstandard.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.AppContext.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Collections.Concurrent.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Collections.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Collections.NonGeneric.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Collections.Specialized.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.ComponentModel.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Console.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Data.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Diagnostics.Debug.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Diagnostics.Process.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Diagnostics.Tools.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Dynamic.Runtime.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Globalization.Calendars.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Globalization.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Globalization.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.IO.Compression.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.IO.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.IO.FileSystem.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.IO.Pipes.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Linq.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Linq.Expressions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Linq.Parallel.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Linq.Queryable.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Net.Http.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Net.NameResolution.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Net.NetworkInformation.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Net.Ping.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Net.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Net.Requests.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Net.Security.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Net.Sockets.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Net.WebSockets.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.ObjectModel.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Reflection.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Reflection.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Reflection.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Resources.Reader.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Resources.ResourceManager.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Resources.Writer.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Runtime.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Runtime.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Runtime.Handles.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Runtime.InteropServices.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Runtime.Numerics.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Security.Claims.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Security.SecureString.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Text.Encoding.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Text.RegularExpressions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Threading.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Threading.Overlapped.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Threading.Thread.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Threading.ThreadPool.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Threading.Timer.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Xml.XDocument.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Xml.XmlDocument.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Xml.XPath.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Ci.ServerMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\itextsharp.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\MimeKit.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\MimeMapping.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\MimeTypeMap.List.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\MimeTypes.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\MimeTypesMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Buffers.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Memory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\itextsharp.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\MimeKit.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\MimeKit.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\MimeMapping.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Buffers.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Memory.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\Odak\10-11-22\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+D:\Odak\10-11-22\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\Odak\10-11-22\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll.config
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Ci.ServerMap.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\itextsharp.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\MimeKit.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\MimeMapping.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\MimeTypeMap.List.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\MimeTypes.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\MimeTypesMap.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Buffers.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Memory.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.dll
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll.config
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\itextsharp.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\MimeKit.pdb
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\MimeKit.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\MimeMapping.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.pdb
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Buffers.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Memory.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.xml
+D:\Odak\10-11-22\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Ci.ServerMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\itextsharp.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\MimeKit.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\MimeMapping.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\MimeTypeMap.List.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\MimeTypes.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\MimeTypesMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Buffers.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Memory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\itextsharp.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\MimeKit.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\MimeKit.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\MimeMapping.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Buffers.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Memory.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Ci.ServerMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\itextsharp.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\MimeKit.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\MimeMapping.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\MimeTypeMap.List.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\MimeTypes.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\MimeTypesMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Buffers.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Memory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\itextsharp.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\MimeKit.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\MimeKit.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\MimeMapping.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Buffers.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Memory.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll.config
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Ci.ServerMap.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\itextsharp.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\MimeKit.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\MimeMapping.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\MimeTypeMap.List.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\MimeTypes.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\MimeTypesMap.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Buffers.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Memory.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll.config
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\itextsharp.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\MimeKit.pdb
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\MimeKit.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\MimeMapping.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.pdb
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Buffers.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Memory.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.xml
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Ci.ServerMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\itextsharp.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\MimeKit.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\MimeMapping.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\MimeTypeMap.List.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\MimeTypes.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\MimeTypesMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Buffers.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Memory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\itextsharp.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\MimeKit.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\MimeKit.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\MimeMapping.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Buffers.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Memory.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll.config
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Ci.ServerMap.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\itextsharp.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\MimeKit.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\MimeMapping.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\MimeTypeMap.List.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\MimeTypes.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\MimeTypesMap.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Buffers.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Memory.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll.config
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\itextsharp.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\MimeKit.pdb
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\MimeKit.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\MimeMapping.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.pdb
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Buffers.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Memory.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.xml
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll.config
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Ci.ServerMap.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\itextsharp.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\MimeKit.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\MimeMapping.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\MimeTypeMap.List.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\MimeTypes.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\MimeTypesMap.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Buffers.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Memory.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll.config
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\itextsharp.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\MimeKit.pdb
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\MimeKit.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\MimeMapping.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.pdb
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Buffers.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Memory.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.xml
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Ci.ServerMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\itextsharp.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\MimeKit.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\MimeMapping.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\MimeTypeMap.List.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\MimeTypes.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\MimeTypesMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Buffers.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Memory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\itextsharp.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\MimeKit.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\MimeKit.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\MimeMapping.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Buffers.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Memory.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll.config
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Ci.ServerMap.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\itextsharp.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\MimeKit.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\MimeMapping.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\MimeTypeMap.List.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\MimeTypes.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\MimeTypesMap.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Buffers.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Memory.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll.config
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\itextsharp.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\MimeKit.pdb
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\MimeKit.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\MimeMapping.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.pdb
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Buffers.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Memory.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.xml
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Ci.ServerMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\itextsharp.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\MimeKit.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\MimeMapping.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\MimeTypeMap.List.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\MimeTypes.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\MimeTypesMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Buffers.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Memory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\itextsharp.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\MimeKit.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\MimeKit.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\MimeMapping.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Buffers.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Memory.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.xml
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll.config
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Ci.ServerMap.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\itextsharp.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\MimeKit.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\MimeMapping.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\MimeTypeMap.List.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\MimeTypes.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\MimeTypesMap.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Buffers.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Memory.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Infrastructure.dll.config
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\BouncyCastle.Crypto.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\itextsharp.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Microsoft.Net.Http.Server.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\MimeKit.pdb
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\MimeKit.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\MimeMapping.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\MimeTypeExtension.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.pdb
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\Newtonsoft.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Buffers.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Data.SqlClient.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Drawing.Common.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Memory.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Numerics.Vectors.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Security.AccessControl.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Security.Permissions.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Security.Principal.Windows.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Text.Encodings.Web.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Text.Json.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\bin\Debug\System.ValueTuple.xml
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.AssemblyReference.cache
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\DataBaseFactory\obj\Debug\DataBaseFactory.pdb

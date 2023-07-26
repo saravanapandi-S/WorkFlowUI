@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\PublishedFiles\live24</_PublishTargetUrl>
+    <History>True|2022-08-05T12:42:39.2597970Z;</History>
+  </PropertyGroup>
+</Project>

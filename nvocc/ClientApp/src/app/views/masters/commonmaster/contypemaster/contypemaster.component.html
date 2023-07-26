@@ -1,0 +1,177 @@
+<div class="row headtitle">
+    <div class="col-md-9">
+        <h4>Container Type Master</h4>
+    </div>
+    <div class="col-md-3 alrt">
+        <button type="button" class="btn btn-success btntop btn-raised bmd-btn-edit" (click)="onBack()"><i class="material-icons editicon">reply</i><div class="ripple-container"></div></button>
+    </div>
+</div>
+
+<form [formGroup]="contypeForm">
+
+    <div class="row">
+        <div class="col-md-3">
+            <div class="form-group bmd-form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="str">Container Type</label>
+
+                        <input type="hidden" formControlName="Size" />
+                        <select name="Size" id="ddlSize" formControlName="SizeID" class="form-control my-select">
+                            <option *ngFor="let contype of dsCntrSizes" [value]="contype.ID">
+                                {{contype.GeneralName}}
+                            </option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="form-group bmd-form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="str">Equipment Size</label>
+                        <input type="hidden" formControlName="Type" />
+                        <select name="Type" id="ddlType" formControlName="EQTypeID" class="form-control my-select">
+                            <option *ngFor="let contype of dsCntrTypes" [value]="contype.ID">
+                                {{contype.GeneralName}}
+                            </option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="form-group bmd-form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="str">Container Type Description</label>
+
+                        <input type="text" name="CntrTypeDesc" formControlName="CntrTypeDesc" autocomplete="off" id="txtCntrTypeDesc" class="form-control">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="form-group bmd-form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="str">ISO Code</label>
+                        <input type="text" name="ISOCode" formControlName="ISOCode" autocomplete="off" id="ddlISOCode" class="form-control">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="form-group bmd-form-group">
+                <div class="row">
+
+                    <div class="col-md-6">
+                        <label class="str">Length(in foot)</label>
+                        <input type="number" name="Length" formControlName="Length" min="0" autocomplete="off" id="txtLength" ng-model="txtTerminalName" class="form-control">
+                    </div>
+                    <div class="col-md-6">
+                        <label class="str">Width(in foot)</label>
+                        <input type="number" name="Width" formControlName="Width" min="0" autocomplete="off" id="txtWidth" ng-model="txtTerminalName" class="form-control">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="form-group bmd-form-group">
+                <div class="row">
+
+                    <div class="col-md-6">
+                        <label class="str">Height(in foot) </label>
+                        <input type="number" name="Height" formControlName="Height" min="0" autocomplete="off" id="txtHeight" ng-model="txtTerminalName" class="form-control">
+                    </div>
+                    <div class="col-md-6">
+                        <label class="str">TEU's </label>
+
+                        <input type="number" name="TEUS" formControlName="TEUS" min="0" autocomplete="off" id="txtTEUS" class="form-control">
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="form-group bmd-form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="str">Tare Weight(in Kgs)</label>
+                        <input type="number" name="TareWeight" formControlName="TareWeight" min="0" autocomplete="off" id="txtTareWeight" class="form-control">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="form-group bmd-form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="str">Max. Payload(in Kgs)</label>
+                        <input type="number" name="MaxPayload" formControlName="MaxPayload" min="0" autocomplete="off" id="txtMaxPayload" class="form-control">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="col-md-3">
+            <div class="form-group bmd-form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="str">Group</label>
+                        <select name="group" formControlName="groupID" id="ddlgroup" class="form-control my-select">
+
+                            <option *ngFor="let group of dsCntrGroup" [value]="group.ID">
+                                {{group.GeneralName}}
+                            </option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="form-group bmd-form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Active</label>
+                        <select name="Status" formControlName="status" id="ddlStatus" class="form-control my-select">
+
+                            <option *ngFor="let status of statusvalues" [value]="status.value">
+                                {{status.viewValue}}
+                            </option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="col-md-6">
+            <div class="form-group bmd-form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Remarks</label>
+                        <input type="text" name="Remarks" formControlName="Remarks" autocomplete="off" id="txtRemarks" class="form-control">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row alogtop">
+        <div class="col-md-12 col-sm-12 col-lg-12 col-xl-12 alrt">
+            <button type="submit" (click)="onSubmit()" class="btn btn-primary btn-raised mb-0">Save</button>
+        </div>
+        <input type="hidden" id="HDRegId" ng-model="HDRegId" />
+    </div>
+
+</form>
+
+

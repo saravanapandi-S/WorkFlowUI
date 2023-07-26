@@ -1,0 +1,1120 @@
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\appsettings.Development.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\appsettings.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\package-lock.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\nvocc.staticwebassets.runtime.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\nvocc.exe
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\nvocc.deps.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\nvocc.runtimeconfig.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\nvocc.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\Ci.ServerMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\itextsharp.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Net.Http.Server.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\MimeKit.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\MimeMapping.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\MimeTypeExtension.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\MimeTypeMap.List.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\MimeTypes.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\MimeTypesMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\DataManager.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\DataTier.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.AssemblyReference.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\nvocc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfoInputs.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfo.cs
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CoreCompileInputs.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cs
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cs
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.nvocc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.build.nvocc.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.nvocc.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.nvocc.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.build.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.development.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\scopedcss\bundle\nvocc.styles.css
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CopyComplete
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\refint\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\nvocc.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\nvocc.genruntimeconfig.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\nvocc_12\nvocc\nvocc\obj\Debug\net6.0\ref\nvocc.dll
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\nvocc.dll
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\refint\nvocc.dll
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\nvocc.pdb
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\appsettings.Development.json
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\appsettings.json
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\package-lock.json
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\nvocc.staticwebassets.runtime.json
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\nvocc.exe
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\nvocc.deps.json
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\nvocc.runtimeconfig.json
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\nvocc.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\nvocc.pdb
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\Ci.ServerMap.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\itextsharp.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Net.Http.Server.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\MimeKit.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\MimeMapping.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\MimeTypeExtension.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\MimeTypeMap.List.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\MimeTypes.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\MimeTypesMap.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.pdb
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll.config
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\DataManager.pdb
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll.config
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\DataTier.pdb
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll.config
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.pdb
+D:\Odak\10-11-22\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll.config
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.AssemblyReference.cache
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\nvocc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfoInputs.cache
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfo.cs
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CoreCompileInputs.cache
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cs
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cache
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cache
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cs
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.nvocc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.build.nvocc.props
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.nvocc.props
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.nvocc.props
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.build.json
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.development.json
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\scopedcss\bundle\nvocc.styles.css
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CopyComplete
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\nvocc.genruntimeconfig.cache
+D:\Odak\10-11-22\nvocc\nvocc\obj\Debug\net6.0\ref\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\appsettings.Development.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\appsettings.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\package-lock.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\nvocc.staticwebassets.runtime.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\nvocc.exe
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\nvocc.deps.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\nvocc.runtimeconfig.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\nvocc.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\Ci.ServerMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\itextsharp.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Net.Http.Server.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\MimeKit.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\MimeMapping.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\MimeTypeExtension.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\MimeTypeMap.List.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\MimeTypes.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\MimeTypesMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\DataManager.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\DataTier.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.AssemblyReference.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\nvocc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfoInputs.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfo.cs
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CoreCompileInputs.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cs
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cs
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.nvocc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.build.nvocc.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.nvocc.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.nvocc.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.build.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.development.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\scopedcss\bundle\nvocc.styles.css
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CopyComplete
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\refint\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\nvocc.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\nvocc.genruntimeconfig.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc\nvocc\obj\Debug\net6.0\ref\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\appsettings.Development.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\appsettings.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\package-lock.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\nvocc.staticwebassets.runtime.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\nvocc.exe
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\nvocc.deps.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\nvocc.runtimeconfig.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\nvocc.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\Ci.ServerMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\itextsharp.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Net.Http.Server.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\MimeKit.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\MimeMapping.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\MimeTypeExtension.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\MimeTypeMap.List.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\MimeTypes.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\MimeTypesMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\DataManager.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\DataTier.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.AssemblyReference.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\nvocc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfoInputs.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfo.cs
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CoreCompileInputs.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cs
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cs
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.nvocc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.build.nvocc.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.nvocc.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.nvocc.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.build.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.development.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\scopedcss\bundle\nvocc.styles.css
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CopyComplete
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\refint\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\nvocc.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\nvocc.genruntimeconfig.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\nvocc_final\nvocc\nvocc\obj\Debug\net6.0\ref\nvocc.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\appsettings.Development.json
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\appsettings.json
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\package-lock.json
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.staticwebassets.runtime.json
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.exe
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.deps.json
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.runtimeconfig.json
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.pdb
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\Ci.ServerMap.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\itextsharp.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Net.Http.Server.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\MimeKit.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\MimeMapping.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypeExtension.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypeMap.List.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypes.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypesMap.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.pdb
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll.config
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.pdb
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll.config
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.pdb
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll.config
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.pdb
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll.config
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.AssemblyReference.cache
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfoInputs.cache
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfo.cs
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CoreCompileInputs.cache
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cs
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cache
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cache
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cs
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.nvocc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.build.nvocc.props
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.nvocc.props
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.nvocc.props
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.build.json
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.development.json
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\scopedcss\bundle\nvocc.styles.css
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CopyComplete
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\refint\nvocc.dll
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.pdb
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.genruntimeconfig.cache
+D:\Odak\8-2-2022\OdakNVOCC_08Feb2023\nvocc\nvocc\obj\Debug\net6.0\ref\nvocc.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\appsettings.Development.json
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\appsettings.json
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\package-lock.json
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.staticwebassets.runtime.json
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.exe
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.deps.json
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.runtimeconfig.json
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.pdb
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\Ci.ServerMap.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\itextsharp.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Net.Http.Server.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\MimeKit.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\MimeMapping.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypeExtension.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypeMap.List.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypes.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypesMap.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.pdb
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll.config
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.pdb
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll.config
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.pdb
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll.config
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.pdb
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll.config
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.AssemblyReference.cache
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.GeneratedMSBuildEditorConfig.editorconfig
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfoInputs.cache
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfo.cs
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CoreCompileInputs.cache
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cs
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cache
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cache
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cs
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.nvocc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.build.nvocc.props
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.nvocc.props
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.nvocc.props
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.pack.json
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.build.json
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.development.json
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\scopedcss\bundle\nvocc.styles.css
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CopyComplete
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\refint\nvocc.dll
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.pdb
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.genruntimeconfig.cache
+D:\OdakNVOCC_16Feb2023\nvocc\nvocc\obj\Debug\net6.0\ref\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\appsettings.Development.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\appsettings.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\package-lock.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.staticwebassets.runtime.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.exe
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.deps.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.runtimeconfig.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\Ci.ServerMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\itextsharp.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Net.Http.Server.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\MimeKit.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\MimeMapping.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypeExtension.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypeMap.List.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypes.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypesMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.AssemblyReference.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfoInputs.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfo.cs
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CoreCompileInputs.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cs
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cs
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.nvocc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.build.nvocc.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.nvocc.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.nvocc.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.build.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.development.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\scopedcss\bundle\nvocc.styles.css
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CopyComplete
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\refint\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.genruntimeconfig.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\nvocc\nvocc\obj\Debug\net6.0\ref\nvocc.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\appsettings.Development.json
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\appsettings.json
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\package-lock.json
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.staticwebassets.runtime.json
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.exe
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.deps.json
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.runtimeconfig.json
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.pdb
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\Ci.ServerMap.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\itextsharp.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Net.Http.Server.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\MimeKit.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\MimeMapping.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypeExtension.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypeMap.List.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypes.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypesMap.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.pdb
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll.config
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.pdb
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll.config
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.pdb
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll.config
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.pdb
+D:\OdakNVO_01Mar2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll.config
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.AssemblyReference.cache
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.GeneratedMSBuildEditorConfig.editorconfig
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfoInputs.cache
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfo.cs
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CoreCompileInputs.cache
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cs
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cache
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cache
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cs
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.nvocc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.build.nvocc.props
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.nvocc.props
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.nvocc.props
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.pack.json
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.build.json
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.development.json
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\scopedcss\bundle\nvocc.styles.css
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CopyComplete
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\refint\nvocc.dll
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.pdb
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.genruntimeconfig.cache
+D:\OdakNVO_01Mar2023\nvocc\nvocc\obj\Debug\net6.0\ref\nvocc.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\appsettings.Development.json
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\appsettings.json
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\package-lock.json
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.staticwebassets.runtime.json
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.exe
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.deps.json
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.runtimeconfig.json
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.pdb
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\Ci.ServerMap.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\itextsharp.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Net.Http.Server.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\MimeKit.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\MimeMapping.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypeExtension.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypeMap.List.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypes.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypesMap.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.pdb
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll.config
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.pdb
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll.config
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.pdb
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll.config
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.pdb
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll.config
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.AssemblyReference.cache
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.GeneratedMSBuildEditorConfig.editorconfig
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfoInputs.cache
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfo.cs
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CoreCompileInputs.cache
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cs
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cache
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cache
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cs
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.nvocc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.build.nvocc.props
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.nvocc.props
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.nvocc.props
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.pack.json
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.build.json
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.development.json
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\scopedcss\bundle\nvocc.styles.css
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CopyComplete
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\refint\nvocc.dll
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.pdb
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.genruntimeconfig.cache
+D:\odak masters\OdakNVOCC_06Mar2023\nvocc\nvocc\obj\Debug\net6.0\ref\nvocc.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\appsettings.Development.json
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\appsettings.json
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\package-lock.json
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.staticwebassets.runtime.json
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.exe
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.deps.json
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.runtimeconfig.json
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.pdb
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\Ci.ServerMap.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\itextsharp.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Net.Http.Server.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\MimeKit.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\MimeMapping.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypeExtension.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypeMap.List.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypes.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypesMap.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.pdb
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll.config
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.pdb
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll.config
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.pdb
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll.config
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.pdb
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll.config
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.AssemblyReference.cache
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.GeneratedMSBuildEditorConfig.editorconfig
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfoInputs.cache
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfo.cs
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CoreCompileInputs.cache
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cs
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cache
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cache
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cs
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.nvocc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.build.nvocc.props
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.nvocc.props
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.nvocc.props
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.pack.json
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.build.json
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.development.json
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\scopedcss\bundle\nvocc.styles.css
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CopyComplete
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\refint\nvocc.dll
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.pdb
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.genruntimeconfig.cache
+D:\odak\Master_SM_Odak\master odak_7-3-2023\nvocc\nvocc\obj\Debug\net6.0\ref\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\appsettings.Development.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\appsettings.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\package-lock.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.staticwebassets.runtime.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.exe
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.deps.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.runtimeconfig.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\Ci.ServerMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\itextsharp.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Net.Http.Server.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\MimeKit.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\MimeMapping.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypeExtension.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypeMap.List.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypes.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypesMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.AssemblyReference.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfoInputs.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfo.cs
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CoreCompileInputs.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cs
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cs
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.nvocc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.build.nvocc.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.nvocc.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.nvocc.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.build.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.development.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\scopedcss\bundle\nvocc.styles.css
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CopyComplete
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\refint\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.genruntimeconfig.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\ODAK_SA_15_03_2023\nvocc\nvocc\obj\Debug\net6.0\ref\nvocc.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.AssemblyReference.cache
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.GeneratedMSBuildEditorConfig.editorconfig
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfoInputs.cache
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfo.cs
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CoreCompileInputs.cache
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cs
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cache
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cache
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cs
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\refint\nvocc.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.pdb
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\appsettings.Development.json
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\appsettings.json
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\package-lock.json
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.staticwebassets.runtime.json
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.exe
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.deps.json
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.runtimeconfig.json
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.pdb
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\Ci.ServerMap.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\itextsharp.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Net.Http.Server.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\MimeKit.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\MimeMapping.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypeExtension.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypeMap.List.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypes.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypesMap.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.pdb
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll.config
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.pdb
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll.config
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.pdb
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll.config
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.pdb
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll.config
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.nvocc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.build.nvocc.props
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.nvocc.props
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.nvocc.props
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.pack.json
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.build.json
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.development.json
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\scopedcss\bundle\nvocc.styles.css
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CopyComplete
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.genruntimeconfig.cache
+D:\odak masters\OdakSA_17Mar2023\nvocc\nvocc\obj\Debug\net6.0\ref\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\appsettings.Development.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\appsettings.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\package-lock.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.staticwebassets.runtime.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.exe
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.deps.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.runtimeconfig.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\nvocc.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\Ci.ServerMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\itextsharp.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Net.Http.Server.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\MimeKit.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\MimeMapping.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypeExtension.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypeMap.List.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypes.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\MimeTypesMap.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll.config
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.AssemblyReference.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfoInputs.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfo.cs
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CoreCompileInputs.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cs
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cs
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.nvocc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.build.nvocc.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.nvocc.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.nvocc.props
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.build.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.development.json
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\scopedcss\bundle\nvocc.styles.css
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CopyComplete
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\refint\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.pdb
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\nvocc.genruntimeconfig.cache
+D:\Office_Files\Projects\ODAK\Clients\OdakNVOCCAngular\FinanceTeam\OdakNVOCC_17Feb2023\SA_Master 17_3_2023\nvocc\nvocc\obj\Debug\net6.0\ref\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\appsettings.Development.json
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\appsettings.json
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\package-lock.json
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\nvocc.staticwebassets.runtime.json
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\nvocc.exe
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\nvocc.deps.json
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\nvocc.runtimeconfig.json
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\nvocc.pdb
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\Ci.ServerMap.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\itextsharp.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Net.Http.Server.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\MimeKit.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\MimeMapping.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\MimeTypeExtension.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\MimeTypeMap.List.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\MimeTypes.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\MimeTypesMap.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.pdb
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\DataBaseFactory.dll.config
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\DataManager.pdb
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\DataManager.dll.config
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\DataTier.pdb
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\DataTier.dll.config
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.pdb
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\bin\Debug\net6.0\Infrastructure.dll.config
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.AssemblyReference.cache
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\nvocc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfoInputs.cache
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\nvocc.AssemblyInfo.cs
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CoreCompileInputs.cache
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cs
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\nvocc.MvcApplicationPartsAssemblyInfo.cache
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cache
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\nvocc.RazorAssemblyInfo.cs
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.nvocc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.build.nvocc.props
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.nvocc.props
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.nvocc.props
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.build.json
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\staticwebassets.development.json
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\scopedcss\bundle\nvocc.styles.css
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\nvocc.csproj.CopyComplete
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\refint\nvocc.dll
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\nvocc.pdb
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\nvocc.genruntimeconfig.cache
+D:\Office_Files\Projects\ODAK\Clients\ODAKERP_18Apr2023\odaksa\nvocc\nvocc\obj\Debug\net6.0\ref\nvocc.dll

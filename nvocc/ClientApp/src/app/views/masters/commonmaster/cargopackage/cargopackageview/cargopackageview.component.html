@@ -1,0 +1,127 @@
+<div class="row headtitle rotle">
+    <div class="col-md-9">
+        <h4>Cargo Package Master</h4>
+    </div>
+    <div class="col-md-3 alrt">        
+            <button type="button" class="btn btn-success btn-raised bmd-btn-edit btntop" [routerLink]="['/views/masters/commonmaster/cargopackage/cargopackage']"><i class="material-icons editicon">add</i><div class="ripple-container"></div></button>
+        </div>
+    </div>
+
+
+<div class="row">
+    <div class="col-9">
+        <div class="card m-b-30">
+            <div class="card-body leftcard">
+
+                <div id="datatable-buttons_wrapper" class="dataTables_wrapper container-fluid dt-bootstrap4 no-footer">
+
+                    <div class="row">
+                        <div class="col-sm-12 master">
+                            <table id="datatable-buttons" class="table table-responsive table-striped table-bordered w-100 dataTable no-footer" role="grid" aria-describedby="datatable-buttons_info">
+                                <thead>
+                                    <tr role="row">
+                                        <th class="actwid">
+                                            S.No
+                                        </th>
+                                        <th>
+                                            Package Code
+                                        </th>
+                                        <th>Package Description</th>
+                                        <th class="actwid">Active</th>
+                                        <!--<th class="actwid">Action</th>-->
+                                    </tr>
+                                </thead>
+
+                                <tbody>
+
+                                    <tr *ngFor="let dataItem of pagedItems ;
+                                        let i = index" (mouseover)="highlightRow(dataItem)"
+                                        [ngClass]="{'highlight' : dataItem.PkgCode == selectedName}">
+                                        <td> {{ i + 1*pager.startIndex+1 }}</td>
+                                        <td class="alc"><button class="btn btn-success bmd-btn-fab enqbtn" [routerLink]="['/views/masters/commonmaster/cargopackage/cargopackage']" [queryParams]="{id: dataItem.ID}" queryParamsHandling="merge">{{dataItem.PkgCode}} </button></td>
+                                        <td>{{dataItem.PkgDescription}}</td>
+                                        <td>{{dataItem.StatusResult}}</td>
+                                        <!--<td class="alc">
+                            <button class="btn btn-success bmd-btn-fab" [routerLink]="['/views/masters/commonmaster/cargopackage/cargopackage']" [queryParams]="{id: dataItem.ID}" queryParamsHandling="merge">
+                                <i class="material-icons">edit</i>
+                            </button>
+                        </td>-->
+                                    </tr>
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="row page" align="right">
+
+
+                        <ul *ngIf="pager.pages && pager.pages.length" class="pagination">
+                            <li [ngClass]="{'pag-disable':pager.currentPage === 1}">
+                                <a (click)="setPage(1)">First</a>
+                            </li>
+                            <li [ngClass]="{'pag-disable':pager.currentPage === 1}">
+                                <a (click)="setPage(pager.currentPage - 1)">Previous</a>
+                            </li>
+                            <li *ngFor="let page of pager.pages" [ngClass]="{active:pager.currentPage === page}">
+                                <a (click)="setPage(page)">{{page}}</a>
+                            </li>
+                            <li *ngIf="(pager.totalPages - pager.startPage) > 5 ">
+                                <a (click)="setPage(pager.startPage + 5)">...</a>
+                            </li>
+                            <li *ngIf="(pager.totalPages - pager.startPage) > 5">
+                                <a (click)="setPage(pager.totalPages)">{{pager.totalPages}}</a>
+                            </li>
+
+                            <li [ngClass]="{'pag-disable':pager.endIndex + 1 === pager.totalItems}">
+                                <a (click)="setPage(pager.currentPage + 1)">Next</a>
+                            </li>
+                            <li [ngClass]="{'pag-disable':pager.currentPage === pager.totalPages}">
+                                <a (click)="setPage(pager.totalPages)">Last</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <form [formGroup]="searchForm">
+            <div class="card m-b-30 sidesearch">
+                <div class="card-body cpad">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="form-group bmd-form-group">
+
+                                <input type="text" autocomplete="off" formControlName="PkgCode" class="form-control" placeholder="Package Code">
+
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="form-group bmd-form-group">
+                                <input type="text" autocomplete="off" formControlName="PkgDescription" class="form-control" placeholder="Package Description">
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="form-group bmd-form-group">
+                                <select class="form-control my-select" id="ddlStatusv" name="Status" formControlName="Status">
+                                    <option value="0">Active</option>
+                                    <option *ngFor="let status of statusvalues" [value]="status.value">
+                                        {{status.viewValue}}
+                                    </option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="col-md-12 searchbtn alrt">
+                            <button type="submit" (click)="onSubmit()" class="btn btn-primary btn-raised mb-0">Search<div class="ripple-container"></div></button>
+                            <button type="submit" (click)="clearSearch()" class="btn btn-raised btn-danger mb-0">Clear<div class="ripple-container"></div></button>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

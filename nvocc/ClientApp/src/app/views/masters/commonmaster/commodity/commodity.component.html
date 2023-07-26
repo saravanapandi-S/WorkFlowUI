@@ -1,0 +1,103 @@
+<div class="row headtitle">
+    <div class="col-md-9">
+        <h4>Commodity Master</h4>
+    </div>
+    <div class="col-md-3 alrt">
+        <button type="button" class="btn btn-success btntop btn-raised bmd-btn-edit" (click)="onBack()"><i class="material-icons editicon">reply</i><div class="ripple-container"></div></button>
+    </div>
+</div>
+
+<form [formGroup]="commodityForm">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="str">Commodity UN Code</label>
+                        <input type="text" name="CommodityUnCode" formControlName="CommodityUnCode" autocomplete="off" id="txtCmdCode" ng-model="txtCmdCode" class="form-control">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="str">Commodity Name</label>
+                        <input type="text" name="CommodityName" formControlName="CommodityName" id="txtCmdName" autocomplete="off" ng-model="txtCmdName" class="form-control">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="str">HS Code</label>
+                        <input type="text" name="HSCode" formControlName="HSCode" autocomplete="off" id="txtHsCode" ng-model="txtHsCode" class="form-control">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="str">Commodity Type</label>
+                        <select name="CommodityType" id="ddlCommodityType" formControlName="CommodityType" class="form-control my-select">
+                            <option *ngFor="let commtype of dsCommodityType" [value]="commtype.CommodityType">
+                                {{commtype.GeneralName}}
+                            </option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="str">Dangerous Flag</label>
+                        <select name="DangerousFlag" id="ddlFlag" formControlName="DangerousFlag" class="form-control my-select">
+                            <option *ngFor="let dgflag of dgflag" [value]="dgflag.value">
+                                {{dgflag.viewValue}}
+                            </option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Remarks</label>
+                        <input name="Remarks" formControlName="Remarks" type="text" id="txtRemarks" autocomplete="off" ng-model="txtRemarks" class="form-control">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Active </label>
+                        <select name="status" formControlName="Status" class="form-control my-select" id="ddlStatus">
+                            <option *ngFor="let status of statusvalues" [value]="status.value">
+                                {{status.viewValue}}
+                            </option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row alogtop">
+        <div class="col-md-12 col-sm-12 col-lg-12 col-xl-12 alrt">
+            <button type="submit" (click)="onSubmit()" class="btn btn-primary btn-raised mb-0">Save</button>
+        </div>
+        <input type="hidden" id="HDRegId" ng-model="HDRegId" />
+    </div>
+</form>

@@ -1,0 +1,60 @@
+<div class="row headtitle">
+    <div class="col-md-9">
+        <h4>  Hazardous Classes Master</h4>
+    </div>
+    <div class="col-md-3 alrt">
+        <button type="button" class="btn btn-success btn-raised bmd-btn-edit btntop" (click)="onBack()"><i class="material-icons editicon">reply</i><div class="ripple-container"></div></button>
+    </div>
+</div>
+<form [formGroup]="HazardousForm">
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">                   
+                    <div class="col-md-12">
+                        <label class="str">
+                            Class Description
+                        </label>
+                        <input type="text" name="LocationCode" autocomplete="off" formControlName="ClassDesc" id="txtClassDesc" class="form-control">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">                 
+                    <div class="col-md-12">
+                        <label class="str">
+                            Division Description
+                        </label>
+                        <input type="text" name="Location" autocomplete="off" formControlName="DivisionDesc" id="txtDivisionDesc" class="form-control">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="form-group">
+                <div class="row">         
+                    <div class="col-md-12">
+                        <label>Active</label>
+                        <select class="form-control my-select" id="ddlStatus" formControlName="Status">
+                            <option *ngFor="let status of statusvalues" [value]="status.value">
+                                {{status.viewValue}}
+                            </option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+        <div class="row alogtop">
+            <div class="col-md-12 col-sm-12 col-lg-12 col-xl-12 alrt">
+                <button type="submit" (click)="onSubmit()" class="btn btn-success btn-raised mb-0">Save</button>
+            </div>
+            <input type="hidden" id="HDRegId" ng-model="HDRegId" />
+        </div>
+ 
+</form>

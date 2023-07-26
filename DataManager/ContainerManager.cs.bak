@@ -1,0 +1,2736 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Infrastructure;
+using DataBaseFactory;
+using System.Data;
+using System.Data.Common;
+using DataTier;
+using System.Data.SqlClient;
+using System.Collections;
+using System.Globalization;
+namespace DataManager
+{
+    public class ContainerManager
+    {
+        List<MyContainerData> ListCntr = new List<MyContainerData>();
+        List<MyLease> ListLease = new List<MyLease>();
+        List<MyOnHire> ListOnHire = new List<MyOnHire>();
+        List<MyOffHire> ListOffHire = new List<MyOffHire>();
+        List<MyLeaseDetails> ListLeaseDtls = new List<MyLeaseDetails>();
+        List<MyCntrMoveMent> ListCntrMv = new List<MyCntrMoveMent>();
+        List<MyContainerRent> ListContRent = new List<MyContainerRent>();
+        #region Membervariable
+        private IDataBaseFactory _dbFactory = null;
+        #endregion
+
+        #region Constructor Method
+        public ContainerManager()
+        {
+            _dbFactory = new SQLFactory();
+
+        }
+        #endregion
+
+        #region GetView
+        public DataTable GetViewData(string Query, string CmdType)
+        {
+            DbConnection con = null;
+            DataTable DT = null;
+            try
+            {
+                if (Query != "")
+                {
+                    con = _dbFactory.GetConnection();
+                    con.Open();
+
+                    DbCommand cmd = _dbFactory.GetCommand();
+                    cmd.Connection = con;
+
+                    if (CmdType == "SP")
+                        cmd.CommandType = CommandType.StoredProcedure;
+
+                    cmd.CommandText = Query;
+                    DbDataAdapter adapter = _dbFactory.GetAdapter();
+                    adapter.SelectCommand = cmd;
+                    DT = new DataTable();
+                    adapter.Fill(DT);
+                }
+                return DT;
+
+            }
+
+
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                if (con != null && con.State != ConnectionState.Closed)
+                    con.Close();
+
+            }
+        }
+
+        public string Getvalue(string Query)
+        {
+            DbConnection con = null;
+            try
+            {
+                string Result = "";
+                if (Query != "")
+                {
+                    con = _dbFactory.GetConnection();
+                    con.Open();
+                    DbCommand cmd = _dbFactory.GetCommand();
+                    cmd.Connection = con;
+                    cmd.CommandText = Query;
+                    object objresult = cmd.ExecuteScalar();
+                    if (objresult != null)
+                        Result = objresult.ToString();
+
+                }
+                return Result;
+
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                if (con != null && con.State != ConnectionState.Closed)
+                    con.Close();
+
+            }
+        }
+        #endregion
+
+
+        #region Ganesh
+        #region Container master
+        public List<MyContainerData> ListCntrTypeSize(MyContainerData Data)
+        {
+            DataTable dt = GetTypeSize();
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListCntr.Add(new MyContainerData
+                {
+                    TypeID = Int32.Parse(dt.Rows[i]["TypeID"].ToString()),
+                    Size = dt.Rows[i]["Size"].ToString()
+                });
+            }
+            return ListCntr;
+        }
+
+        public DataTable GetTypeSize()
+        {
+            string _Query = "Select ID AS TypeID, Size  from NVO_tblCntrTypes order by ID";
+            return GetViewData(_Query, "");
+        }
+
+        public List<MyContainerData> ListISOCodes(MyContainerData Data)
+        {
+            DataTable dt = GetISOCodes();
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListCntr.Add(new MyContainerData
+                {
+                    ISOCodeID = Int32.Parse(dt.Rows[i]["ISOCodeID"].ToString()),
+                    ISOCode = dt.Rows[i]["ISOCode"].ToString()
+                });
+            }
+            return ListCntr;
+        }
+
+        public DataTable GetISOCodes()
+        {
+            string _Query = "Select ID AS ISOCodeID,ISOCode  from NVO_tblCntrTypes  order by ID";
+            return GetViewData(_Query, "");
+        }
+        public List<MyContainerData> ListGrade(MyContainerData Data)
+        {
+            DataTable dt = GetListGrade();
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListCntr.Add(new MyContainerData
+                {
+                    GradeID = Int32.Parse(dt.Rows[i]["GradeID"].ToString()),
+                    Grade = dt.Rows[i]["Grade"].ToString()
+                });
+            }
+            return ListCntr;
+        }
+
+        public DataTable GetListGrade()
+        {
+            string _Query = "Select ID AS GradeID, Generalname AS Grade  from NVO_GeneralMaster WHERE SEQNO = 12 ORDER BY Generalname";
+            return GetViewData(_Query, "");
+        }
+
+        public List<MyContainerData> ListContainerStatus(MyContainerData Data)
+        {
+            DataTable dt = GetContainerStatus();
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListCntr.Add(new MyContainerData
+                {
+                    StatusID = Int32.Parse(dt.Rows[i]["StatusID"].ToString()),
+                    Status = dt.Rows[i]["Status"].ToString()
+                });
+            }
+            return ListCntr;
+        }
+
+        public DataTable GetContainerStatus()
+        {
+            string _Query = "Select ID AS StatusID, Generalname AS Status  from NVO_GeneralMaster WHERE SEQNO = 14 ORDER BY Generalname";
+            return GetViewData(_Query, "");
+        }
+        public List<MyContainerData> ListLeaseTerm(MyContainerData Data)
+        {
+            DataTable dt = GetListLeaseTerm();
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListCntr.Add(new MyContainerData
+                {
+                    LeaseTermID = Int32.Parse(dt.Rows[i]["LeaseTermID"].ToString()),
+                    LeaseTerm = dt.Rows[i]["LeaseTerm"].ToString()
+                });
+            }
+            return ListCntr;
+        }
+
+        public DataTable GetListLeaseTerm()
+        {
+            string _Query = "Select ID AS LeaseTermID, Generalname AS LeaseTerm  from NVO_GeneralMaster WHERE SEQNO = 13 ORDER BY Generalname";
+            return GetViewData(_Query, "");
+        }
+
+        public List<MyContainerData> ListBoxOwner(MyContainerData Data)
+        {
+            DataTable dt = GetBoxOwner();
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListCntr.Add(new MyContainerData
+                {
+                    BoxOwnerID = Int32.Parse(dt.Rows[i]["BoxOwnerID"].ToString()),
+                    BoxOwner = dt.Rows[i]["BoxOwner"].ToString()
+                });
+            }
+            return ListCntr;
+        }
+
+        public DataTable GetBoxOwner()
+        {
+            string _Query = "Select Id as BoxOwnerID, CustomerName as BoxOwner from NVO_CustomerMaster ORDER BY CustomerName ";
+            return GetViewData(_Query, "");
+        }
+
+        public List<MyContainerData> ListLeasingPartner(MyContainerData Data)
+        {
+            DataTable dt = GetLeasingPartner();
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListCntr.Add(new MyContainerData
+                {
+                    LeasingPartnerID = Int32.Parse(dt.Rows[i]["LeasingPartnerID"].ToString()),
+                    LeasingPartner = dt.Rows[i]["LeasingPartner"].ToString()
+                });
+            }
+            return ListCntr;
+        }
+
+        public DataTable GetLeasingPartner()
+        {
+            string _Query = "Select Id as LeasingPartnerID, CustomerName as LeasingPartner from NVO_CustomerMaster ORDER BY CustomerName";
+            return GetViewData(_Query, "");
+        }
+        public List<MyContainerData> InsertContainerMaster(MyContainerData Data)
+        {
+
+
+            DbConnection con = null;
+            DbTransaction trans;
+
+            try
+            {
+                con = _dbFactory.GetConnection();
+                con.Open();
+                trans = _dbFactory.GetTransaction(con);
+                DbCommand Cmd = _dbFactory.GetCommand();
+                Cmd.Connection = con;
+                Cmd.Transaction = trans;
+
+                try
+                {
+
+                    Cmd.CommandText = " IF((select count(*) from NVO_Containers where ID=@ID)<=0) " +
+                                     " BEGIN " +
+                                     " INSERT INTO  NVO_Containers(CntrNo,TypeID,ISOCodeID,GradeID,CubicCapacity,DtManufacture,GrWtx100,NtWtx100,TareWtx100,DtOnHire,LeaseTermID,PickUpRefID,BoxOwnerID,LeasingPartnerID,statusID) " +
+                                     " values (@CntrNo,@TypeID,@ISOCodeID,@GradeID,@CubicCapacity,@DtManufacture,@GrWtx100,@NtWtx100,@TareWtx100,@DtOnHire,@LeaseTermID,@PickUpRefID,@BoxOwnerID,@LeasingPartnerID,@statusID) " +
+                                     " END  " +
+                                     " ELSE " +
+                                     " UPDATE NVO_Containers SET CntrNo=@CntrNo,TypeID=@TypeID,ISOCodeID=@ISOCodeID,GradeID=@GradeID,DtManufacture=@DtManufacture,GrWtx100=@GrWtx100,NtWtx100=@NtWtx100, TareWtx100=@TareWtx100,DtOnHire=@DtOnHire,LeaseTermID=@LeaseTermID,PickUpRefID=@PickUpRefID,BoxOwnerID=@BoxOwnerID,LeasingPartnerID=@LeasingPartnerID,statusID=@statusID where ID=@ID";
+
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ID", Data.ID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@CntrNo", Data.CntrNo));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@TypeID", Data.TypeID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ISOCodeID", Data.ISOCodeID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@DtManufacture", DateTime.ParseExact(Data.DtManufacture, "dd/MM/yyyy", null).ToString("MM/dd/yyyy")));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@GradeID", Data.GradeID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@CubicCapacity", Data.CubicCapacity));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@GrWtx100", Data.GrWtx100));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@NtWtx100", Data.NtWtx100));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@TareWtx100", Data.TareWtx100));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@DtOnHire", DateTime.ParseExact(Data.DtOnHire, "dd/MM/yyyy", null).ToString("MM/dd/yyyy")));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@StatusID", Data.StatusID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@BoxOwnerID", Data.BoxOwnerID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@LeasingPartnerID", Data.LeasingPartnerID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@LeaseTermID", Data.LeaseTermID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@PickUpRefID", Data.PickUpRefID));
+                    int result = Cmd.ExecuteNonQuery();
+
+                    Cmd.CommandText = "select ident_current('NVO_Containers')";
+                    if (Data.ID == 0)
+                        Data.ID = Int32.Parse(Cmd.ExecuteScalar().ToString());
+                    else
+                        Data.ID = Data.ID;
+
+                    trans.Commit();
+                    return ListCntr;
+                }
+                catch (Exception ex)
+                {
+                    string ss = ex.ToString();
+                    trans.Rollback();
+                    return ListCntr;
+                }
+
+            }
+
+
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
+            finally
+            {
+                if (con != null && con.State != ConnectionState.Closed)
+                    con.Close();
+
+            }
+        }
+
+        public List<MyContainerData> ContainersMaster(MyContainerData Data)
+        {
+            DataTable dt = GetContainervalues(Data);
+
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+
+
+                ListCntr.Add(new MyContainerData
+                {
+
+                    ID = Int32.Parse(dt.Rows[i]["ID"].ToString()),
+                    CntrNo = dt.Rows[i]["CntrNo"].ToString(),
+                    Size = dt.Rows[i]["Size"].ToString(),
+                    Status = dt.Rows[i]["Status"].ToString(),
+                    LeasingPartner = dt.Rows[i]["LeasingPartner"].ToString(),
+                    BoxOwner = dt.Rows[i]["BoxOwner"].ToString(),
+
+                });
+            }
+            return ListCntr;
+        }
+
+        public DataTable GetContainervalues(MyContainerData Data)
+        {
+            string _Query = "Select CN.ID,CN.CntrNo,CT.Size,GM.generalname as Status,CM1.CustomerName as BoxOwner,CM2.CustomerName as LeasingPartner  from NVO_Containers CN " +
+           "LEFT OUTER JOIN NVO_tblCntrTypes CT ON CT.id = CN.TypeID " +
+           "LEFT OUTER JOIN NVO_CustomerMaster CM1 ON CM1.id = CN.BoxOwnerID " +
+           "LEFT OUTER JOIN NVO_CustomerMaster CM2 ON CM2.id = CN.LeasingPartnerID " +
+           " inner join NVO_ContainerOnHire COH on COH.LeasePickUpRefID = CN.PickUpRefID  and COH.isapproved = 1 " +
+           " LEFT OUTER JOIN NVO_GeneralMaster GM ON GM.id = CN.StatusID AND GM.SeqNo = 14 ";
+
+            string strWhere = "";
+
+            if (Data.CntrNo != "")
+                if (strWhere == "")
+                    strWhere += _Query + " where CN.CntrNo like '%" + Data.CntrNo + "%'";
+                else
+                    strWhere += " and CN.CntrNo like '%" + Data.CntrNo + "%'";
+
+            if (Data.TypeID.ToString() != "" && Data.TypeID.ToString() != "0" && Data.TypeID.ToString() != null && Data.TypeID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where CN.TypeID=" + Data.TypeID.ToString();
+                else
+                    strWhere += " and CN.TypeID =" + Data.TypeID.ToString();
+
+            if (Data.BoxOwnerID.ToString() != "" && Data.BoxOwnerID.ToString() != "0" && Data.BoxOwnerID.ToString() != null && Data.BoxOwnerID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where CN.BoxOwnerID=" + Data.BoxOwnerID.ToString();
+                else
+                    strWhere += " and CN.BoxOwnerID =" + Data.BoxOwnerID.ToString();
+
+            if (Data.LeasingPartnerID.ToString() != "" && Data.LeasingPartnerID.ToString() != "0" && Data.LeasingPartnerID.ToString() != null && Data.LeasingPartnerID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where CN.LeasingPartnerID=" + Data.LeasingPartnerID.ToString();
+                else
+                    strWhere += " and CN.LeasingPartnerID =" + Data.LeasingPartnerID.ToString();
+
+            if (Data.StatusID.ToString() != "" && Data.StatusID.ToString() != "0" && Data.StatusID.ToString() != null && Data.StatusID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where CN.StatusID=" + Data.StatusID.ToString();
+                else
+                    strWhere += " and CN.StatusID =" + Data.StatusID.ToString();
+
+            if (strWhere == "")
+                strWhere = _Query;
+
+            return GetViewData(strWhere, "");
+
+
+        }
+
+        public List<MyContainerData> GetContainerMasterRecord(MyContainerData Data)
+        {
+            DataTable dt = GetContainerRecord(Data);
+
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+
+                ListCntr.Add(new MyContainerData
+                {
+
+                    ID = Int32.Parse(dt.Rows[i]["ID"].ToString()),
+                    CntrNo = dt.Rows[i]["CntrNo"].ToString(),
+                    TypeID = Int32.Parse(dt.Rows[i]["TypeID"].ToString()),
+                    ISOCodeID = Int32.Parse(dt.Rows[i]["ISOCodeID"].ToString()),
+                    GradeID = Int32.Parse(dt.Rows[i]["GradeID"].ToString()),
+                    CubicCapacity = dt.Rows[i]["CubicCapacity"].ToString(),
+                    GrWtx100 = Int32.Parse(dt.Rows[i]["GrWtx100"].ToString()),
+                    NtWtx100 = Int32.Parse(dt.Rows[i]["NtWtx100"].ToString()),
+                    TareWtx100 = Int32.Parse(dt.Rows[i]["TareWtx100"].ToString()),
+                    BoxOwnerID = Int32.Parse(dt.Rows[i]["BoxOwnerID"].ToString()),
+                    LeasingPartnerID = Int32.Parse(dt.Rows[i]["LeasingPartnerID"].ToString()),
+                    LeaseTermID = Int32.Parse(dt.Rows[i]["LeaseTermID"].ToString()),
+                    StatusID = Int32.Parse(dt.Rows[i]["StatusID"].ToString()),
+                    PickUpRefID = Int32.Parse(dt.Rows[i]["PickUpRefID"].ToString()),
+                    DtManufacture = dt.Rows[i]["DtManuf"].ToString(),
+                    DtOnHire = dt.Rows[i]["onHireDate"].ToString(),
+                });
+            }
+            return ListCntr;
+        }
+        public DataTable GetContainerRecord(MyContainerData Data)
+        {
+            string _Query = "select *,convert(varchar, DtManufacture, 103) as DtManuf,convert(varchar, DtOnHire, 103) as onHireDate  from NVO_Containers where ID=" + Data.ID;
+            return GetViewData(_Query, "");
+        }
+
+        #endregion
+
+        #region Lease Contract
+        public List<MyLease> ListPickUpCriteria(MyLease Data)
+        {
+            DataTable dt = GetPickUpCriteria();
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListLease.Add(new MyLease
+                {
+                    PickupCriteriaID = Int32.Parse(dt.Rows[i]["PickupCriteriaID"].ToString()),
+                    PickupCriteria = dt.Rows[i]["PickupCriteria"].ToString()
+                });
+            }
+            return ListLease;
+        }
+
+        public DataTable GetPickUpCriteria()
+        {
+            string _Query = "Select ID AS PickupCriteriaID, Generalname AS PickupCriteria  from NVO_GeneralMaster WHERE SEQNO = 15 ORDER BY Generalname";
+            return GetViewData(_Query, "");
+        }
+
+        public List<MyLease> DepotMaster()
+        {
+            List<MyLease> ChargeList = new List<MyLease>();
+            DataTable dt = GetDepotMaster();
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListLease.Add(new MyLease
+                {
+                    ID = Int32.Parse(dt.Rows[i]["ID"].ToString()),
+                    DepotName = dt.Rows[i]["DepName"].ToString()
+                });
+            }
+            return ListLease;
+        }
+
+        public DataTable GetDepotMaster()
+        {
+            string _Query = "select * from NVO_DepotMaster";
+            return GetViewData(_Query, "");
+        }
+        public List<MyLease> DepotByPortMaster(MyLease Data)
+        {
+            List<MyLease> ChargeList = new List<MyLease>();
+            DataTable dt = GetDepotByPortMaster(Data);
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListLease.Add(new MyLease
+                {
+                    ID = Int32.Parse(dt.Rows[i]["ID"].ToString()),
+                    DepotName = dt.Rows[i]["DepName"].ToString()
+                });
+            }
+            return ListLease;
+        }
+
+        public DataTable GetDepotByPortMaster(MyLease Data)
+        {
+            string _Query = "select * from NVO_DepotMaster Where ApplicablePortID= " + Data.ID;
+            return GetViewData(_Query, "");
+        }
+        public List<MyLease> CityMaster()
+        {
+            List<MyLease> ChargeList = new List<MyLease>();
+            DataTable dt = GetCityMaster();
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListLease.Add(new MyLease
+                {
+                    ID = Int32.Parse(dt.Rows[i]["ID"].ToString()),
+                    CityName = dt.Rows[i]["CityName"].ToString()
+                });
+            }
+            return ListLease;
+        }
+
+        public DataTable GetCityMaster()
+        {
+            string _Query = "select * from NVO_CityMaster order By CityName";
+            return GetViewData(_Query, "");
+        }
+
+        public List<MyLease> InsertLeasingContractMaster(MyLease Data)
+        {
+
+
+            DbConnection con = null;
+            DbTransaction trans;
+
+            try
+            {
+                con = _dbFactory.GetConnection();
+                con.Open();
+                trans = _dbFactory.GetTransaction(con);
+                DbCommand Cmd = _dbFactory.GetCommand();
+                Cmd.Connection = con;
+                Cmd.Transaction = trans;
+
+                try
+                {
+
+                    Cmd.CommandText = " IF((select count(*) from NVO_LeaseContract where ID=@ID)<=0) " +
+                                     " BEGIN " +
+                                     " INSERT INTO  NVO_LeaseContract(ContractRefNo,DtContract,DtContractFrom,DtContractTill,Description,LeasingPartnerID,LeaseTermID,PickupCriteriaID,Status,Remarks,CntrValue,CntrValueCurrID) " +
+                                     " values (@ContractRefNo,@DtContract,@DtContractFrom,@DtContractTill,@Description,@LeasingPartnerID,@LeaseTermID,@PickupCriteriaID,@Status,@Remarks,@CntrValue,@CntrValueCurrID) " +
+                                     " END  " +
+                                     " ELSE " +
+                                     " UPDATE NVO_LeaseContract SET ContractRefNo=@ContractRefNo,DtContract=@DtContract,DtContractFrom=@DtContractFrom,DtContractTill=@DtContractTill,Description=@Description,LeasingPartnerID=@LeasingPartnerID,LeaseTermID=@LeaseTermID,PickupCriteriaID=@PickupCriteriaID,Status=@Status,Remarks=@Remarks,CntrValue=@CntrValue,CntrValueCurrID=@CntrValueCurrID where ID=@ID";
+
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ID", Data.ID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ContractRefNo", Data.ContractRefNo));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@DtContract", System.DateTime.Now));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@DtContractFrom", DateTime.ParseExact(Data.DtContractFrom, "dd/MM/yyyy", null).ToString("MM/dd/yyyy")));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@DtContractTill", DateTime.ParseExact(Data.DtContractTill, "dd/MM/yyyy", null).ToString("MM/dd/yyyy")));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@Description", Data.Description));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@LeasingPartnerID", Data.LeasingPartnerID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@LeaseTermID", Data.LeaseTermID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@PickupCriteriaID", Data.PickupCriteriaID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@CntrValue", Data.CntrValue));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@CntrValueCurrID", Data.CntrValueCurrID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@Remarks", Data.Remarks));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@Status", Data.Status));
+                    int result = Cmd.ExecuteNonQuery();
+                    Cmd.Parameters.Clear();
+
+                    if (Data.ID == 0)
+                    {
+                        Cmd.CommandText = "select ident_current('NVO_LeaseContract')";
+                        Data.ID = Int32.Parse(Cmd.ExecuteScalar().ToString());
+                    }
+                    else
+                        Data.ID = Data.ID;
+
+                    string[] Array1 = Data.Items.Split(new[] { "Insert:" }, StringSplitOptions.None);
+
+                    Object[] ObjArray = Array1;
+
+                    string[] StrArray = Array.ConvertAll(ObjArray, Convert.ToString);
+                    for (int i = 1; i < StrArray.Length; i++)
+                    {
+
+                        ///Array = Array.Where(s => !String.IsNullOrEmpty(s)).ToArray();
+                        var CharSplit = StrArray[i].ToString().TrimEnd(',').Split(',');
+
+                        Cmd.CommandText = " IF((select count(*) from NVO_LeaseDetails where LeaseContractID=@LeaseContractID and LID=@LID)<=0) " +
+                                       " BEGIN " +
+                                       " INSERT INTO  NVO_LeaseDetails(LeaseContractID,CntrTypeID,CntrType,Qty,PickUpPortID,PickUpPort,PickUpTariffAmt,PickUpCurrID,PickUpCurr,PickUpDebitID,PickUpDebit,PickUpDepotID,PickUpDepot,PerDiemAmt,PerDiemCurrID,PerDiemCurr,FreeDays,DPPAmt,DPPCurrID,DPPCurr,DropOffPortID,DropOffPort,DropOffTariffAmt,DropOffCurrID,DropOffCurr,DropOffDebitID,DropOffDebit,DtAdded,HDIF,HDIFCurrID,HDIFCurr,HDOF,HDOFCurrID,HDOFCurr,DropOffDepotID,DropOffDepot) " +
+                                       " values (@LeaseContractID,@CntrTypeID,@CntrType,@Qty,@PickUpPortID,@PickUpPort,@PickUpTariffAmt,@PickUpCurrID,@PickUpCurr,@PickUpDebitID,@PickUpDebit,@PickUpDepotID,@PickUpDepot,@PerDiemAmt,@PerDiemCurrID,@PerDiemCurr,@FreeDays,@DPPAmt,@DPPCurrID,@DPPCurr,@DropOffPortID,@DropOffPort,@DropOffTariffAmt,@DropOffCurrID,@DropOffCurr,@DropOffDebitID,@DropOffDebit,@DtAdded,@HDIF,@HDIFCurrID,@HDIFCurr,@HDOF,@HDOFCurrID,@HDOFCurr,@DropOffDepotID,@DropOffDepot) " +
+                                       " END  " +
+                                       " ELSE " +
+                                       " UPDATE NVO_LeaseDetails SET LeaseContractID=@LeaseContractID,CntrTypeID=@CntrTypeID,CntrType=@CntrType,Qty=@Qty,PickUpPortID=@PickUpPortID,PickUpPort=@PickUpPort,PickUpTariffAmt=@PickUpTariffAmt,PickUpCurrID=@PickUpCurrID,PickUpCurr=@PickUpCurr,PickUpDebitID=@PickUpDebitID,PickUpDebit=@PickUpDebit,PickUpDepotID=@PickUpDepotID,PickUpDepot=@PickUpDepot,PerDiemAmt=@PerDiemAmt,PerDiemCurrID=@PerDiemCurrID,PerDiemCurr=@PerDiemCurr,FreeDays=@FreeDays,DPPAmt=@DPPAmt,DPPCurrID=@DPPCurrID,DPPCurr=@DPPCurr,DropOffPortID=@DropOffPortID,DropOffPort=@DropOffPort,DropOffTariffAmt=@DropOffTariffAmt,DropOffCurrID=@DropOffCurrID,DropOffCurr=@DropOffCurr,DropOffDebitID=@DropOffDebitID,DropOffDebit=@DropOffDebit,DtModified=@DtModified,HDIF=@HDIF,HDIFCurrID=@HDIFCurrID,HDIFCurr=@HDIFCurr,HDOF=@HDOF,HDOFCurrID=@HDOFCurrID,HDOFCurr=@HDOFCurr,DropOffDepotID=@DropOffDepotID,DropOffDepot=@DropOffDepot where LID=@LID and LeaseContractID=@LeaseContractID ";
+
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@LID", CharSplit[0]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@CntrTypeID", CharSplit[1]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@CntrType", CharSplit[2]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@Qty", CharSplit[3]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@FreeDays", CharSplit[4]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@PerDiemAmt", CharSplit[5]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@PerDiemCurrID", CharSplit[6]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@PerDiemCurr", CharSplit[7]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@DPPAmt", CharSplit[8]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@DPPCurrID", CharSplit[9]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@DPPCurr", CharSplit[10]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@PickUpDebitID", CharSplit[11]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@PickUpDebit", CharSplit[12]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@HDIF", CharSplit[13]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@HDIFCurrID", CharSplit[14]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@HDIFCurr", CharSplit[15]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@PickUpTariffAmt", CharSplit[16]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@PickUpCurrID", CharSplit[17]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@PickUpCurr", CharSplit[18]));
+
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@PickUpPortID", CharSplit[19]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@PickUpPort", CharSplit[20]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@PickUpDepotID", CharSplit[21]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@PickUpDepot", CharSplit[22]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@DropOffDebitID", CharSplit[23]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@DropOffDebit", CharSplit[24]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@HDOF", CharSplit[25]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@HDOFCurrID", CharSplit[26]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@HDOFCurr", CharSplit[27]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@DropOffTariffAmt", CharSplit[28]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@DropOffCurrID", CharSplit[29]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@DropOffCurr", CharSplit[30]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@DropOffPortID", CharSplit[31]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@DropOffPort", CharSplit[32]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@DropOffDepotID", CharSplit[33]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@DropOffDepot", CharSplit[34]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@LeaseContractID", Data.ID));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@DtModified", System.DateTime.Now));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@DtAdded", System.DateTime.Now));
+
+                        result = Cmd.ExecuteNonQuery();
+                        Cmd.Parameters.Clear();
+
+                    }
+                    trans.Commit();
+
+                    ListLease.Add(new MyLease { ID = Data.ID });
+                    return ListLease;
+
+                }
+                catch (Exception ex)
+                {
+                    string ss = ex.ToString();
+                    trans.Rollback();
+                    return ListLease;
+                }
+
+            }
+
+
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
+            finally
+            {
+                if (con != null && con.State != ConnectionState.Closed)
+                    con.Close();
+
+            }
+        }
+
+        public List<MyLeaseDetails> InsertLeaseDetails(MyLeaseDetails Data)
+        {
+
+
+            DbConnection con = null;
+            DbTransaction trans;
+
+            try
+            {
+                con = _dbFactory.GetConnection();
+                con.Open();
+                trans = _dbFactory.GetTransaction(con);
+                DbCommand Cmd = _dbFactory.GetCommand();
+                Cmd.Connection = con;
+                Cmd.Transaction = trans;
+
+                try
+                {
+                    Cmd.CommandText = "select ident_current('NVO_LeaseContract')";
+                    if (Data.LeaseContractID == 0)
+                        Data.LeaseContractID = Int32.Parse(Cmd.ExecuteScalar().ToString());
+                    else
+                        Data.LeaseContractID = Data.LeaseContractID;
+
+                    Cmd.CommandText = " IF((select count(*) from NVO_LeaseDetails where LID=@LID)<=0) " +
+                                     " BEGIN " +
+                                     " INSERT INTO  NVO_LeaseDetails(LeaseContractID,CntrTypeID,Qty,PickUpPortID,PickUpTariffAmt,PickUpCurrID,IsPickUpDebit,PickUpDepotID,PerDiemAmt,PerDiemCurrID,FreeDays,InsAmt,InsCurrID,DPPAmt,DPPCurrID,DropOffPortID,DropOffTariffAmt,DropOffCurrID,IsDropOffDebit,Remarks,DtAdded) " +
+                                     " values (@LeaseContractID,@CntrTypeID,@Qty,@PickUpPortID,@PickUpTariffAmt,@PickUpCurrID,@IsPickUpDebit,@PickUpDepotID,@PerDiemAmt,@PerDiemCurrID,@FreeDays,@InsAmt,@InsCurrID,@DPPAmt,@DPPCurrID,@DropOffPortID,@DropOffTariffAmt,@DropOffCurrID,@IsDropOffDebit,@Remarks,@DtAdded) " +
+                                     " END  " +
+                                     " ELSE " +
+                                     " UPDATE NVO_LeaseDetails SET LeaseContractID=@LeaseContractID,CntrTypeID=@CntrTypeID,Qty=@Qty,PickUpPortID=@PickUpPortID,PickUpTariffAmt=@PickUpTariffAmt,PickUpCurrID=@PickUpCurrID,IsPickUpDebit=@IsPickUpDebit,PickUpDepotID=@PickUpDepotID,PerDiemAmt=@PerDiemAmt,PerDiemCurrID=@PerDiemCurrID,FreeDays=@FreeDays,InsAmt=@InsAmt,InsCurrID=@InsCurrID,DPPAmt=@DPPAmt,DPPCurrID=@DPPCurrID,DropOffPortID=@DropOffPortID,DropOffTariffAmt=@DropOffTariffAmt,DropOffCurrID=@DropOffCurrID,IsDropOffDebit=@IsDropOffDebit,Remarks=@Remarks,DtModified=@DtModified where LID=@LID";
+
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@LID", Data.LID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@LeaseContractID", Data.LeaseContractID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@CntrTypeID", Data.CntrTypeID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@Qty", Data.Qty));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@PickUpPortID", Data.PickUpPortID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@PickUpTariffAmt", Data.PickUpTariffAmt));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@PickUpCurrID", Data.PickUpCurrID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@PickUpDebitID", Data.PickUpDebitID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@PickUpDepotID", Data.PickUpDepotID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@PerDiemAmt", Data.PerDiemAmt));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@PerDiemCurrID", Data.PerDiemCurrID));
+
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@FreeDays", Data.FreeDays));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@InsAmt", Data.InsAmt));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@InsCurrID", Data.InsCurrID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@DPPAmt", Data.DPPAmt));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@DPPCurrID", Data.DPPCurrID));
+
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@DropOffPortID", Data.DropOffPortID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@DropOffTariffAmt", Data.DropOffTariffAmt));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@DropOffCurrID", Data.DropOffCurrID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@DropOffDebitID", Data.DropOffDebitID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@Remarks", Data.Remarks));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@DtModified", System.DateTime.Now));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@DtAdded", System.DateTime.Now));
+                    int result = Cmd.ExecuteNonQuery();
+
+                    trans.Commit();
+                    return ListLeaseDtls;
+                }
+                catch (Exception ex)
+                {
+                    string ss = ex.ToString();
+                    trans.Rollback();
+                    return ListLeaseDtls;
+                }
+
+            }
+
+
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
+            finally
+            {
+                if (con != null && con.State != ConnectionState.Closed)
+                    con.Close();
+
+            }
+        }
+        public List<MyLease> LeaseContractMaster(MyLease Data)
+        {
+            DataTable dt = GetLeaseContractvalues(Data);
+
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+
+
+                ListLease.Add(new MyLease
+                {
+
+                    ID = Int32.Parse(dt.Rows[i]["ID"].ToString()),
+                    ContractRefNo = dt.Rows[i]["ContractRefNo"].ToString(),
+                    LeasingPartner = dt.Rows[i]["LeasingPartner"].ToString(),
+                    PickupCriteria = dt.Rows[i]["PickupCriteria"].ToString(),
+                    DtContractFrom = dt.Rows[i]["DtContractFrom"].ToString(),
+                    DtContractTill = dt.Rows[i]["DtContractTill"].ToString(),
+
+                });
+            }
+            return ListLease;
+        }
+
+        public DataTable GetLeaseContractvalues(MyLease Data)
+        {
+            string _Query = "Select LC.ID,LC.ContractRefNo,CM.CustomerName as LeasingPartner,GM.GeneralName as PickupCriteria,convert(varchar,LC.DtContractFrom, 106) As DtContractFrom,convert(varchar,LC.DtContractTill, 106) As DtContractTill from NVO_LeaseContract LC " +
+           " LEFT OUTER JOIN NVO_CustomerMaster CM ON CM.id = LC.LeasingPartnerID " +
+           " LEFT OUTER JOIN NVO_GeneralMaster GM ON GM.id = LC.PickupCriteriaID AND GM.SeqNo = 15 ";
+
+            string strWhere = "";
+
+            if (Data.ContractRefNo != "")
+                if (strWhere == "")
+                    strWhere += _Query + " where LC.ContractRefNo like '%" + Data.ContractRefNo + "%'";
+                else
+                    strWhere += " and LC.ContractRefNo like '%" + Data.ContractRefNo + "%'";
+
+            if (Data.LeasingPartnerID.ToString() != "" && Data.LeasingPartnerID.ToString() != "0" && Data.LeasingPartnerID.ToString() != null && Data.LeasingPartnerID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where LC.LeasingPartnerID=" + Data.LeasingPartnerID.ToString();
+                else
+                    strWhere += " and LC.LeasingPartnerID =" + Data.LeasingPartnerID.ToString();
+
+            if (Data.Status.ToString() == "1")
+                if (strWhere == "")
+                    strWhere += _Query + " where LC.Status =" + Data.Status.ToString();
+                else
+                    strWhere += " and LC.Status  =" + Data.Status.ToString();
+
+            if (strWhere == "")
+                strWhere = _Query;
+
+            return GetViewData(strWhere, "");
+
+
+        }
+
+        public List<MyLease> GetLeaseContractRecord(MyLease Data)
+        {
+            DataTable dt = GetLeaseContract(Data);
+
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                int St = 0;
+                if (dt.Rows[i]["Status"].ToString() != "")
+                {
+                    St = Int32.Parse(dt.Rows[i]["Status"].ToString());
+                }
+                else
+                {
+                    St = 0;
+                }
+
+                ListLease.Add(new MyLease
+                {
+
+                    ID = Int32.Parse(dt.Rows[i]["ID"].ToString()),
+                    ContractRefNo = dt.Rows[i]["ContractRefNo"].ToString(),
+                    LeasingPartnerID = Int32.Parse(dt.Rows[i]["LeasingPartnerID"].ToString()),
+                    LeaseTermID = Int32.Parse(dt.Rows[i]["LeaseTermID"].ToString()),
+                    PickupCriteriaID = Int32.Parse(dt.Rows[i]["PickupCriteriaID"].ToString()),
+                    Description = dt.Rows[i]["Description"].ToString(),
+                    DtContractFrom = dt.Rows[i]["DtContFrom"].ToString(),
+                    DtContractTill = dt.Rows[i]["DtContTill"].ToString(),
+                    Remarks = dt.Rows[i]["Remarks"].ToString(),
+                    CntrValue = dt.Rows[i]["CntrValue"].ToString(),
+                    CntrValueCurrID = Int32.Parse(dt.Rows[i]["CntrValueCurrID"].ToString()),
+                    Status = St.ToString(),
+                });
+            }
+            return ListLease;
+        }
+        public DataTable GetLeaseContract(MyLease Data)
+        {
+            string _Query = "select *,convert(varchar, DtContractFrom, 103) as DtContFrom," +
+                " convert(varchar, DtContractTill, 103) as DtContTill  from NVO_LeaseContract where ID=" + Data.ID;
+            return GetViewData(_Query, "");
+        }
+
+
+        public List<MyLeaseDetails> LeaseDetails(MyLeaseDetails Data)
+        {
+            DataTable dt = GetLeaseDetails(Data);
+
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+
+
+                ListLeaseDtls.Add(new MyLeaseDetails
+                {
+
+                    LID = Int32.Parse(dt.Rows[i]["LID"].ToString()),
+                    CntrTypeID = Int32.Parse(dt.Rows[i]["CntrTypeID"].ToString()),
+                    CntrType = dt.Rows[i]["CntrType"].ToString(),
+                    Qty = Int32.Parse(dt.Rows[i]["Qty"].ToString()),
+                    FreeDays = Int32.Parse(dt.Rows[i]["FreeDays"].ToString()),
+                    PerDiemAmt = Decimal.Parse(dt.Rows[i]["PerDiemAmt"].ToString()),
+                    PerDiemCurrID = Int32.Parse(dt.Rows[i]["PerDiemCurrID"].ToString()),
+                    PerDiemCurr = dt.Rows[i]["PerDiemCurr"].ToString(),
+                    DPPAmt = Decimal.Parse(dt.Rows[i]["DPPAmt"].ToString()),
+                    DPPCurrID = Int32.Parse(dt.Rows[i]["DPPCurrID"].ToString()),
+                    DPPCurr = dt.Rows[i]["DPPCurr"].ToString(),
+                    PickUpDebitID = Int32.Parse(dt.Rows[i]["PickUpDebitID"].ToString()),
+                    PickUpDebit = dt.Rows[i]["PickUpDebit"].ToString(),
+                    HDIF = Decimal.Parse(dt.Rows[i]["HDIF"].ToString()),
+                    HDIFCurrID = Int32.Parse(dt.Rows[i]["HDIFCurrID"].ToString()),
+                    HDIFCurr = dt.Rows[i]["HDIFCurr"].ToString(),
+                    PickUpTariffAmt = Decimal.Parse(dt.Rows[i]["PickUpTariffAmt"].ToString()),
+                    PickUpCurrID = Int32.Parse(dt.Rows[i]["PickUpCurrID"].ToString()),
+                    PickUpCurr = dt.Rows[i]["PickUpCurr"].ToString(),
+                    PickUpPortID = Int32.Parse(dt.Rows[i]["PickUpPortID"].ToString()),
+                    PickUpPort = dt.Rows[i]["PickUpPort"].ToString(),
+                    PickUpDepotID = Int32.Parse(dt.Rows[i]["PickUpDepotID"].ToString()),
+                    PickUpDepot = dt.Rows[i]["PickUpDepot"].ToString(),
+                    DropOffDebitID = Int32.Parse(dt.Rows[i]["DropOffDebitID"].ToString()),
+                    DropOffDebit = dt.Rows[i]["DropOffDebit"].ToString(),
+                    HDOF = Decimal.Parse(dt.Rows[i]["HDOF"].ToString()),
+                    HDOFCurrID = Int32.Parse(dt.Rows[i]["HDOFCurrID"].ToString()),
+                    HDOFCurr = dt.Rows[i]["HDOFCurr"].ToString(),
+                    DropOffTariffAmt = Decimal.Parse(dt.Rows[i]["DropOffTariffAmt"].ToString()),
+                    DropOffCurrID = Int32.Parse(dt.Rows[i]["DropOffCurrID"].ToString()),
+                    DropOffCurr = dt.Rows[i]["DropOffCurr"].ToString(),
+                    DropOffPortID = Int32.Parse(dt.Rows[i]["DropOffPortID"].ToString()),
+                    DropOffPort = dt.Rows[i]["DropOffPort"].ToString(),
+                    DropOffDepotID = Int32.Parse(dt.Rows[i]["DropOffDepotID"].ToString()),
+                    DropOffDepot = dt.Rows[i]["DropOffDepot"].ToString(),
+
+                });
+            }
+            return ListLeaseDtls;
+        }
+
+        public DataTable GetLeaseDetails(MyLeaseDetails Data)
+        {
+            string _Query = "select * from NVO_LeaseDetails where LeaseContractID = " + Data.LeaseContractID;
+
+            string strWhere = "";
+
+            if (strWhere == "")
+                strWhere = _Query;
+
+            return GetViewData(strWhere, "");
+
+
+        }
+
+
+        public List<MyLeaseDetails> GetLeaseDetailsEdit(MyLeaseDetails Data)
+        {
+            DataTable dt = LeaseDetailsEdit(Data);
+
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+
+                ListLeaseDtls.Add(new MyLeaseDetails
+                {
+                    ID = Int32.Parse(dt.Rows[i]["LID"].ToString()),
+                    CntrTypeID = Int32.Parse(dt.Rows[i]["CntrTypeID"].ToString()),
+                    Qty = Int32.Parse(dt.Rows[i]["Qty"].ToString()),
+                    PickUpPortID = Int32.Parse(dt.Rows[i]["PickUpPortID"].ToString()),
+                    PickUpTariffAmt = Decimal.Parse(dt.Rows[i]["PickUpTariffAmt"].ToString()),
+                    PickUpCurrID = Int32.Parse(dt.Rows[i]["PickUpCurrID"].ToString()),
+                    PickUpDebitID = Int32.Parse(dt.Rows[i]["PickUpDebitID"].ToString()),
+
+                    PickUpDepotID = Int32.Parse(dt.Rows[i]["PickUpDepotID"].ToString()),
+                    PerDiemAmt = Decimal.Parse(dt.Rows[i]["PerDiemAmt"].ToString()),
+                    PerDiemCurrID = Int32.Parse(dt.Rows[i]["PickUpCurrID"].ToString()),
+                    FreeDays = Int32.Parse(dt.Rows[i]["FreeDays"].ToString()),
+                    InsCurrID = Int32.Parse(dt.Rows[i]["InsCurrID"].ToString()),
+                    InsAmt = Decimal.Parse(dt.Rows[i]["InsAmt"].ToString()),
+                    DPPAmt = Decimal.Parse(dt.Rows[i]["DPPAmt"].ToString()),
+                    DPPCurrID = Int32.Parse(dt.Rows[i]["DPPCurrID"].ToString()),
+                    DropOffTariffAmt = Decimal.Parse(dt.Rows[i]["DropOffTariffAmt"].ToString()),
+                    DropOffCurrID = Int32.Parse(dt.Rows[i]["DropOffCurrID"].ToString()),
+                    DropOffPortID = Int32.Parse(dt.Rows[i]["DropOffPortID"].ToString()),
+                    DropOffDebitID = Int32.Parse(dt.Rows[i]["DropOffDebitID"].ToString()),
+                    Remarks = dt.Rows[i]["Remarks"].ToString(),
+                });
+            }
+            return ListLeaseDtls;
+
+        }
+        public DataTable LeaseDetailsEdit(MyLeaseDetails Data)
+        {
+            string _Query = "select * from NVO_LeaseDetails where LID=" + Data.ID;
+            return GetViewData(_Query, "");
+        }
+
+        public DataTable DeleteLeaseDetails(MyLeaseDetails Data)
+        {
+
+            string _Query = " Delete NVO_LeaseDetails where LID=" + Data.ID;
+            return GetViewData(_Query, "");
+        }
+        public List<MyLease> GetLeasePickUpDtls(string LeaseID)
+        {
+            DataTable dt = GetLeasePickUpDtlsValues(LeaseID);
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListLease.Add(new MyLease
+                {
+                    PID = Int32.Parse(dt.Rows[i]["PID"].ToString()),
+                    CntrTypeID = Int32.Parse(dt.Rows[i]["CntrTypeID"].ToString()),
+                    Quantity = Int32.Parse(dt.Rows[i]["Qty"].ToString()),
+                    PerDiemAmt = Decimal.Parse(dt.Rows[i]["PerDiemAmt"].ToString()),
+                    PerDiemAmountCurr = Int32.Parse(dt.Rows[i]["PerDiemAmountCurr"].ToString()),
+                    FreeDays = Int32.Parse(dt.Rows[i]["FreeDays"].ToString()),
+                    InsuranceAmt = Decimal.Parse(dt.Rows[i]["InsuranceAmt"].ToString()),
+                    InsuranceAmtCurr = Int32.Parse(dt.Rows[i]["PerDiemAmountCurr"].ToString()),
+                    PickUpLocID = Int32.Parse(dt.Rows[i]["PickUpLocID"].ToString()),
+                    PickUpTariffAmt = Decimal.Parse(dt.Rows[i]["PickUpTariffAmt"].ToString()),
+                    PickUpCurrID = Int32.Parse(dt.Rows[i]["PickUpCurrID"].ToString()),
+                    DebitCredit = Int32.Parse(dt.Rows[i]["DebitCredit"].ToString()),
+                    PickUpDepotID = Int32.Parse(dt.Rows[i]["PickUpDepotID"].ToString()),
+                });
+            }
+            return ListLease;
+        }
+        public DataTable GetLeasePickUpDtlsValues(string LeaseID)
+        {
+            string _Query = "Select * from NVO_LeasePickUpdtls where LeaseContractID=" + LeaseID;
+            return GetViewData(_Query, "");
+        }
+
+        public List<MyLease> GetLeaseDropUpDtls(string LeaseID)
+        {
+            DataTable dt = GetLeaseDropUpDtlsValues(LeaseID);
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListLease.Add(new MyLease
+                {
+                    DID = Int32.Parse(dt.Rows[i]["DID"].ToString()),
+                    CntrTypeID = Int32.Parse(dt.Rows[i]["CntrTypeID"].ToString()),
+                    Quantity = Int32.Parse(dt.Rows[i]["Qty"].ToString()),
+                    PerDiemAmt = Decimal.Parse(dt.Rows[i]["PerDiemAmt"].ToString()),
+                    PerDiemAmountCurr = Int32.Parse(dt.Rows[i]["PerDiemAmountCurr"].ToString()),
+                    FreeDays = Int32.Parse(dt.Rows[i]["FreeDays"].ToString()),
+                    InsuranceAmt = Decimal.Parse(dt.Rows[i]["InsuranceAmt"].ToString()),
+                    InsuranceAmtCurr = Int32.Parse(dt.Rows[i]["PerDiemAmountCurr"].ToString()),
+                    DropUpLocID = Int32.Parse(dt.Rows[i]["DropUpLocID"].ToString()),
+                    DropUpTariffAmt = Decimal.Parse(dt.Rows[i]["DropUpTariffAmt"].ToString()),
+                    DropUpCurrID = Int32.Parse(dt.Rows[i]["DropUpCurrID"].ToString()),
+                    DebitCredit = Int32.Parse(dt.Rows[i]["DebitCredit"].ToString()),
+                    DropUpDepotID = Int32.Parse(dt.Rows[i]["DropUpDepotID"].ToString()),
+                });
+            }
+            return ListLease;
+        }
+        public DataTable GetLeaseDropUpDtlsValues(string LeaseID)
+        {
+            string _Query = "Select * from NVO_LeaseDropUpdtls where LeaseContractID=" + LeaseID;
+            return GetViewData(_Query, "");
+        }
+        #endregion
+
+        #region ON-HIRE
+        public List<MyOnHire> ListPickUpReference(MyOnHire Data)
+        {
+            DataTable dt = GetPickUpReference();
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListOnHire.Add(new MyOnHire
+                {
+                    ID = Int32.Parse(dt.Rows[i]["ID"].ToString()),
+                    ContractRefNo = dt.Rows[i]["ContractRefNo"].ToString()
+                });
+            }
+            return ListOnHire;
+        }
+        public DataTable GetPickUpReference()
+        {
+            string _Query = "Select * FROM NVO_LeaseContract Order by ContractRefNo";
+            return GetViewData(_Query, "");
+        }
+
+        public List<MyLease> GetCntrTypesFromPickUp(string LeaseID)
+        {
+            DataTable dt = GetCntrTypesFromPickUpDtls(LeaseID);
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListLease.Add(new MyLease
+                {
+                    // LeaseContractID = Int32.Parse(dt.Rows[i]["CntrTypeID"].ToString()),
+                    TypeID = Int32.Parse(dt.Rows[i]["CntrTypeID"].ToString()),
+                    Size = dt.Rows[i]["Size"].ToString(),
+                    Quantity = Int32.Parse(dt.Rows[i]["Qty"].ToString()),
+                    Cntrcount = Int32.Parse(dt.Rows[i]["Cntrcount"].ToString()),
+                    LeaseTermID = Int32.Parse(dt.Rows[i]["LeaseTermID"].ToString()),
+                    LeasingPartnerID = Int32.Parse(dt.Rows[i]["LeasingPartnerID"].ToString()),
+                    LeaseTerm = dt.Rows[i]["LeaseTerm"].ToString(),
+                    LeasingPartner = dt.Rows[i]["LeasingPartner"].ToString(),
+
+                });
+            }
+            return ListLease;
+        }
+        public DataTable GetCntrTypesFromPickUpDtls(string LeaseID)
+        {
+            string _Query = "Select LC.ID as LeaseContractID, CntrTypeID,Size,Qty,A.Cntrcount as Cntrcount,LC.LeaseTermID,LC.LeasingPartnerID,GM.GENERALNAME AS LeaseTerm,CM.CustomerName AS LeasingPartner from NVO_LeaseDetails LP Inner Join NVO_tblCntrTypes TC on TC.ID = LP.CntrTypeID " +
+              " Inner Join NVO_LeaseContract LC on LC.ID = LP.LeaseContractID " +
+              "  Inner Join NVO_Generalmaster GM on GM.ID = LC.LeaseTermID AND GM.SEQNO = 13 " +
+         " Inner Join NVO_CustomerMaster CM on CM.ID = LC.LeasingPartnerID " +
+            "outer apply(Select count(CntrNo) as Cntrcount from NVO_Containers " +
+           " inner join NVO_LeaseDetails LP1 on LP1.LeaseContractID = NVO_Containers.PickUpRefID where NVO_Containers.PickUpRefID = " + LeaseID + "  ) A " +
+           " where LeaseContractID = " + LeaseID;
+            return GetViewData(_Query, "");
+        }
+
+        public List<MyOnHire> InsertOnHireRequestMaster(MyOnHire Data)
+        {
+
+
+            DbConnection con = null;
+            DbTransaction trans;
+
+            try
+            {
+                con = _dbFactory.GetConnection();
+                con.Open();
+                trans = _dbFactory.GetTransaction(con);
+                DbCommand Cmd = _dbFactory.GetCommand();
+                Cmd.Connection = con;
+                Cmd.Transaction = trans;
+
+                try
+                {
+                    if (Data.RequestNo == "")
+                    {
+                        string AutoGen = GetMaxseqNumber("OnHireNo", "1");
+                        Cmd.CommandText = "select 'OHR' + ('" + Data.AgentCode + "')  + ('" + Data.SessionFinYear.Substring(Data.SessionFinYear.Length - 2) + "') + RIGHT('0' + RTRIM(MONTH(getdate())), 2) + right('0000' + convert(varchar(4)," + AutoGen + "), 4)";
+                        Data.RequestNo = Cmd.ExecuteScalar().ToString();
+                    }
+
+                    Cmd.CommandText = " IF((select count(*) from NVO_ContainerOnHire where LeasePickUpRefID=@LeasePickUpRefID)<=0) " +
+                                     " BEGIN " +
+                                     " INSERT INTO  NVO_ContainerOnHire(RequestNo,LeasePickUpRefID,OnHireLeasingPartnerID,OnHireBoxOwnerID,DtCreated,Status,Remarks,LeasingTermID,IsApproved) " +
+                                     " values (@RequestNo,@LeasePickUpRefID,@OnHireLeasingPartnerID,@OnHireBoxOwnerID,@DtCreated,@Status,@Remarks,@LeasingTermID,@IsApproved) " +
+                                     " END  " +
+                                     " ELSE " +
+                                  " UPDATE NVO_ContainerOnHire SET RequestNo=@RequestNo,LeasePickUpRefID=@LeasePickUpRefID,OnHireLeasingPartnerID=@OnHireLeasingPartnerID,OnHireBoxOwnerID=@OnHireBoxOwnerID,Status=@Status,Remarks=@Remarks,LeasingTermID=@LeasingTermID,IsApproved=@IsApproved where LeasePickUpRefID=@LeasePickUpRefID";
+
+                    // Cmd.Parameters.Add(_dbFactory.GetParameter("@HID", Data.HID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@RequestNo", Data.RequestNo));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@LeasePickUpRefID", Data.PickUpRefID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@OnHireLeasingPartnerID", Data.LeasingPartnerID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@OnHireBoxOwnerID", Data.BoxOwnerID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@DtCreated", System.DateTime.Now));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@Status", Data.Status));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@Remarks", Data.Remarks));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@LeasingTermID", Data.LeasingTermID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@IsApproved", 0));
+                    int result = Cmd.ExecuteNonQuery();
+
+
+
+                    string[] Array = Data.ItemsCntrs.Split(new[] { "Insert:" }, StringSplitOptions.None);
+                    for (int i = 1; i < Array.Length; i++)
+                    {
+                        Data.CntrID = 0;
+                        Cmd.CommandText = "Select PickUpPortID from nvo_leasedetails WHERE LeaseContractID= " + Data.PickUpRefID;
+                        Data.PortID = Cmd.ExecuteScalar().ToString();
+
+                        Cmd.CommandText = "Select PickUpDepotID from nvo_leasedetails WHERE LeaseContractID= " + Data.PickUpRefID;
+
+                        Data.DepotID = Cmd.ExecuteScalar().ToString();
+
+                        var CharSplit = Array[i].ToString().TrimEnd(',').Split(',');
+
+
+                        Cmd.CommandText = " IF((select count(*) from NVO_Containers where ID=@ID)<=0) " +
+                                         " BEGIN " +
+                                         " INSERT INTO  NVO_Containers(CntrNo,TypeID,ISOCodeID,GradeID,CubicCapacity,DtManufacture,GrWtx100,NtWtx100,TareWtx100,DtOnHire,LeaseTermID,PickUpRefID,BoxOwnerID,LeasingPartnerID,statusID,ApplicableAtID,Statuscode,CurrentPortID,DepotID) " +
+                                         " values (@CntrNo,@TypeID,@ISOCodeID,@GradeID,@CubicCapacity,@DtManufacture,@GrWtx100,@NtWtx100,@TareWtx100,@DtOnHire,@LeaseTermID,@PickUpRefID,@BoxOwnerID,@LeasingPartnerID,@statusID,@ApplicableAtID,@Statuscode,@CurrentPortID,@DepotID) " +
+                                         " END  " +
+                                         " ELSE " +
+                                         " UPDATE NVO_Containers SET CntrNo=@CntrNo,TypeID=@TypeID,ISOCodeID=@ISOCodeID,GradeID=@GradeID,DtManufacture=@DtManufacture,GrWtx100=@GrWtx100,NtWtx100=@NtWtx100, TareWtx100=@TareWtx100,DtOnHire=@DtOnHire,LeaseTermID=@LeaseTermID,PickUpRefID=@PickUpRefID,BoxOwnerID=@BoxOwnerID,LeasingPartnerID=@LeasingPartnerID,statusID=@statusID,ApplicableAtID=@ApplicableAtID,Statuscode=@Statuscode,CurrentPortID=@CurrentPortID,DepotID=@DepotID where ID=@ID";
+
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@ID", CharSplit[0]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@CntrNo", CharSplit[1]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@TypeID", CharSplit[2]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@ISOCodeID", CharSplit[3]));
+
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@GradeID", CharSplit[4]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@CubicCapacity", CharSplit[5]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@GrWtx100", CharSplit[6]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@NtWtx100", CharSplit[7]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@TareWtx100", CharSplit[8]));
+
+                        //Cmd.Parameters.Add(_dbFactory.GetParameter("@DtManufacture", CharSplit[9], "ddd MMM dd yyyy HH:mm:ss 'GMT'zzz '(British Summer Time)'", CultureInfo.InvariantCulture));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@DtManufacture", DateTimeOffset.ParseExact(CharSplit[9], "ddd MMM dd yyyy HH:mm:ss 'GMT'zzz '(India Standard Time)'", CultureInfo.InvariantCulture)));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@DtOnHire", DateTimeOffset.ParseExact(CharSplit[11], "ddd MMM dd yyyy HH:mm:ss 'GMT'zzz '(India Standard Time)'", CultureInfo.InvariantCulture)));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@ApplicableAtID", CharSplit[10]));
+                        //Cmd.Parameters.Add(_dbFactory.GetParameter("@DtOnHire", System.DateTime.Now));
+
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@StatusID", 31));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@BoxOwnerID", Data.BoxOwnerID));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@LeasingPartnerID", Data.LeasingPartnerID));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@LeaseTermID", Data.LeasingTermID));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@PickUpRefID", Data.PickUpRefID));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@Statuscode", "OH"));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@CurrentPortID", Data.PortID));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@DepotID", Data.DepotID));
+                        Cmd.ExecuteNonQuery();
+                        Cmd.Parameters.Clear();
+
+                        if (CharSplit[0] == "")
+                        {
+                            Cmd.CommandText = "SELECT Ident_current('NVO_Containers')";
+                            Data.CntrID = Int32.Parse(Cmd.ExecuteScalar().ToString());
+
+                            string NewTxnsID = "0";
+                            Cmd.CommandText = "SELECT Ident_current('NVO_ContainerTxns') +1";
+                            NewTxnsID = Cmd.ExecuteScalar().ToString();
+
+
+                            Cmd.CommandText = " INSERT INTO  NVO_ContainerTxns(ContainerID,StatusCode,LocationID,DtMovement,NextPortID,DepotID,AgencyID,UserID) " +
+                                         " values (@ContainerID,@StatusCode,@LocationID,@DtMovement,@NextPortID,@DepotID,@AgencyID,@UserID) ";
+
+                            Cmd.Parameters.Add(_dbFactory.GetParameter("@ContainerID", Data.CntrID));
+                            Cmd.Parameters.Add(_dbFactory.GetParameter("@DtMovement", System.DateTime.Now));
+                            Cmd.Parameters.Add(_dbFactory.GetParameter("@NextPortID", Data.PortID));
+                            Cmd.Parameters.Add(_dbFactory.GetParameter("@LocationID", "3924"));
+                            Cmd.Parameters.Add(_dbFactory.GetParameter("@AgencyID", 1));
+                            Cmd.Parameters.Add(_dbFactory.GetParameter("@Statuscode", "OH"));
+                            Cmd.Parameters.Add(_dbFactory.GetParameter("@DepotID", Data.DepotID));
+                            Cmd.Parameters.Add(_dbFactory.GetParameter("@UserID", 1));
+                            Cmd.ExecuteNonQuery();
+                            Cmd.Parameters.Clear();
+
+
+                            Cmd.CommandText = "Update NVO_Containers SET LastMoveMentID=@LastMoveMentID where ID=@ID";
+                            Cmd.Parameters.Add(_dbFactory.GetParameter("@ID", Data.CntrID));
+                            Cmd.Parameters.Add(_dbFactory.GetParameter("@LastMoveMentID", NewTxnsID));
+                            result = Cmd.ExecuteNonQuery();
+                            Cmd.Parameters.Clear();
+                        }
+                    }
+
+                    trans.Commit();
+                    return ListOnHire;
+                }
+                catch (Exception ex)
+                {
+                    string ss = ex.ToString();
+                    trans.Rollback();
+                    return ListOnHire;
+                }
+
+            }
+
+
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
+            finally
+            {
+                if (con != null && con.State != ConnectionState.Closed)
+                    con.Close();
+
+            }
+        }
+        public List<MyOnHire> ListApplicableAtList(MyOnHire Data)
+        {
+            DataTable dt = GetApplicableAt();
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListOnHire.Add(new MyOnHire
+                {
+                    ID = Int32.Parse(dt.Rows[i]["ID"].ToString()),
+                    CustomerName = dt.Rows[i]["CustomerName"].ToString()
+                });
+            }
+            return ListOnHire;
+        }
+
+        public DataTable GetApplicableAt()
+        {
+            string _Query = "Select Id, CustomerName  from NVO_CustomerMaster ORDER BY CustomerName ";
+            return GetViewData(_Query, "");
+        }
+
+
+        public List<MyOnHire> OnHireRequest(MyOnHire Data)
+        {
+            DataTable dt = GetOnHireRequest(Data);
+
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+
+
+                ListOnHire.Add(new MyOnHire
+                {
+
+                    LeaseContractID = Int32.Parse(dt.Rows[i]["LeaseContractID"].ToString()),
+                    RequestNo = dt.Rows[i]["RequestNo"].ToString(),
+                    ContractRefNo = dt.Rows[i]["ContractRefNo"].ToString(),
+                    LeasingPartner = dt.Rows[i]["LeasingPartner"].ToString(),
+                    LeaseTerm = dt.Rows[i]["LeaseTerm"].ToString(),
+
+
+                });
+            }
+            return ListOnHire;
+        }
+
+        public DataTable GetOnHireRequest(MyOnHire Data)
+        {
+            string _Query = "select LC.ID AS LeaseContractID,RequestNo,LC.ContractRefNo,cm.CustomerName as LeasingPartner,GM.GeneralName As LeaseTerm from NVO_ContainerOnHire OH " +
+             " inner join NVO_LeaseContract LC on LC.ID = OH.LeasePickUpRefID " +
+            " inner join NVO_CustomerMaster CM on CM.ID = OH.OnHireLeasingPartnerID " +
+           " inner join NVO_GeneralMaster GM on GM.ID = OH.LeasingTermID  and GM.SeqNo = 13 ";
+
+            string strWhere = "";
+
+
+            if (Data.LeaseContractID.ToString() != "" && Data.LeaseContractID.ToString() != "0" && Data.LeaseContractID.ToString() != null && Data.LeaseContractID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where LC.ID=" + Data.LeaseContractID.ToString();
+                else
+                    strWhere += " and LC.ID =" + Data.LeaseContractID.ToString();
+
+
+            if (strWhere == "")
+                strWhere = _Query;
+
+            return GetViewData(strWhere, "");
+
+
+        }
+
+        public List<MyOnHire> OnHireRequestEditValues(MyOnHire Data)
+        {
+            DataTable dt = GetOnHireRequestValues(Data);
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                int St = 0;
+                if (dt.Rows[i]["Status"].ToString() != "")
+                {
+                    St = Int32.Parse(dt.Rows[i]["Status"].ToString());
+                }
+                else
+                {
+                    St = 0;
+                }
+                ListOnHire.Add(new MyOnHire
+                {
+                    //ID = Int32.Parse(dt.Rows[i]["ID"].ToString()),
+                    RequestNo = dt.Rows[i]["RequestNo"].ToString(),
+                    PickUpRefID = Int32.Parse(dt.Rows[i]["LeasePickUpRefID"].ToString()),
+                    LeasingPartnerID = Int32.Parse(dt.Rows[i]["OnHireLeasingPartnerID"].ToString()),
+                    BoxOwnerID = Int32.Parse(dt.Rows[i]["OnHireBoxOwnerID"].ToString()),
+                    LeasingTermID = Int32.Parse(dt.Rows[i]["LeasingTermID"].ToString()),
+                    Remarks = dt.Rows[i]["Remarks"].ToString(),
+                    Status = St
+                });
+            }
+            return ListOnHire;
+        }
+
+        public DataTable GetOnHireRequestValues(MyOnHire Data)
+        {
+            string _Query = "select * from NVO_ContainerOnHire WHERE LeasePickUpRefID =" + Data.ID;
+            return GetViewData(_Query, "");
+        }
+        public List<MyContainerData> LeaseExistingContainersValues(MyContainerData Data)
+        {
+            DataTable dt = GetLeaseExistingContainers(Data);
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListCntr.Add(new MyContainerData
+                {
+                    ID = Int32.Parse(dt.Rows[i]["ID"].ToString()),
+                    CntrNo = dt.Rows[i]["CntrNo"].ToString(),
+                    TypeID = Int32.Parse(dt.Rows[i]["TypeID"].ToString()),
+                    GradeID = Int32.Parse(dt.Rows[i]["GradeID"].ToString()),
+                    ISOCodeID = Int32.Parse(dt.Rows[i]["ISOCodeID"].ToString()),
+                    CubicCapacity = dt.Rows[i]["CubicCapacity"].ToString(),
+                    GrWtx100 = Int32.Parse(dt.Rows[i]["GrWtx100"].ToString()),
+                    NtWtx100 = Int32.Parse(dt.Rows[i]["NtWtx100"].ToString()),
+                    TareWtx100 = Int32.Parse(dt.Rows[i]["TareWtx100"].ToString()),
+                    DtManufacture = dt.Rows[i]["DtMf"].ToString(),
+                    ApplicableAtID = Int32.Parse(dt.Rows[i]["ApplicableAtID"].ToString()),
+                    DtOnHire = dt.Rows[i]["DtOnhr"].ToString(),
+                });
+            }
+            return ListCntr;
+        }
+
+        public DataTable GetLeaseExistingContainers(MyContainerData Data)
+        {
+            string _Query = "select ID, CntrNo,TypeID,ISOCodeID,GradeID,CubicCapacity,GrWtx100,NtWtx100,TareWtx100, convert(varchar, DtManufacture, 23) as DtMf,ApplicableAtID, convert(varchar, DtOnHire, 23) as DtOnhr from NVO_Containers WHERE PickUpRefID = " + Data.ID;
+            return GetViewData(_Query, "");
+        }
+
+        public DataTable ApproveOnHire(MyOnHire Data)
+        {
+
+            string _Query = " update NVO_ContainerOnHire set IsApproved=1 where LeasePickUpRefID=" + Data.ID;
+
+            return GetViewData(_Query, "");
+        }
+
+        public List<MyOnHire> CheckISApproveOnHire(MyOnHire Data)
+        {
+            DataTable dt = GetCheckISApproveOnHire(Data);
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListOnHire.Add(new MyOnHire
+                {
+                    Isapproved = Int32.Parse(dt.Rows[i]["Isapproved"].ToString()),
+
+                });
+            }
+            return ListOnHire;
+        }
+
+        public DataTable GetCheckISApproveOnHire(MyOnHire Data)
+        {
+            string _Query = "select Isapproved from NVO_ContainerOnHire where LeasePickUpRefID = " + Data.ID;
+            return GetViewData(_Query, "");
+        }
+        #endregion
+
+        #region OFF-HIRE
+        public List<MyOffHire> ListBindCntrNos(MyOffHire Data)
+        {
+            DataTable dt = GetBindCntrNos();
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListOffHire.Add(new MyOffHire
+                {
+                    ID = Int32.Parse(dt.Rows[i]["ID"].ToString()),
+                    CntrNo = dt.Rows[i]["CntrNo"].ToString(),
+
+                });
+            }
+            return ListOffHire;
+        }
+        public DataTable GetBindCntrNos()
+        {
+            string _Query = "select ID,TypeID,PickUpRefID,CntrNo from NVO_Containers order by CntrNo ";
+            return GetViewData(_Query, "");
+        }
+        public List<MyOffHire> ListBindOffHireCntrValues(MyOffHire Data)
+        {
+            DataTable dt = GetOffHireCntrValues(Data);
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListOffHire.Add(new MyOffHire
+                {
+                    SizeTypeID = Int32.Parse(dt.Rows[i]["SizeTypeID"].ToString()),
+                    Size = dt.Rows[i]["Size"].ToString(),
+                    PickUpRefID = Int32.Parse(dt.Rows[i]["PickUpRefID"].ToString()),
+                    ContractRefNo = dt.Rows[i]["ContractRefNo"].ToString(),
+                    LeasingPartnerID = Int32.Parse(dt.Rows[i]["LeasingPartnerID"].ToString()),
+                    LeasingPartner = dt.Rows[i]["LeasingPartner"].ToString(),
+                    LeasingTermID = Int32.Parse(dt.Rows[i]["LeasingTermID"].ToString()),
+                    LeasingTerm = dt.Rows[i]["LeasingTerm"].ToString()
+
+                }); ;
+            }
+            return ListOffHire;
+        }
+
+        public DataTable GetOffHireCntrValues(MyOffHire Data)
+        {
+            string _Query = " Select LC.ID AS PickupRefID, ContractRefNo ,CT.ID AS SizeTypeID,Ct.Size,CM.ID as LeasingPartnerID,CM.CustomerName as LeasingPartner,GM.ID As LeasingTermID, GM.GeneralName as LeasingTerm from  NVO_Containers C inner join NVO_LeaseContract LC on LC.ID = C.PickUpRefID inner join NVO_tblCntrTypes CT on CT.ID = C.TypeID " +
+              " inner join NVO_CustomerMaster CM on CM.ID =C.LeasingPartnerID inner join NVO_GeneralMaster GM on GM.ID = C.LeaseTermID  and GM.SeqNo = 13 where C.ID = " + Data.ID;
+            return GetViewData(_Query, "");
+        }
+
+        public List<MyOffHire> ListBindDropOffCurrAmtFromLease(MyOffHire Data)
+        {
+            DataTable dt = GetDropOffCurrAmtFromLease(Data);
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListOffHire.Add(new MyOffHire
+                {
+                    DropOffTariffCurrID = Int32.Parse(dt.Rows[i]["DropOffCurrID"].ToString()),
+                    CurrencyCode = dt.Rows[i]["CurrencyCode"].ToString(),
+                    DropOffTariff = Decimal.Parse(dt.Rows[i]["DropOffTariffAmt"].ToString()),
+                });
+            }
+            return ListOffHire;
+        }
+
+        public DataTable GetDropOffCurrAmtFromLease(MyOffHire Data)
+        {
+            string _Query = "select LD.DropOffCurrID,cm.CurrencyCode,LD.DropOffTariffAmt from NVO_LeaseDetails LD inner join NVO_CurrencyMaster CM on CM.ID = LD.DropOffCurrID where LD.LeaseContractID = " + Data.ID;
+            return GetViewData(_Query, "");
+        }
+
+        public List<MyOffHire> InsertOffHireRequest(MyOffHire Data)
+        {
+
+
+            DbConnection con = null;
+            DbTransaction trans;
+
+            try
+            {
+                con = _dbFactory.GetConnection();
+                con.Open();
+                trans = _dbFactory.GetTransaction(con);
+                DbCommand Cmd = _dbFactory.GetCommand();
+                Cmd.Connection = con;
+                Cmd.Transaction = trans;
+
+                try
+                {
+
+                    Cmd.CommandText = " IF((select count(*) from NVO_ContainerOffHire where ID=@ID)<=0) " +
+                                     " BEGIN " +
+                                     " INSERT INTO  NVO_ContainerOffHire(CntrID,SizeTypeID,LeasingPartnerID,LeasingTermID,PickupRefID,DropOffTariff,DropOffTariffCurrID,OffHirePortID,OffHireDepotID,DtOffHire,ResponseAgencyID,Remarks,CurrentDate) " +
+                                     " values (@CntrID,@SizeTypeID,@LeasingPartnerID,@LeasingTermID,@PickupRefID,@DropOffTariff,@DropOffTariffCurrID,@OffHirePortID,@OffHireDepotID,@DtOffHire,@ResponseAgencyID,@Remarks,@CurrentDate) " +
+                                     " END  " +
+                                     " ELSE " +
+                                     " UPDATE NVO_ContainerOffHire SET CntrID=@CntrID,SizeTypeID=@SizeTypeID,LeasingTermID=@LeasingTermID,PickupRefID=@PickupRefID,DropOffTariff=@DropOffTariff,DropOffTariffCurrID=@DropOffTariffCurrID,OffHirePortID=@OffHirePortID, OffHireDepotID=@OffHireDepotID,DtOffHire=@DtOffHire,ResponseAgencyID=@ResponseAgencyID,Remarks=@Remarks,CurrentDate=@CurrentDate where ID=@ID";
+
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ID", Data.ID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@CntrID", Data.CntrID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@SizeTypeID", Data.SizeTypeID));
+
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@PickupRefID", Data.PickUpRefID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@LeasingTermID", Data.LeasingTermID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@LeasingPartnerID", Data.LeasingPartnerID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@DropOffTariff", Data.DropOffTariff));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@DropOffTariffCurrID", Data.DropOffTariffCurrID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@OffHirePortID", Data.OffHirePortID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@OffHireDepotID", Data.OffHireDepotID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@DtOffHire", DateTime.ParseExact(Data.DtOffHire, "dd/MM/yyyy", null).ToString("MM/dd/yyyy")));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ResponseAgencyID", Data.ResponseAgencyID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@Remarks", Data.Remarks));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@CurrentDate", System.DateTime.Now));
+                    int result = Cmd.ExecuteNonQuery();
+
+                    Cmd.CommandText = "select ident_current('NVO_ContainerOffHire')";
+                    if (Data.ID == 0)
+                        Data.ID = Int32.Parse(Cmd.ExecuteScalar().ToString());
+                    else
+                        Data.ID = Data.ID;
+
+                    Cmd.CommandText = "Update NVO_Containers SET DtOffHire= '" + DateTime.ParseExact(Data.DtOffHire, "dd/MM/yyyy", null).ToString("MM/dd/yyyy") + "' , StatusID=32 Where ID=" + Data.CntrID;
+                    result = Cmd.ExecuteNonQuery();
+
+                    Cmd.Parameters.Clear();
+                    trans.Commit();
+                    return ListOffHire;
+                }
+                catch (Exception ex)
+                {
+                    string ss = ex.ToString();
+                    trans.Rollback();
+                    return ListOffHire;
+                }
+
+            }
+
+
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
+            finally
+            {
+                if (con != null && con.State != ConnectionState.Closed)
+                    con.Close();
+
+            }
+        }
+
+        public List<MyOffHire> OffHireRequest(MyOffHire Data)
+        {
+            DataTable dt = GetOffHireRequests(Data);
+
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+
+
+                ListOffHire.Add(new MyOffHire
+                {
+
+                    ID = Int32.Parse(dt.Rows[i]["ID"].ToString()),
+                    CntrNo = dt.Rows[i]["CntrNo"].ToString(),
+                    ContractRefNo = dt.Rows[i]["ContractRefNo"].ToString(),
+                    LeasingPartner = dt.Rows[i]["LeasingPartner"].ToString(),
+                    LeasingTerm = dt.Rows[i]["LeasingTerm"].ToString(),
+                    OffHireDepot = dt.Rows[i]["OffHireDepot"].ToString(),
+                    OffHirePort = dt.Rows[i]["OffHirePort"].ToString(),
+                    DtOffHire = dt.Rows[i]["DtOffHire"].ToString(),
+
+                });
+            }
+            return ListOffHire;
+        }
+
+        public DataTable GetOffHireRequests(MyOffHire Data)
+        {
+            string _Query = " Select OH.ID,c.CntrNo,LC.ContractRefNo,CM.CustomerName As LeasingPartner,GM.GeneralName as LeasingTerm, " +
+             " DM.DepName As OffHireDepot,PM.PortName AS OffHirePort,convert(varchar, OH.DtOffHire, 106) As DtOffHire from NVO_ContainerOffHire OH " +
+            " inner join NVO_Containers C on C.ID = OH.CntrID inner join NVO_LeaseContract LC on LC.ID = OH.PickUpRefID " +
+              " inner join NVO_CustomerMaster CM on CM.ID = OH.LeasingPartnerID " +
+            " inner join NVO_GeneralMaster GM on GM.ID = OH.LeasingTermID  and GM.SeqNo = 13 " +
+         " inner join NVO_DepotMaster DM on DM.ID = OH.OffHireDepotID " +
+         " inner join NVO_PortMaster PM on PM.ID = OH.OffHirePortID";
+
+            string strWhere = "";
+
+
+            if (Data.CntrID.ToString() != "" && Data.CntrID.ToString() != "0" && Data.CntrID.ToString() != null && Data.CntrID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where C.ID=" + Data.CntrID.ToString();
+                else
+                    strWhere += " and C.ID =" + Data.CntrID.ToString();
+
+            if (Data.LeasingPartnerID.ToString() != "" && Data.LeasingPartnerID.ToString() != "0" && Data.LeasingPartnerID.ToString() != null && Data.LeasingPartnerID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where OH.LeasingPartnerID=" + Data.LeasingPartnerID.ToString();
+                else
+                    strWhere += " and OH.LeasingPartnerID =" + Data.LeasingPartnerID.ToString();
+
+            if (Data.LeasingTermID.ToString() != "" && Data.LeasingTermID.ToString() != "0" && Data.LeasingTermID.ToString() != null && Data.LeasingTermID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where OH.LeasingTermID =" + Data.LeasingTermID.ToString();
+                else
+                    strWhere += " and OH.LeasingTermID =" + Data.LeasingTermID.ToString();
+
+            if (Data.OffHireDepotID.ToString() != "" && Data.OffHireDepotID.ToString() != "0" && Data.OffHireDepotID.ToString() != null && Data.OffHireDepotID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where OH.OffHireDepotID =" + Data.OffHireDepotID.ToString();
+                else
+                    strWhere += " and OH.OffHireDepotID =" + Data.OffHireDepotID.ToString();
+            if (Data.OffHirePortID.ToString() != "" && Data.OffHirePortID.ToString() != "0" && Data.OffHirePortID.ToString() != null && Data.OffHirePortID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where OH.OffHirePortID =" + Data.OffHirePortID.ToString();
+                else
+                    strWhere += " and OH.OffHirePortID =" + Data.OffHirePortID.ToString();
+
+            if (strWhere == "")
+                strWhere = _Query;
+
+            return GetViewData(strWhere, "");
+
+
+        }
+
+        public List<MyOffHire> GetOffHireRecord(MyOffHire Data)
+        {
+            DataTable dt = GetOffHireRecords(Data);
+
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+
+                ListOffHire.Add(new MyOffHire
+                {
+
+                    ID = Int32.Parse(dt.Rows[i]["ID"].ToString()),
+                    CntrID = Int32.Parse(dt.Rows[i]["CntrID"].ToString()),
+                    SizeTypeID = Int32.Parse(dt.Rows[i]["SizeTypeID"].ToString()),
+
+                    LeasingPartnerID = Int32.Parse(dt.Rows[i]["LeasingPartnerID"].ToString()),
+                    LeasingTermID = Int32.Parse(dt.Rows[i]["LeasingTermID"].ToString()),
+                    PickUpRefID = Int32.Parse(dt.Rows[i]["PickUpRefID"].ToString()),
+                    DropOffTariff = Decimal.Parse(dt.Rows[i]["DropOffTariff"].ToString()),
+                    DropOffTariffCurrID = Int32.Parse(dt.Rows[i]["DropOffTariffCurrID"].ToString()),
+                    OffHireDepotID = Int32.Parse(dt.Rows[i]["OffHireDepotID"].ToString()),
+                    OffHirePortID = Int32.Parse(dt.Rows[i]["OffHirePortID"].ToString()),
+                    ResponseAgencyID = Int32.Parse(dt.Rows[i]["ResponseAgencyID"].ToString()),
+                    DtOffHire = dt.Rows[i]["OffHireDate"].ToString(),
+                    Remarks = dt.Rows[i]["Remarks"].ToString(),
+                });
+            }
+            return ListOffHire;
+        }
+        public DataTable GetOffHireRecords(MyOffHire Data)
+        {
+            string _Query = "select *,convert(varchar, DtOffHire, 103) as OffHireDate  from NVO_ContainerOffHire where ID=" + Data.ID;
+            return GetViewData(_Query, "");
+        }
+        #endregion
+
+        #region Cntr Movement Entry
+
+        public List<MyCntrMoveMent> ListCntrStatusCodes(MyCntrMoveMent Data)
+        {
+            DataTable dt = GetStatusCodes();
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListCntrMv.Add(new MyCntrMoveMent
+                {
+                    ID = Int32.Parse(dt.Rows[i]["ID"].ToString()),
+                    StatusCode = dt.Rows[i]["StatusCode"].ToString()
+                });
+            }
+            return ListCntrMv;
+        }
+
+        public DataTable GetStatusCodes()
+        {
+            string _Query = "Select ID,StatusCode from NVO_ContainerStatusCodes order by ID";
+            return GetViewData(_Query, "");
+        }
+
+        public List<MyCntrMoveMent> ListTransitModes(MyCntrMoveMent Data)
+        {
+            DataTable dt = GetTransitModes();
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListCntrMv.Add(new MyCntrMoveMent
+                {
+                    ID = Int32.Parse(dt.Rows[i]["ID"].ToString()),
+                    GeneralName = dt.Rows[i]["GeneralName"].ToString()
+                });
+            }
+            return ListCntrMv;
+        }
+        public List<MyCntrMoveMent> CustomerMaster()
+        {
+            List<MyCreditControl> CustomerList = new List<MyCreditControl>();
+            DataTable dt = GetCustomerMaster();
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListCntrMv.Add(new MyCntrMoveMent
+                {
+                    ID = Int32.Parse(dt.Rows[i]["Id"].ToString()),
+                    CustomerName = dt.Rows[i]["CustomerName"].ToString()
+                });
+            }
+            return ListCntrMv;
+        }
+
+        public DataTable GetCustomerMaster()
+        {
+            string _Query = "select * from NVO_CustomerMaster";
+
+            return GetViewData(_Query, "");
+        }
+
+        public DataTable GetTransitModes()
+        {
+            string _Query = "select  * from NVO_GeneralMaster where Seqno=31";
+            return GetViewData(_Query, "");
+        }
+        public List<MyCntrMoveMent> ListCntrStatusCodesPossibleMoves(MyCntrMoveMent Data)
+        {
+            DataTable dt = GetCntrStatusCodesPossibleMoves(Data);
+
+
+            ArrayList list = new ArrayList();
+
+            for (int r = 0; r < dt.Rows.Count; r++)
+            {
+                //string[] TST = dt.Rows[r]["PossibleMoves"].ToString().Split(',');
+                //for (int r1 = 0; r1 < TST.Length; r1++)
+                //{
+                //    list.Add(TST[r1]);
+                //    ListCntrMv.Add(new MyCntrMoveMent
+                //    {
+                //        ItemsStatusCodes = TST[r1]
+                //    });
+                //}
+                ListCntrMv.Add(new MyCntrMoveMent
+                {
+                    ToStatus = dt.Rows[r]["ToStatus"].ToString()
+                });
+            }
+
+            return ListCntrMv;
+        }
+
+        public DataTable GetCntrStatusCodesPossibleMoves(MyCntrMoveMent Data)
+        {
+            string _Query = "select ToStatus FROM NVO_ContainerStatusPossibleMoves WHERE FromStatus='" + Data.StatusCode + "'";
+            return GetViewData(_Query, "");
+        }
+
+        public List<MyCntrMoveMent> InsertContainerTxnsData(MyCntrMoveMent Data)
+        {
+
+
+            DbConnection con = null;
+            DbTransaction trans;
+
+            try
+            {
+                con = _dbFactory.GetConnection();
+                con.Open();
+                trans = _dbFactory.GetTransaction(con);
+                DbCommand Cmd = _dbFactory.GetCommand();
+                Cmd.Connection = con;
+                Cmd.Transaction = trans;
+
+                try
+                {
+
+                    string NewTxnsID = "0";
+
+                    string[] Array = Data.ItemsCntrIDs.TrimEnd(',').Split(',');
+
+                    for (int i = 0; i < Array.Length; i++)
+                    {
+                        Cmd.CommandText = "SELECT Ident_current('NVO_ContainerTxns') +1";
+                        NewTxnsID = Cmd.ExecuteScalar().ToString();
+
+
+                        var CharSplit = Array[i].ToString().TrimEnd(',').Split(',');
+
+                        Cmd.CommandText = " INSERT INTO  NVO_ContainerTxns(ContainerID,LocationID,StatusCode,DtMovement,VesVoyID,NextPortID,ModeOfTransportID,DepotID,BLNumber,CustomerID,UserID,AgencyID) " +
+                                     " values (@ContainerID,@LocationID,@StatusCode,@DtMovement,@VesVoyID,@NextPortID,@ModeOfTransportID,@DepotID,@BLNumber,@CustomerID,@UserID,@AgencyID) ";
+
+
+                        //Cmd.Parameters.Add(_dbFactory.GetParameter("@ID", Data.ID));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@ContainerID", CharSplit[0]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@LocationID", Data.LocationID));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@StatusCode", Data.StatusCode));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@DtMovement", DateTime.Parse(Data.DtMovement).ToString("yyyy-MM-dd h:mm tt")));
+
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@VesVoyID", Data.VesVoyID));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@NextPortID", Data.NextPortID));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@ModeOfTransportID", Data.ModeOfTransportID));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@DepotID", Data.DepotID));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@BLNumber", Data.BLNumber));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@CustomerID", Data.CustomerID));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@AgencyID", Data.AgencyID));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@UserID", Data.UserID));
+                        Cmd.ExecuteNonQuery();
+
+
+                        Cmd.CommandText = "Update NVO_Containers set StatusCode=@StatusCode,CurrentPortID=@CurrentPortID,LastMoveMentID=@LastMoveMentID,UserID=@UserID,DtModified=@DtModified,VesVoyID=@VesVoyID,ModeOfTransportID=@ModeOfTransportID,DepotID=@DepotID,CustomerID=@CustomerID,AgencyID=@AgencyID where ID=@ID";
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@ID", CharSplit[0]));
+                        //Cmd.Parameters.Add(_dbFactory.GetParameter("@StatusCode", Data.StatusCode));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@CurrentPortID", Data.NextPortID));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@LastMoveMentID", NewTxnsID));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@DtModified", System.DateTime.Now));
+                        int result = Cmd.ExecuteNonQuery();
+                        Cmd.Parameters.Clear();
+                    }
+
+                    trans.Commit();
+
+                    ListCntrMv.Add(new MyCntrMoveMent { ID = Int32.Parse(NewTxnsID.ToString()) });
+
+                    return ListCntrMv;
+                }
+                catch (Exception ex)
+                {
+                    string ss = ex.ToString();
+                    trans.Rollback();
+                    return ListCntrMv;
+                }
+
+            }
+
+
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
+            finally
+            {
+                if (con != null && con.State != ConnectionState.Closed)
+                    con.Close();
+
+            }
+        }
+
+        public List<MyCntrMoveMent> ContainersTxnsViewValues(MyCntrMoveMent Data)
+        {
+            DataTable dt = GetContainersTxnsRec(Data);
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListCntrMv.Add(new MyCntrMoveMent
+                {
+                    CntrID = Int32.Parse(dt.Rows[i]["CntrID"].ToString()),
+                    FromPortID = Int32.Parse(dt.Rows[i]["CurrentPortID"].ToString()),
+                    CntrNo = dt.Rows[i]["CntrNo"].ToString(),
+                    Size = dt.Rows[i]["SIZE"].ToString(),
+                    StatusCode = dt.Rows[i]["StatusCode"].ToString(),
+                    DtMovement = dt.Rows[i]["DtMovement"].ToString(),
+                    VesVoy = dt.Rows[i]["VESVOY"].ToString(),
+                    FromPort = dt.Rows[i]["FromPort"].ToString(),
+                    // NextPort = dt.Rows[i]["NextPort"].ToString(),
+                    TransitMode = dt.Rows[i]["TransitMode"].ToString(),
+                    Depot = dt.Rows[i]["Depot"].ToString(),
+                    CustomerName = dt.Rows[i]["CustomerName"].ToString(),
+                });
+            }
+            return ListCntrMv;
+        }
+
+        public DataTable GetContainersTxnsRec(MyCntrMoveMent Data)
+        {
+            string _Query = "Select DISTINCT C.ID As CntrID,C.CntrNo,C.StatusCode,C.CurrentPortID," +
+              "(select top(1) DtMovement   from NVO_ContainerTxns where ID = C.ID order by DtMovement desc) AS DtMovement, " +
+            " (select top(1) Size   from NVO_tblCntrTypes where ID = C.TypeID) AS Size, " +
+           " (select top(1) PortName   from NVO_PortMaster where ID = C.CurrentPortID) AS FromPort," +
+          " (select top(1) GeneralName   from NVO_GeneralMaster where ID = C.ModeOfTransportID AND SeqNo = 31 ) AS TransitMode, " +
+        " (select top(1) DepName   from NVO_DepotMaster where ID = C.DepotID) AS Depot, " +
+       " (select top(1) CustomerName   from NVO_CustomerMaster where ID = C.CustomerID) AS CustomerName, VesVoy.VESVOY from NVO_Containers C " +
+       " outer apply(select VD.ID, (select top(1) VesselName from NVO_VesselMaster where ID = VD.VesID) +'-' + VD.VoyageNo as VESVOY from NVO_VoyageDetails VD WHERE VD.ID = C.VesVoyID) VesVoy ";
+            string strWhere = "";
+
+
+            if (Data.StatusCode != "")
+                if (strWhere == "")
+                    strWhere += _Query + " where C.StatusCode like '%" + Data.StatusCode + "%'";
+                else
+                    strWhere += " and C.StatusCode like '%" + Data.StatusCode + "%'";
+
+            if (Data.CntrID.ToString() != "" && Data.CntrID.ToString() != "0" && Data.CntrID.ToString() != null && Data.CntrID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where C.ID=" + Data.CntrID.ToString();
+                else
+                    strWhere += " and C.ID =" + Data.CntrID.ToString();
+
+
+            if (Data.CntrTypeID.ToString() != "" && Data.CntrTypeID.ToString() != "0" && Data.CntrTypeID.ToString() != null && Data.CntrTypeID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where C.TypeID=" + Data.CntrTypeID.ToString();
+                else
+                    strWhere += " and C.TypeID =" + Data.CntrTypeID.ToString();
+
+            //if (Data.LocationID.ToString() != "" && Data.LocationID.ToString() != "0" && Data.LocationID.ToString() != null && Data.LocationID.ToString() != "?")
+            //    if (strWhere == "")
+            //        strWhere += _Query + " Where C.NextPortID=" + Data.LocationID.ToString();
+            //    else
+            //        strWhere += " and C.NextPortID =" + Data.LocationID.ToString();
+
+            if (Data.VesVoyID.ToString() != "" && Data.VesVoyID.ToString() != "0" && Data.VesVoyID.ToString() != null && Data.VesVoyID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where C.VesVoyID=" + Data.VesVoyID.ToString();
+                else
+                    strWhere += " and C.VesVoyID =" + Data.VesVoyID.ToString();
+
+
+            if (strWhere == "")
+                strWhere = _Query;
+
+            return GetViewData(strWhere, "");
+
+        }
+
+        public List<MyCntrMoveMent> ContainersTxnEntryViewValues(MyCntrMoveMent Data)
+        {
+            DataTable dt = GetContainersTxnEntryViewRec(Data);
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListCntrMv.Add(new MyCntrMoveMent
+                {
+                    CntrID = Int32.Parse(dt.Rows[i]["CntrID"].ToString()),
+                    CntrNo = dt.Rows[i]["CntrNo"].ToString(),
+                    Size = dt.Rows[i]["SIZE"].ToString(),
+                    StatusCode = dt.Rows[i]["StatusCode"].ToString(),
+                    DtMovement = dt.Rows[i]["DtMovement"].ToString(),
+                    VesVoy = dt.Rows[i]["VESVOY"].ToString(),
+                    FromPort = dt.Rows[i]["FromPort"].ToString(),
+                    NextPort = dt.Rows[i]["NextPort"].ToString(),
+                    TransitMode = dt.Rows[i]["TransitMode"].ToString(),
+                    Depot = dt.Rows[i]["Depot"].ToString(),
+                    CustomerName = dt.Rows[i]["CustomerName"].ToString(),
+                });
+            }
+            return ListCntrMv;
+        }
+
+        public DataTable GetContainersTxnEntryViewRec(MyCntrMoveMent Data)
+        {
+            string _Query = "select TOP(1) C.ID As CntrID,C.CntrNo,T.SIZE,CT.Statuscode,CT.DtMovement,P.PortName as FromPort,P1.PortName AS NextPort, G.GeneralName as TransitMode,D.DepName As Depot,CM.CustomerName,VesVoy.VESVOY from " + " NVO_ContainerTxns CT Inner join NVO_Containers C ON C.ID = CT.ContainerID " +
+             " Inner join NVO_tblCntrTypes T ON T.ID = C.TypeID Inner join NVO_PortMaster P ON P.ID = CT.LocationID " +
+           " Inner join NVO_PortMaster P1 ON P1.ID = CT.NextPortID Inner join NVO_GeneralMaster G ON G.ID = CT.ModeOfTransportID AND G.SeqNo = 31 " +
+           " Inner join NVO_DepotMaster D ON D.ID = CT.DepotID Inner join NVO_CustomerMaster CM ON CM.ID = CT.CustomerID " +
+           " outer apply(select VD.ID, (select top(1) VesselName from NVO_VesselMaster where ID = VD.VesID) + '-' + VD.VoyageNo as VESVOY from NVO_VoyageDetails VD WHERE VD.ID = CT.VesVoyID) VesVoy where C.ID IN(" + Data.ItemsCntrIDs + ") Order by CT.DtMovement desc";
+            return GetViewData(_Query, "");
+        }
+
+        #endregion
+
+        #region ContainersTracking
+        public List<MyCntrMoveMent> ContainersTrackingViewValues(MyCntrMoveMent Data)
+        {
+            DataTable dt = GetContainersTrackingViewRec(Data);
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListCntrMv.Add(new MyCntrMoveMent
+                {
+                    CntrID = Int32.Parse(dt.Rows[i]["CntrID"].ToString()),
+                    TxnsID = Int32.Parse(dt.Rows[i]["TxnsID"].ToString()),
+                    CntrNo = dt.Rows[i]["CntrNo"].ToString(),
+                    AgencyName = dt.Rows[i]["AgencyName"].ToString(),
+                    Size = dt.Rows[i]["SIZE"].ToString(),
+                    StatusCode = dt.Rows[i]["StatusCode"].ToString(),
+                    DtMovement = dt.Rows[i]["DtMovement"].ToString(),
+                    VesVoy = dt.Rows[i]["VESVOY"].ToString(),
+                    FromPort = dt.Rows[i]["FromPort"].ToString(),
+                    NextPort = dt.Rows[i]["NextPort"].ToString(),
+                    TransitMode = dt.Rows[i]["TransitMode"].ToString(),
+                    Depot = dt.Rows[i]["Depot"].ToString(),
+                    BLNumber = dt.Rows[i]["BLNumber"].ToString(),
+                    CustomerName = dt.Rows[i]["CustomerName"].ToString(),
+                });
+            }
+            return ListCntrMv;
+        }
+
+        public DataTable GetContainersTrackingViewRec(MyCntrMoveMent Data)
+        {
+            string _Query = " select DISTINCT CT.ID As TxnsID,C.ID As CntrID,C.CntrNo, " +
+     " (select top(1) AgencyName from NVO_AgencyMaster where ID = C.ApplicableAtID) AS AgencyName, " +
+       " (select top(1) Size   from NVO_tblCntrTypes where ID = C.TypeID) AS SIZE, CT.Statuscode,CT.DtMovement, " +
+       " (select top(1) PortName from NVO_PortMaster where ID = CT.LocationID) as FromPort, " +
+          " (select top(1) PortName from NVO_PortMaster where ID = CT.NextPortID) as NextPort, " +
+       " (select top(1) GeneralName from NVO_GeneralMaster where ID = CT.ModeOfTransportID AND SeqNo = 31) as TransitMode," +
+        " (select top(1) DepName from NVO_DepotMaster where ID = CT.DepotID) as Depot," +
+         " (select top(1) BLNumber from NVO_BOL where ID = CT.BLNumber) as BLNumber," +
+       " (select top(1) CustomerName from NVO_CustomerMaster where ID = CT.CustomerID) as CustomerName,VesVoy.VESVOY from NVO_ContainerTxns CT " +
+     " INNER join NVO_Containers C ON C.ID = CT.ContainerID " +
+     " outer apply(select VD.ID, (select top(1) VesselName from NVO_VesselMaster where ID = VD.VesID) +'-' + VD.VoyageNo as VESVOY from NVO_VoyageDetails VD WHERE VD.ID = CT.VesVoyID) VesVoy ";
+
+
+            string strWhere = "";
+
+
+            if (Data.CntrID.ToString() != "" && Data.CntrID.ToString() != "0" && Data.CntrID.ToString() != null && Data.CntrID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where C.ID=" + Data.CntrID.ToString();
+                else
+                    strWhere += " and C.ID =" + Data.CntrID.ToString();
+
+
+            if (Data.CntrTypeID.ToString() != "" && Data.CntrTypeID.ToString() != "0" && Data.CntrTypeID.ToString() != null && Data.CntrTypeID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where C.TypeID=" + Data.CntrTypeID.ToString();
+                else
+                    strWhere += " and C.TypeID =" + Data.CntrTypeID.ToString();
+
+            if (Data.VesVoyID.ToString() != "" && Data.VesVoyID.ToString() != "0" && Data.VesVoyID.ToString() != null && Data.VesVoyID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where CT.VesVoyID=" + Data.VesVoyID.ToString();
+                else
+                    strWhere += " and CT.VesVoyID =" + Data.VesVoyID.ToString();
+
+            if (Data.BLID.ToString() != "" && Data.BLID.ToString() != "0" && Data.BLID.ToString() != null && Data.BLID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where CT.BLNumber=" + Data.BLID.ToString();
+                else
+                    strWhere += " and CT.BLNumber =" + Data.BLID.ToString();
+
+            if (Data.FromPortID.ToString() != "" && Data.FromPortID.ToString() != "0" && Data.FromPortID.ToString() != null && Data.FromPortID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where CT.LocationID=" + Data.FromPortID.ToString();
+                else
+                    strWhere += " and CT.LocationID =" + Data.FromPortID.ToString();
+
+            if (Data.NextPortID.ToString() != "" && Data.NextPortID.ToString() != "0" && Data.NextPortID.ToString() != null && Data.NextPortID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where CT.NextPortID=" + Data.NextPortID.ToString();
+                else
+                    strWhere += " and CT.NextPortID =" + Data.NextPortID.ToString();
+
+            if (Data.DepotID.ToString() != "" && Data.DepotID.ToString() != "0" && Data.DepotID.ToString() != null && Data.DepotID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where CT.DepotID=" + Data.DepotID.ToString();
+                else
+                    strWhere += " and CT.DepotID =" + Data.DepotID.ToString();
+
+            if (Data.CustomerID.ToString() != "" && Data.CustomerID.ToString() != "0" && Data.CustomerID.ToString() != null && Data.CustomerID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where CT.CustomerID=" + Data.CustomerID.ToString();
+                else
+                    strWhere += " and CT.CustomerID =" + Data.CustomerID.ToString();
+
+            if (strWhere == "")
+                strWhere = _Query;
+
+            return GetViewData(strWhere + "Order by CT.DtMovement desc ", "");
+
+        }
+
+
+        public List<MyCntrMoveMent> InvAmendmentEditValues(MyCntrMoveMent Data)
+        {
+            DataTable dt = GetInvAmendmentEditValues(Data);
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListCntrMv.Add(new MyCntrMoveMent
+                {
+                    DtMovement = dt.Rows[i]["DtMovement"].ToString(),
+                    VesVoyID = Int32.Parse(dt.Rows[i]["VesVoyID"].ToString()),
+                    LocationID = Int32.Parse(dt.Rows[i]["LocationID"].ToString()),
+                    NextPortID = Int32.Parse(dt.Rows[i]["NextPortID"].ToString()),
+                    ModeOfTransportID = Int32.Parse(dt.Rows[i]["ModeOfTransportID"].ToString()),
+                    DepotID = Int32.Parse(dt.Rows[i]["DepotID"].ToString()),
+                    BLID = Int32.Parse(dt.Rows[i]["BLNumber"].ToString()),
+                    CustomerID = Int32.Parse(dt.Rows[i]["CustomerID"].ToString()),
+                });
+            }
+            return ListCntrMv;
+        }
+
+        public DataTable GetInvAmendmentEditValues(MyCntrMoveMent Data)
+        {
+            string _Query = " Select  FORMAT(DtMovement, 'yyyy-MM-ddTHH:mm:ss') as DtMovement,isnull(VesVoyID,0) as VesVoyID,ISNULL(LocationID,0) AS LocationID,ISNULL(NextPortID,0) AS NextPortID,ISNULL(ModeOfTransportID, 0) AS ModeOfTransportID,ISNULL(DepotID, 0) AS DepotID, ISNULL(BLNumber, 0) AS BLNumber, ISNULL(CustomerID, 0) AS CustomerID from NVO_ContainerTxns where ID=" + Data.ID;
+
+            return GetViewData(_Query, "");
+
+        }
+
+
+        public List<MyCntrMoveMent> InventoryValidateAgencyLastMove(MyCntrMoveMent Data)
+        {
+            DataTable dt = GetValidateAgencyLastMove(Data);
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListCntrMv.Add(new MyCntrMoveMent
+                {
+                    LoginAgency = dt.Rows[i]["LoginAgency"].ToString(),
+                    OnHireAgency = dt.Rows[i]["OnHireAgency"].ToString(),
+
+                });
+            }
+            return ListCntrMv;
+        }
+
+        public DataTable GetValidateAgencyLastMove(MyCntrMoveMent Data)
+        {
+            string _Query = " select DISTINCT(select TOP(1) AM.AgencyName from NVO_Agencyportdtls AD Inner Join NVO_AgencyMaster AM on AM.ID = AD.AgencyID where agencyID =" + Data.AgencyID + ") AS LoginAgency, (select TOP(1) AM.AgencyName from NVO_Containers C INNER JOIN NVO_AgencyMaster AM ON AM.ID = C.ApplicableAtID where  C.ID = " + Data.CntrID + " )AS OnHireAgency FROM NVO_AgencyMaster ";
+
+            return GetViewData(_Query, "");
+
+        }
+
+        public List<MyCntrMoveMent> InventoryAmendmentUpdateCntrTxns(MyCntrMoveMent Data)
+        {
+
+
+            DbConnection con = null;
+            DbTransaction trans;
+
+            try
+            {
+                con = _dbFactory.GetConnection();
+                con.Open();
+                trans = _dbFactory.GetTransaction(con);
+                DbCommand Cmd = _dbFactory.GetCommand();
+                Cmd.Connection = con;
+                Cmd.Transaction = trans;
+
+                try
+                {
+
+                    Cmd.CommandText = "Update NVO_ContainerTxns set DtMovement =@DtMovement,VesVoyID=@VesVoyID,LocationID=@LocationID,NextPortID=@NextPortID,UserID=@UserID,ModeOfTransportID=@ModeOfTransportID,DepotID=@DepotID,CustomerID=@CustomerID,BLNumber=@BLNumber where ID=@ID";
+
+
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ID", Data.ID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@DtMovement", DateTime.Parse(Data.DtMovement).ToString("yyyy-MM-dd h:mm tt")));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@VesVoyID", Data.VesVoyID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@LocationID", Data.LocationID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@NextPortID", Data.NextPortID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@UserID", Data.UserID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ModeOfTransportID", Data.ModeOfTransportID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@DepotID", Data.DepotID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@CustomerID", Data.CustomerID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@BLNumber", Data.BLID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ContainerID", Data.CntrID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@CntrTxnsID", Data.ID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@DtAmended", System.DateTime.Now));
+                    int result = Cmd.ExecuteNonQuery();
+
+                    Cmd.CommandText = "INSERT INTO NVO_CntrTrackAmendLog (ContainerID,CntrTxnsID,UserID,DtAmended) VALUES (@ContainerID,@CntrTxnsID,@UserID,@DtAmended)";
+
+                    result = Cmd.ExecuteNonQuery();
+
+                    trans.Commit();
+
+                    return ListCntrMv;
+                }
+                catch (Exception ex)
+                {
+                    string ss = ex.ToString();
+                    trans.Rollback();
+                    return ListCntrMv;
+                }
+
+            }
+
+
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
+            finally
+            {
+                if (con != null && con.State != ConnectionState.Closed)
+                    con.Close();
+
+            }
+        }
+
+        #endregion
+
+        #region Inventory statuscode
+
+        public List<MyStatusCode> GetStatusCodeList(MyStatusCode Data)
+        {
+            DataTable dt = GetStatusCodeListRecord(Data);
+
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+
+                ListStCode.Add(new MyStatusCode
+                {
+
+                    ID = Int32.Parse(dt.Rows[i]["ID"].ToString()),
+                    Status = dt.Rows[i]["StatusCode"].ToString(),
+
+                });
+            }
+            return ListStCode;
+        }
+        public DataTable GetStatusCodeListRecord(MyStatusCode Data)
+        {
+            string _Query = "select * from NVO_ContainerStatusCodes";
+            return GetViewData(_Query, "");
+        }
+
+        public List<MyStatusCode> GetStatusDescriptionByStatusCode(MyStatusCode Data)
+        {
+            DataTable dt = GetStatusDescriptionByStatusCodeRecord(Data);
+
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+
+                ListStCode.Add(new MyStatusCode
+                {
+
+                    StatusDescription = dt.Rows[i]["StatusDescription"].ToString(),
+
+                });
+            }
+            return ListStCode;
+        }
+        public DataTable GetStatusDescriptionByStatusCodeRecord(MyStatusCode Data)
+        {
+            string _Query = "select * from NVO_ContainerStatusCodes where ID=" + Data.ID;
+            return GetViewData(_Query, "");
+        }
+
+        List<MyStatusCode> ListStCode = new List<MyStatusCode>();
+        public List<MyStatusCode> ViewInventoryStatusCodes(MyStatusCode Data)
+        {
+            DataTable dt = GetInventoryStatusCodes(Data);
+
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+
+
+                ListStCode.Add(new MyStatusCode
+                {
+
+                    ID = Int32.Parse(dt.Rows[i]["ID"].ToString()),
+                    Status = dt.Rows[i]["StatusCode"].ToString(),
+                    StatusDescription = dt.Rows[i]["StatusDescription"].ToString(),
+                    StatusResult = dt.Rows[i]["StatusResult"].ToString(),
+
+                });
+            }
+            return ListStCode;
+        }
+
+        public DataTable GetInventoryStatusCodes(MyStatusCode Data)
+        {
+            string _Query = "select ID,StatusCode,StatusDescription, case when status = 1 then 'Active' when status = 2 then 'Inactive' ELSE '' END as StatusResult  from NVO_ContainerStatusCodes";
+
+            string strWhere = "";
+
+            if (Data.Status != "")
+                if (strWhere == "")
+                    strWhere += _Query + " where StatusCode like '%" + Data.Status + "%'";
+                else
+                    strWhere += " and StatusCode like '%" + Data.Status + "%'";
+
+            if (Data.StatusID.ToString() != "" && Data.StatusID.ToString() != "0" && Data.StatusID.ToString() != null && Data.StatusID.ToString() != "?")
+                if (strWhere == "")
+                    strWhere += _Query + " Where status=" + Data.StatusID.ToString();
+                else
+                    strWhere += " and status =" + Data.StatusID.ToString();
+
+
+
+            if (strWhere == "")
+                strWhere = _Query;
+
+            return GetViewData(strWhere, "");
+
+
+        }
+
+        public List<MyStatusCode> GetStatusCodesEdit(MyStatusCode Data)
+        {
+            DataTable dt = GetStatusCodesRecord(Data);
+
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                int St = 2;
+                if (dt.Rows[i]["Status"].ToString() != "")
+                {
+                    St = Int32.Parse(dt.Rows[i]["Status"].ToString());
+                }
+                else
+                {
+                    St = 2;
+                }
+                ListStCode.Add(new MyStatusCode
+                {
+
+                    ID = Int32.Parse(dt.Rows[i]["ID"].ToString()),
+                    Status = dt.Rows[i]["StatusCode"].ToString(),
+                    StatusDescription = dt.Rows[i]["StatusDescription"].ToString(),
+                    StatusID = St,
+                    ValidVslVoy = Int32.Parse(dt.Rows[i]["ValidVslVoy"].ToString()),
+                    ValidNextLoc = Int32.Parse(dt.Rows[i]["ValidNextLoc"].ToString()),
+                    ValidTransMode = Int32.Parse(dt.Rows[i]["ValidTransMode"].ToString()),
+                    ValidDepot = Int32.Parse(dt.Rows[i]["ValidDepot"].ToString()),
+                    ValidBL = Int32.Parse(dt.Rows[i]["ValidBL"].ToString()),
+                    ValidCustomer = Int32.Parse(dt.Rows[i]["ValidCustomer"].ToString()),
+                });
+            }
+            return ListStCode;
+        }
+        public DataTable GetStatusCodesRecord(MyStatusCode Data)
+        {
+            string _Query = "select * from NVO_ContainerStatusCodes where ID=" + Data.ID;
+            return GetViewData(_Query, "");
+        }
+
+
+        public List<MyStatusCode> GetBindStatusCodePossiblemoves(MyStatusCode Data)
+        {
+            DataTable dt = GetStatusCodePossiblemoves(Data);
+
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+
+                ListStCode.Add(new MyStatusCode
+                {
+
+                    SID = Int32.Parse(dt.Rows[i]["SID"].ToString()),
+                    ToStatusID = Int32.Parse(dt.Rows[i]["ToStatusID"].ToString()),
+                    Status = dt.Rows[i]["ToStatus"].ToString(),
+                    StatusDescription = dt.Rows[i]["ToStatusDescription"].ToString(),
+
+                });
+            }
+            return ListStCode;
+        }
+        public DataTable GetStatusCodePossiblemoves(MyStatusCode Data)
+        {
+            string _Query = "select * from NVO_ContainerStatusPossibleMoves where StatusCodeID=" + Data.ID;
+            return GetViewData(_Query, "");
+        }
+
+        public List<MyStatusCode> InsertContainerStatusCreation(MyStatusCode Data)
+        {
+
+            DbConnection con = null;
+            DbTransaction trans;
+
+            try
+            {
+                con = _dbFactory.GetConnection();
+                con.Open();
+                trans = _dbFactory.GetTransaction(con);
+                DbCommand Cmd = _dbFactory.GetCommand();
+                Cmd.Connection = con;
+                Cmd.Transaction = trans;
+
+                try
+                {
+
+                    Cmd.CommandText = " IF((select count(*) from NVO_ContainerStatusCodes where ID=@ID)<=0) " +
+                                     " BEGIN " +
+                                     " INSERT INTO  NVO_ContainerStatusCodes(StatusCode,StatusDescription,Status,ValidVslVoy,ValidNextLoc,ValidTransMode,ValidDepot,ValidBL,ValidCustomer) " +
+                                     " values (@StatusCode,@StatusDescription,@Status,@ValidVslVoy,@ValidNextLoc,@ValidTransMode,@ValidDepot,@ValidBL,@ValidCustomer) " +
+                                     " END  " +
+                                     " ELSE " +
+                                     " UPDATE NVO_ContainerStatusCodes SET StatusCode=@StatusCode,StatusDescription=@StatusDescription,Status=@Status,ValidVslVoy=@ValidVslVoy,ValidNextLoc=@ValidNextLoc,ValidTransMode=@ValidTransMode,ValidDepot=@ValidDepot,ValidBL=@ValidBL,ValidCustomer=@ValidCustomer where ID=@ID";
+
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ID", Data.ID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@StatusCode", Data.Status));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@StatusDescription", Data.StatusDescription));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@Status", Data.StatusID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ValidVslVoy", Data.ValidVslVoy));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ValidNextLoc", Data.ValidNextLoc));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ValidTransMode", Data.ValidTransMode));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ValidDepot", Data.ValidDepot));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ValidBL", Data.ValidBL));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ValidCustomer", Data.ValidCustomer));
+
+                    int result = Cmd.ExecuteNonQuery();
+                    Cmd.Parameters.Clear();
+                    Cmd.CommandText = "select ident_current('NVO_ContainerStatusCodes')";
+                    if (Data.ID == 0)
+                        Data.ID = Int32.Parse(Cmd.ExecuteScalar().ToString());
+                    else
+                        Data.ID = Data.ID;
+
+                    string[] Array = Data.Itemsv.Split(new[] { "Insert:" }, StringSplitOptions.None);
+                    if (Array.Length != 1)
+                    {
+                        for (int i = 1; i < Array.Length; i++)
+                        {
+                            var CharSplit = Array[i].ToString().TrimEnd(',').Split(',');
+
+                            Cmd.CommandText = " IF((select count(*) from NVO_ContainerStatusPossibleMoves where StatusCodeID=@StatusCodeID and SID=@SID)<=0) " +
+                                         " BEGIN " +
+                                         " INSERT INTO  NVO_ContainerStatusPossibleMoves(StatusCodeID,ToStatusID,ToStatus,ToStatusDescription,FromStatus) " +
+                                         " values (@StatusCodeID,@ToStatusID,@ToStatus,@ToStatusDescription,@FromStatus) " +
+                                         " END  " +
+                                         " ELSE " +
+                                         " UPDATE NVO_ContainerStatusPossibleMoves SET StatusCodeID=@StatusCodeID,ToStatusID=@ToStatusID,ToStatus=@ToStatus,ToStatusDescription=@ToStatusDescription,FromStatus=@FromStatus where StatusCodeID=@StatusCodeID and SID=@SID";
+                            Cmd.Parameters.Add(_dbFactory.GetParameter("@SID", CharSplit[0]));
+                            Cmd.Parameters.Add(_dbFactory.GetParameter("@ToStatusID", CharSplit[1]));
+                            Cmd.Parameters.Add(_dbFactory.GetParameter("@ToStatus", CharSplit[2]));
+                            Cmd.Parameters.Add(_dbFactory.GetParameter("@ToStatusDescription", CharSplit[3]));
+                            Cmd.Parameters.Add(_dbFactory.GetParameter("@StatusCodeID", Data.ID));
+                            Cmd.Parameters.Add(_dbFactory.GetParameter("@FromStatus", Data.Status));
+                            result = Cmd.ExecuteNonQuery();
+                            Cmd.Parameters.Clear();
+
+                        }
+                    }
+                    trans.Commit();
+
+                    ListStCode.Add(new MyStatusCode { ID = Data.ID });
+                    return ListStCode;
+
+                }
+                catch (Exception ex)
+                {
+                    string ss = ex.ToString();
+                    trans.Rollback();
+                    return ListStCode;
+                }
+
+            }
+
+
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
+            finally
+            {
+                if (con != null && con.State != ConnectionState.Closed)
+                    con.Close();
+
+            }
+        }
+        #endregion
+        public string GetMaxseqNumber(string Prefix, string GeoLocId)
+        {
+            DbConnection con = null;
+
+            try
+            {
+                con = _dbFactory.GetConnection();
+                con.Open();
+                DbCommand cmd = _dbFactory.GetCommand();
+                cmd.Connection = con;
+
+                int sno = 0;
+                string Seqno = "0";
+
+                cmd.CommandText = "select Max(ISNULL(" + Prefix + ",0)) from NVO_SeqNo where GeoLocId=" + GeoLocId;
+                Seqno = cmd.ExecuteScalar().ToString();
+                if (Seqno == "")
+                {
+                    sno = int.Parse("1");
+                    Seqno = "1";
+                }
+                else if (Seqno == "0")
+                    sno = int.Parse("1");
+                else if (Seqno != "0")
+                    sno = int.Parse(Seqno) + 1;
+
+
+                cmd.CommandText = " IF ((SELECT COUNT(*) FROM NVO_SeqNo WHERE GeoLocId=" + GeoLocId + ")<=0)" +
+                                   " BEGIN  " +
+                                   " INSERT INTO NVO_SeqNo(GeoLocId," + Prefix + ")Values(" + GeoLocId + "," + sno.ToString() + ") " +
+                                   " END " +
+                                   " ELSE " +
+                                   " UPDATE NVO_SeqNo SET " + Prefix + "=" + sno.ToString() + " where GeoLocId=" + GeoLocId;
+                int result = cmd.ExecuteNonQuery();
+                return Seqno.ToString();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
+            finally
+            {
+                if (con != null && con.State != ConnectionState.Closed)
+                    con.Close();
+
+            }
+        }
+
+
+
+        #endregion
+
+        #region anand
+        public List<MyContainerRent> InsertContainerRentContract(MyContainerRent Data)
+        {
+
+            int r1 = 0;
+            int r2 = 0;
+            DbConnection con = null;
+            DbTransaction trans;
+
+            try
+            {
+                con = _dbFactory.GetConnection();
+                con.Open();
+                trans = _dbFactory.GetTransaction(con);
+                DbCommand Cmd = _dbFactory.GetCommand();
+                Cmd.Connection = con;
+                Cmd.Transaction = trans;
+
+                try
+                {
+
+                    Cmd.CommandText = " IF((select count(*) from NVO_ContRentContract where ID=@ID)<=0) " +
+                                     " BEGIN " +
+                                      " INSERT INTO  NVO_ContRentContract(TariffTypeID,ContainerType,ChargeTypeID,ChargesID,ChargeOwnerID,ShipmentTypeID,PortID,CustomerID,TerminalID,DepotID,StartingMove,EndingMove,AutoRunTypeID,ValidFrom,ValidTill,Status) " +
+                                     " values (@TariffTypeID,@ContainerType,@ChargeTypeID,@ChargesID,@ChargeOwnerID,@ShipmentTypeID,@PortID,@CustomerID,@TerminalID,@DepotID,@StartingMove,@EndingMove,@AutoRunTypeID,@ValidFrom,@ValidTill,@Status) " +
+                                     " END  " +
+                                     " ELSE " +
+                                     " UPDATE NVO_ContRentContract SET TariffTypeID=@TariffTypeID,ContainerType=@ContainerType,ChargeTypeID=@ChargeTypeID,ChargesID=@ChargesID,ChargeOwnerID=@ChargeOwnerID,ShipmentTypeID=@ShipmentTypeID,PortID=@PortID,CustomerID=@CustomerID,TerminalID=@TerminalID,DepotID=@DepotID,StartingMove=@StartingMove,EndingMove=@EndingMove,AutoRunTypeID=@AutoRunTypeID,ValidFrom=@ValidFrom,ValidTill=@ValidTill,Status=@Status where ID=@ID";
+
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ID", Data.ID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@TariffTypeID", Data.TariffTypeID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ContainerType", Data.ContainerType));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ChargeTypeID", Data.ChargeTypeID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ChargesID", Data.ChargesID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ChargeOwnerID", Data.ChargeOwnerID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ShipmentTypeID", Data.ShipmentTypeID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@PortID", Data.PortID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@CustomerID", Data.CustomerID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@TerminalID", Data.TerminalID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@DepotID", Data.DepotID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@StartingMove", Data.StartingMove));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@EndingMove", Data.EndingMove));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@AutoRunTypeID", Data.AutoRunTypeID));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ValidFrom", DateTime.ParseExact(Data.ValidFrom, "dd/MM/yyyy", null).ToString("MM/dd/yyyy")));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@ValidTill", DateTime.ParseExact(Data.ValidTill, "dd/MM/yyyy", null).ToString("MM/dd/yyyy")));
+                    Cmd.Parameters.Add(_dbFactory.GetParameter("@Status", Data.Status));
+
+                    int result = Cmd.ExecuteNonQuery();
+
+                    Cmd.CommandText = "select ident_current('NVO_ContRentContract')";
+                    if (Data.ID == 0)
+                        Data.ID = Int32.Parse(Cmd.ExecuteScalar().ToString());
+                    else
+                        Data.ID = Data.ID;
+
+
+
+                    string[] Array1 = Data.Itemsv1.Split(new[] { "Insert:" }, StringSplitOptions.None);
+                    for (int i = 1; i < Array1.Length; i++)
+                    {
+                        var CharSplit = Array1[i].ToString().TrimEnd(',').Split(',');
+
+                        Cmd.CommandText = " IF((select count(*) from NVO_ContRentTariffDtls where CID=@CID and RentID=@RentID)<=0) " +
+                                    " BEGIN " +
+                                    " INSERT INTO  NVO_ContRentTariffDtls(RentID,SlabFrom,SlabTo,CurrencyID,Amount) " +
+                                    " values (@RentID,@SlabFrom,@SlabTo,@CurrencyID,@Amount) " +
+                                    " END  " +
+                                    " ELSE " +
+                                    " UPDATE NVO_ContRentTariffDtls SET RentID=@RentID,SlabFrom=@SlabFrom,SlabTo=@SlabTo,CurrencyID=@CurrencyID,Amount=@Amount where CID=@CID and RentID=@RentID";
+
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@CID", CharSplit[0]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@RentID", Data.ID));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@SlabFrom", CharSplit[1]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@SlabTo", CharSplit[2]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@CurrencyID", CharSplit[3]));
+                        //Cmd.Parameters.Add(_dbFactory.GetParameter("@Currency", CharSplit[4]));
+                        Cmd.Parameters.Add(_dbFactory.GetParameter("@Amount", CharSplit[4]));
+
+                        result = Cmd.ExecuteNonQuery();
+                        Cmd.Parameters.Clear();
+
+                    }
+
+
+                    trans.Commit();
+
+                    ListContRent.Add(new MyContainerRent { ID = Data.ID });
+                    return ListContRent;
+
+
+                }
+                catch (Exception ex)
+                {
+                    string ss = ex.ToString();
+                    trans.Rollback();
+                    return ListContRent;
+                }
+
+            }
+
+
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
+            finally
+            {
+                if (con != null && con.State != ConnectionState.Closed)
+                    con.Close();
+
+            }
+        }
+
+        public List<MyContainerRent> ContainerRentViewMaster(MyContainerRent Data)
+        {
+            DataTable dt = GetContainerRentView(Data);
+
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+
+                ListContRent.Add(new MyContainerRent
+                {
+
+                    ID = Int32.Parse(dt.Rows[i]["ID"].ToString()),
+                    CustomerV = dt.Rows[i]["CustomerName"].ToString(),
+                    TariffTypeV = dt.Rows[i]["TariffTypeV"].ToString(),
+                    Size = dt.Rows[i]["Size"].ToString(),
+                    ShipmentTypeV = dt.Rows[i]["ShipmentTypeV"].ToString(),
+                    ChargeOwnerIDV = dt.Rows[i]["ChargeOwnerIDV"].ToString(),
+                    ValidFrom = dt.Rows[i]["ValidFrom"].ToString(),
+                    ValidTill = dt.Rows[i]["ValidTill"].ToString()
+
+                });
+            }
+            return ListContRent;
+        }
+
+        public DataTable GetContainerRentView(MyContainerRent Data)
+        {
+            string _Query = "select NVO_ContRentContract.ID,CustomerName,Tf.GeneralName as TariffTypeV,Size, " +
+                            " convert(varchar, ValidFrom, 103) as ValidFrom,convert(varchar, ValidTill, 103) as ValidTill, " +
+                            " Shp.GeneralName as ShipmentTypeV,Own.GeneralName as ChargeOwnerIDV from NVO_ContRentContract " +
+                            " Left Outer join NVO_GeneralMaster Tf ON Tf.ID = NVO_ContRentContract.TariffTypeID " +
+                            " Left Outer join NVO_CustomerMaster On NVO_CustomerMaster.ID = NVO_ContRentContract.CustomerID " +
+                            " Left Outer join NVO_tblCntrTypes On NVO_tblCntrTypes.ID = NVO_ContRentContract.ContainerType " +
+                            " Left Outer join NVO_GeneralMaster Shp On Shp.ID = NVO_ContRentContract.ShipmentTypeID " +
+                            " Left Outer join NVO_GeneralMaster Own On Own.ID = NVO_ContRentContract.ChargeOwnerID";
+            return GetViewData(_Query, "");
+
+
+        }
+
+        public List<MyContainerRent> GetContainerRentRecordMaster(string ID)
+        {
+            DataTable dt = GetContainerRentRecord(ID);
+
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListContRent.Add(new MyContainerRent
+                {
+                    ID = Int32.Parse(dt.Rows[i]["ID"].ToString()),
+                    TariffTypeID = Int32.Parse(dt.Rows[i]["TariffTypeID"].ToString()),
+                    ContainerType = Int32.Parse(dt.Rows[i]["ContainerType"].ToString()),
+                    ChargeTypeID = Int32.Parse(dt.Rows[i]["ChargeTypeID"].ToString()),
+                    ChargesID = Int32.Parse(dt.Rows[i]["ChargesID"].ToString()),
+                    ChargeOwnerID = Int32.Parse(dt.Rows[i]["ChargeOwnerID"].ToString()),
+                    ShipmentTypeID = Int32.Parse(dt.Rows[i]["ShipmentTypeID"].ToString()),
+                    PortID = Int32.Parse(dt.Rows[i]["PortID"].ToString()),
+                    CustomerID = Int32.Parse(dt.Rows[i]["CustomerID"].ToString()),
+                    TerminalID = Int32.Parse(dt.Rows[i]["TerminalID"].ToString()),
+                    DepotID = Int32.Parse(dt.Rows[i]["DepotID"].ToString()),
+                    StartingMove = Int32.Parse(dt.Rows[i]["StartingMove"].ToString()),
+                    EndingMove = Int32.Parse(dt.Rows[i]["EndingMove"].ToString()),
+                    AutoRunTypeID = Int32.Parse(dt.Rows[i]["AutoRunTypeID"].ToString()),
+                    ValidFrom = dt.Rows[i]["ValidFrom"].ToString(),
+                    ValidTill = dt.Rows[i]["ValidTill"].ToString(),
+                    Status = Int32.Parse(dt.Rows[i]["Status"].ToString())
+
+                });
+
+            }
+            return ListContRent;
+        }
+
+        public DataTable GetContainerRentRecord(string ID)
+        {
+            string _Query = "select convert(varchar, ValidFrom, 103) as ValidFrom,convert(varchar, ValidTill, 103) as ValidTill, * from NVO_ContRentContract where ID=" + ID;
+            return GetViewData(_Query, "");
+        }
+
+        public List<MyContainerRent> GetContainerRentTariffRecordMaster(MyContainerRent Data)
+        {
+            DataTable dt = GetContainerRentTariffRecord(Data);
+
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListContRent.Add(new MyContainerRent
+                {
+                    CID = Int32.Parse(dt.Rows[i]["CID"].ToString()),
+                    RentID = Int32.Parse(dt.Rows[i]["RentID"].ToString()),
+                    SlabFrom = dt.Rows[i]["SlabFrom"].ToString(),
+                    SlabTo = dt.Rows[i]["SlabTo"].ToString(),
+                    Currency = dt.Rows[i]["Currency"].ToString(),
+                    CurrencyID = Int32.Parse(dt.Rows[i]["CurrencyID"].ToString()),
+                    Amount = dt.Rows[i]["Amount"].ToString()
+                });
+
+            }
+            return ListContRent;
+        }
+
+        public DataTable GetContainerRentTariffRecord(MyContainerRent Data)
+        {
+            string _Query = "select CID,RentID,SlabFrom,SlabTo,CurrencyCode as Currency,CurrencyID,Amount from NVO_ContRentTariffDtls " +
+                            " inner join NVO_CurrencyMaster ON NVO_CurrencyMaster.ID = NVO_ContRentTariffDtls.CurrencyID where RentID=" + Data.RentID;
+            return GetViewData(_Query, "");
+        }
+
+        public List<MyContainerRent> GetRentTariffDelete(MyContainerRent Data)
+        {
+            DataTable dt = RentTariffDelete(Data);
+
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                ListContRent.Add(new MyContainerRent
+                {
+                    CID = Int32.Parse(dt.Rows[i]["CID"].ToString()),
+                    RentID = Int32.Parse(dt.Rows[i]["RentID"].ToString()),
+                    SlabFrom = dt.Rows[i]["SlabFrom"].ToString(),
+                    SlabTo = dt.Rows[i]["SlabTo"].ToString(),
+                    CurrencyID = Int32.Parse(dt.Rows[i]["CurrencyID"].ToString()),
+                    Amount = dt.Rows[i]["Amount"].ToString()
+                });
+
+            }
+            return ListContRent;
+        }
+
+        public DataTable RentTariffDelete(MyContainerRent Data)
+        {
+            string _Query = "Delete NVO_ContRentTariffDtls where CID=" + Data.CID;
+            return GetViewData(_Query, "");
+        }
+
+        #endregion
+
+
+    }
+}
+

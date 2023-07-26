@@ -1,0 +1,72 @@
+<div class="row headtitle">
+    <div class="col-md-9 col-sm-9 col-lg-9 col-xl-9">
+        <h4>UOM Master</h4>
+    </div>
+    <div class="col-md-3 col-sm-3 col-lg-3 col-xl-3 alrt">
+        <button type="button" class="btn btn-success btntop btn-raised bmd-btn-edit" (click)="onBack()"><i class="material-icons editicon">reply</i><div class="ripple-container"></div></button>
+    </div>
+</div>
+
+<form [formGroup]="uommasterForm">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group bmd-form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="str">UOM Code</label>
+                        <input type="text" name="UOMCode" formControlName="UOMCode" autocomplete="off" id="txtUOMCode" ng-model="txtTerminalCode" class="form-control">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group bmd-form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="str">UOM Description</label>
+                        <input type="text" name="UOMDesc" formControlName="UOMDesc" autocomplete="off" id="txtUOMDesc" ng-model="txtTerminalName" class="form-control">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group bmd-form-group">
+                <div class="row">
+                    <div class="col-md-12 input-field">
+                        <label>UOM Type</label>
+                        <select name="UOMType" formControlName="UOMType" id="ddlUOMType" class="form-control my-select">
+                            <option *ngFor="let UOMType of DsUOMCommon" [value]="UOMType.ID">
+                                {{UOMType.UOMTypes}}
+                            </option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="form-group bmd-form-group">
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Active</label>
+                        <select name="Status" formControlName="Status" id="ddlStatus" class="form-control my-select">
+                            <option *ngFor="let status of statusvalues" [value]="status.value">
+                                {{status.viewValue}}
+                            </option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="row alogtop">
+        <div class="col-md-12 col-sm-12 col-lg-12 col-xl-12 alrt">
+            <button type="submit" (click)="onSubmit()" class="btn btn-primary btn-raised mb-0">Save</button>
+        </div>
+        <input type="hidden" id="HDRegId" ng-model="HDRegId" />
+    </div>
+
+</form>
+
